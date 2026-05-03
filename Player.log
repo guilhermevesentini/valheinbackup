@@ -1,0 +1,3030 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.61f1 (74a0adb02c31)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
+kGfxThreadingModeSplitJobs is not supported on Direct3D 11. Reverting to kGfxThreadingModeClientWorkerJobs instead.
+GfxDevice: creating device client; kGfxThreadingModeClientWorkerJobs
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 (ID=0x2507)
+    Vendor:   NVIDIA
+    VRAM:     8042 MB
+    Driver:   32.0.15.9597
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.194 seconds
+- Finished resetting the current domain, in  0.002 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+Using Windows.Gaming.Input
+Input System polling thread started.
+<RI> Input initialized.
+UnloadTime: 1.491300 ms
+05/03/2026 12:42:24: Using environment steamid 892970
+05/03/2026 12:42:24: Using steam APPID:892970
+05/03/2026 12:42:24: Authentication:k_ESteamNetworkingAvailability_Attempting
+05/03/2026 12:42:24: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
+05/03/2026 12:42:24: Initialized platform!
+05/03/2026 12:42:24: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
+05/03/2026 12:42:24: All files in local storage save data:
+C:/Users/guizz/AppData/LocalLow/IronGate/Valheim\adminlist.txt (40)
+C:/Users/guizz/AppData/LocalLow/IronGate/Valheim\bannedlist.txt (41)
+C:/Users/guizz/AppData/LocalLow/IronGate/Valheim\permittedlist.txt (43)
+C:/Users/guizz/AppData/LocalLow/IronGate/Valheim\Player-prev.log (29898)
+C:/Users/guizz/AppData/LocalLow/IronGate/Valheim\Player.log (1827)
+05/03/2026 12:42:24: All files in platform save data:
+characters/ragnaldinho.fch (20787)
+characters/ragnaldinho.fch.old (20787)
+characters/ragnaldinho_backup_auto-20231222174133.fch (14824)
+characters/ragnaldinho_backup_auto-20231223002756.fch (17603)
+characters/ragnaldinho_backup_auto-20240105205045.fch (19896)
+characters/ragnaldinho_backup_auto-20240105225352.fch (21081)
+characters/vicent.fch.old (4240230)
+characters/vicent_backup_auto-20220910185436.fch (4238332)
+characters/vicent_backup_auto-20220915223915.fch (4238634)
+characters/vicent_backup_auto-20220916221101.fch (4239698)
+characters/vicent_backup_auto-20220917021110.fch (4240038)
+characters/vknight.fch (52113)
+characters/vknight.fch.old (51952)
+characters/vknight_backup_20231222-191056.fch (10276)
+characters/vknight_backup_auto-20260502122501.fch (52203)
+serverlist/favorite (54)
+serverlist/favorite.old (54)
+serverlist/recent (177)
+serverlist/recent.old (177)
+worlds/kingdomVicent.db (5893146)
+worlds/kingdomVicent.fwl (54)
+worlds/kingdomVicent_backup_auto-20240109210825.fwl (54)
+worlds/Vabows.db (17291809)
+worlds/Vabows.db.old (29355116)
+worlds/Vabows.fwl (61)
+worlds/Vabows.fwl.old (42)
+worlds/VicentKingdom.db.old (12894648)
+worlds/VicentKingdom.fwl.old (47)
+worlds/vicentWorld.db (1348776)
+worlds/vicentWorld.fwl (52)
+worlds/vicentWorld.fwl.old (47)
+worlds/vicentWorld_backup_20231222-191056.db (2029539)
+worlds/vicentWorld_backup_20231222-191056.fwl (47)
+worlds/vicentWorld_backup_auto-20220925192021.fwl (47)
+worlds/vicentWorld_backup_auto-20231228210526.db (1318308)
+worlds/vicentWorld_backup_auto-20231228210526.fwl (52)
+characters/vknight_backup_20260419-225836.fch (47213)
+worlds/kingdomVicent_backup_20260419-225836.fwl (54)
+worlds/kingdomVicent_backup_20260419-225836.db (5856011)
+worlds/vicentWorld_backup_20260419-230231.fwl (52)
+worlds/vicentWorld_backup_20260419-230231.db (1318308)
+characters/vknight_backup_auto-20260419232927.fch (47837)
+worlds/Vabows_backup_20260419-232928.fwl (47)
+worlds/Vabows_backup_20260419-232928.db (16519783)
+worlds/Vabows_backup_auto-20260419232928.fwl (47)
+worlds/Vabows_backup_auto-20260419232928.db (16552096)
+characters/vknight_backup_auto-20260424233231.fch (48719)
+worlds/Vabows_backup_auto-20260424233231.fwl (47)
+worlds/Vabows_backup_auto-20260424233231.db (16557162)
+characters/vknight_backup_auto-20260502095040.fch (50308)
+worlds/Vabows_backup_auto-20260502095040.fwl (61)
+worlds/Vabows_backup_auto-20260502095040.db (17257048)
+worlds/Vabows_backup_auto-20260502122501.fwl (61)
+worlds/Vabows_backup_auto-20260502122501.db (17287825)
+05/03/2026 12:42:24: Initializing preferences provider...
+05/03/2026 12:42:24: No preference provider available for this platform!
+05/03/2026 12:42:24: Set background loading budget to Low
+05/03/2026 12:42:24: Loading first scene!
+05/03/2026 12:42:24: Preferences initialized! Activating first scene!
+Unloading 4 Unused Serialized files (Serialized files now loaded: 8)
+UnloadTime: 0.040900 ms
+05/03/2026 12:42:24: 
+05/03/2026 12:42:25: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+05/03/2026 12:42:25: Set background loading budget to Normal
+05/03/2026 12:42:25: Loaded localization file #0 - 'localization' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #1 - 'localization_extra' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #2 - 'heightmap_message' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #3 - 'localization_witch' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #5 - 'localization_captions' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #0 - 'localization' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #1 - 'localization_extra' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #2 - 'heightmap_message' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #3 - 'localization_witch' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #5 - 'localization_captions' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
+05/03/2026 12:42:25: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
+Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 2460.
+Total: 2.133900 ms (FindLiveObjects: 0.137700 ms CreateObjectMapping: 0.078800 ms MarkObjects: 1.806200 ms  DeleteObjects: 0.111100 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+05/03/2026 12:42:29: Set background loading budget to High
+05/03/2026 12:42:29: GPU Device: 10DE:2507 (NVIDIA)
+Joystick connected ("Controller (XBOX 360 For Windows)").
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 3 Unused Serialized files (Serialized files now loaded: 20)
+05/03/2026 12:42:31: Set background loading budget to Low
+UnloadTime: 7.862800 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+05/03/2026 12:42:31: Missing audio clip in music respawn
+05/03/2026 12:42:31: Steam initialized, persona:v1centt-
+05/03/2026 12:42:31: Valheim version: 0.221.12 (network version 36)
+05/03/2026 12:42:31: Worldgenerator version setup:2
+05/03/2026 12:42:31: Render threading mode:LegacyJobified
+05/03/2026 12:42:31: Checking for installed DLCs
+05/03/2026 12:42:31: DLC:beta installed:False
+05/03/2026 12:42:31: Builder started
+05/03/2026 12:42:31: Sending PlayFab login request (attempt 1)
+05/03/2026 12:42:31: Starting music menu
+Unloading 93737 unused Assets to reduce memory usage. Loaded Objects now: 209473.
+Total: 144.775700 ms (FindLiveObjects: 19.794800 ms CreateObjectMapping: 30.011000 ms MarkObjects: 61.426200 ms  DeleteObjects: 33.543400 ms)
+
+05/03/2026 12:42:32: Session auth respons callback
+05/03/2026 12:42:33: Logged in PlayFab user via Steam auth session ticket
+05/03/2026 12:42:33: PlayFab local entity ID is 40EABB142B43AAA3
+05/03/2026 12:42:33: Released session ticket
+05/03/2026 12:42:35: show character selection
+05/03/2026 12:42:36: OnCharacterStart
+Joystick disconnected ("DualSense Wireless Controller").
+Joystick disconnected ("Controller (XBOX 360 For Windows)").
+05/03/2026 12:42:56: Loading main scene
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 3 Unused Serialized files (Serialized files now loaded: 21)
+UnloadTime: 12.688200 ms
+05/03/2026 12:42:56: Audioman already exist, destroying self
+05/03/2026 12:42:56: Steam initialized, persona:v1centt-
+05/03/2026 12:42:56: Loading player profile vknight
+05/03/2026 12:42:56: isModded: False
+05/03/2026 12:42:56: Zonesystem Awake 1810
+05/03/2026 12:42:56: DungeonDB Awake 1810
+05/03/2026 12:42:56: Steam initialized, persona:v1centt-
+05/03/2026 12:42:56: Worldgenerator version setup:1
+05/03/2026 12:42:58: Checking for installed DLCs
+05/03/2026 12:42:58: DLC:beta installed:False
+Unloading 375 unused Assets to reduce memory usage. Loaded Objects now: 207653.
+Total: 93.865500 ms (FindLiveObjects: 9.978000 ms CreateObjectMapping: 14.761600 ms MarkObjects: 68.579900 ms  DeleteObjects: 0.545700 ms)
+
+05/03/2026 12:42:58: Zonesystem Start 1810
+05/03/2026 12:42:58: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+05/03/2026 12:42:58: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+05/03/2026 12:42:58: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+05/03/2026 12:42:58: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+05/03/2026 12:42:58: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+05/03/2026 12:42:58: DungeonDB Start 1810
+05/03/2026 12:42:58: ZRpc timeout set to 30s 
+05/03/2026 12:42:58: ZNET START
+05/03/2026 12:42:58: Load world: Vabows (Vabows)
+05/03/2026 12:42:58: Loading 379978 zdos, my sessionID: 1466104105, data version: 37
+05/03/2026 12:42:58: Loading in ZDOs
+05/03/2026 12:42:59: Adding to Dictionary
+05/03/2026 12:42:59: Adding to Sectors
+05/03/2026 12:42:59: Connecting Portals, Spawners & ZSyncTransforms
+ConnectPortals => Connected 9 portals.
+ConnectSpawners => Connected 197 spawners and 531 'done' spawners.
+05/03/2026 12:42:59: Loaded 11188 locations
+05/03/2026 12:42:59: Unloading unused assets
+Unloading 1 Unused Serialized files (Serialized files now loaded: 21)
+05/03/2026 12:42:59: Registering lobby
+05/03/2026 12:42:59: Opened Steam server
+05/03/2026 12:42:59: Starting respawn
+05/03/2026 12:42:59: Loading minimap textures done [302ms]
+05/03/2026 12:42:59: Minimap: unpacking compressed mapData 18855 => 8394072 bytes
+05/03/2026 12:43:00: tip:$loadscreen_tip22
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 210020.
+Total: 145.477200 ms (FindLiveObjects: 13.352700 ms CreateObjectMapping: 16.376300 ms MarkObjects: 115.355800 ms  DeleteObjects: 0.392100 ms)
+
+05/03/2026 12:43:00: Lobby was created k_EResultOK  109775243855530000  error:False
+05/03/2026 12:43:00: Got requested lobby data
+05/03/2026 12:43:00: Got requested lobby data
+05/03/2026 12:43:04: Loading dungeon
+05/03/2026 12:43:04: Dungeon loaded with 36 rooms in 2,0439 ms.
+05/03/2026 12:43:04: Loading room prefabs asynchronously
+05/03/2026 12:43:04: Spawning dungeon
+05/03/2026 12:43:08: Spawned after 8,019993
+05/03/2026 12:43:08: Character ID for player ([Vknight, 0:0], [v1centt-, 0:0], v1centt-) was 0:0. Skipping.
+05/03/2026 12:43:08: Skipping unloading unused assets
+05/03/2026 12:43:08: Minimap: Adding unique location (-66.30, 36.95, 2.75)
+05/03/2026 12:43:08: Minimap: Adding unique location (-1852.08, 33.51, -2414.83)
+05/03/2026 12:43:10: Starting music blackforest
+05/03/2026 12:43:10: Resumed music blackforest at 0
+05/03/2026 12:45:44: Spawned FireFlies x 1
+05/03/2026 12:46:30: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:46:30: Setting selected recipe 0
+05/03/2026 12:46:40: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:46:40: Setting selected recipe 0
+05/03/2026 12:46:47: Spawned FireFlies x 1
+05/03/2026 12:46:50: Stopped music blackforest at 666448
+05/03/2026 12:46:50: Starting music blackforest
+05/03/2026 12:46:50: Resumed music blackforest at 666448
+05/03/2026 12:46:50: Stopped music blackforest at 4703
+05/03/2026 12:46:50: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+05/03/2026 12:46:50: New connection
+05/03/2026 12:46:50: Accepting connection k_EResultOK
+05/03/2026 12:46:50: Connecting to Steamworks.SteamNetworkingIdentity
+05/03/2026 12:46:50: Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
+05/03/2026 12:46:51: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+05/03/2026 12:46:51: Got handshake from client 76561197989682706
+05/03/2026 12:46:56: Starting music blackforest
+05/03/2026 12:46:56: Resumed music blackforest at 4703
+05/03/2026 12:46:57: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:46:57: Setting selected recipe 0
+05/03/2026 12:47:00: Stopped music blackforest at 176870
+05/03/2026 12:47:01: Network version check, their:36, mine:36
+05/03/2026 12:47:01: Server: New peer connected,sending global keys
+05/03/2026 12:47:06: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:06: Setting selected recipe 0
+05/03/2026 12:47:08: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:08: Setting selected recipe 0
+05/03/2026 12:47:08: Spawned FireFlies x 1
+05/03/2026 12:47:09: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:09: Setting selected recipe 0
+05/03/2026 12:47:11: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:11: Setting selected recipe 0
+05/03/2026 12:47:16: Got character ZDOID from Vabows : 3337577547:1
+05/03/2026 12:47:25: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:25: Setting selected recipe 0
+05/03/2026 12:47:27: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:27: Setting selected recipe 0
+05/03/2026 12:47:29: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:29: Setting selected recipe 0
+05/03/2026 12:47:31: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:31: Setting selected recipe 0
+05/03/2026 12:47:33: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:33: Setting selected recipe 0
+05/03/2026 12:47:34: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:34: Setting selected recipe 0
+05/03/2026 12:47:35: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:35: Setting selected recipe 0
+05/03/2026 12:47:37: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:37: Setting selected recipe 0
+05/03/2026 12:47:38: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:38: Setting selected recipe 0
+05/03/2026 12:47:40: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:40: Setting selected recipe 0
+05/03/2026 12:47:41: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:41: Setting selected recipe 0
+05/03/2026 12:47:42: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:42: Setting selected recipe 0
+05/03/2026 12:47:43: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:43: Setting selected recipe 0
+05/03/2026 12:47:44: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:44: Setting selected recipe 0
+05/03/2026 12:47:46: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:46: Setting selected recipe 0
+05/03/2026 12:47:47: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:47:47: Setting selected recipe 0
+05/03/2026 12:47:49: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:47:49: Setting selected recipe 0
+05/03/2026 12:47:50: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:47:50: Setting selected recipe 0
+05/03/2026 12:47:50: Spawned FireFlies x 1
+05/03/2026 12:47:50: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:47:50: Setting selected recipe 0
+05/03/2026 12:47:53: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:47:53: Setting selected recipe 0
+05/03/2026 12:47:55: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:47:55: Setting selected recipe 0
+05/03/2026 12:47:59: Starting music blackforest
+05/03/2026 12:47:59: Resumed music blackforest at 176870
+05/03/2026 12:48:03: Stopped music blackforest at 176870
+05/03/2026 12:48:09: Starting music blackforest
+05/03/2026 12:48:09: Resumed music blackforest at 176870
+05/03/2026 12:48:13: Stopped music blackforest at 353740
+05/03/2026 12:48:15: Starting music morning
+05/03/2026 12:48:49: Starting music meadows
+05/03/2026 12:48:49: Resumed music meadows at 0
+05/03/2026 12:48:50: Stopped music meadows at 81849
+05/03/2026 12:48:50: Starting music blackforest
+05/03/2026 12:48:50: Resumed music blackforest at 353740
+05/03/2026 12:49:05: Stopped music blackforest at 627513
+05/03/2026 12:49:05: Starting music meadows
+05/03/2026 12:49:05: Resumed music meadows at 81849
+05/03/2026 12:49:05: Stopped music meadows at 9407
+05/03/2026 12:49:05: Starting music home
+05/03/2026 12:49:07: Stopped music home at 100665
+05/03/2026 12:49:07: Starting music meadows
+05/03/2026 12:49:07: Resumed music meadows at 9407
+05/03/2026 12:49:13: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 12:49:20: Setting selected recipe 0
+05/03/2026 12:49:23: Player 3337577547 wants to open piece_chest(Clone)   im: 1466104105
+05/03/2026 12:49:31: Setting selected recipe 0
+05/03/2026 12:49:33: Update PlayFab entity token
+05/03/2026 12:49:35: Setting selected recipe 0
+05/03/2026 12:49:40: Setting selected recipe 0
+05/03/2026 12:49:41: Setting selected recipe 0
+05/03/2026 12:49:58: Player 3337577547 wants to open piece_chest(Clone)   im: 1466104105
+05/03/2026 12:50:37: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:40: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:42: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:43: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:45: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:46: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:47: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:48: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:49: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:49: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:50: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:53: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:54: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:54: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:55: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:55: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:56: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:56: Placed piece_dvergr_stake_wall
+05/03/2026 12:50:57: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:01: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:22: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:51:22: Setting selected recipe 26
+05/03/2026 12:51:28: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:51:28: Setting selected recipe 26
+05/03/2026 12:51:39: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:39: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:39: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:40: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:40: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:41: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:41: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:41: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:42: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:42: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:43: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:43: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:43: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:44: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:44: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:45: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:45: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:46: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:46: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:46: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:47: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:47: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:48: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:48: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:49: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:49: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:49: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:50: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:50: Placed piece_dvergr_stake_wall
+05/03/2026 12:51:51: Placed piece_dvergr_stake_wall
+05/03/2026 12:52:02: Setting selected recipe 26
+05/03/2026 12:52:03: Setting selected recipe 26
+05/03/2026 12:52:03: Setting selected recipe 26
+05/03/2026 12:52:03: Setting selected recipe 26
+05/03/2026 12:52:03: Setting selected recipe 26
+05/03/2026 12:52:03: Setting selected recipe 26
+05/03/2026 12:52:03: Setting selected recipe 26
+05/03/2026 12:52:35: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:52:35: Setting selected recipe 26
+05/03/2026 12:52:39: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:52:39: Setting selected recipe 26
+05/03/2026 12:52:45: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:52:45: Setting selected recipe 26
+05/03/2026 12:52:48: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:52:48: Setting selected recipe 26
+05/03/2026 12:52:51: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:52:51: Setting selected recipe 26
+05/03/2026 12:52:54: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:52:54: Setting selected recipe 26
+05/03/2026 12:53:26: Stopped music meadows at 1696331
+05/03/2026 12:53:26: Starting music blackforest
+05/03/2026 12:53:26: Resumed music blackforest at 627513
+05/03/2026 12:53:26: Setting selected recipe 26
+05/03/2026 12:53:30: Setting selected recipe 26
+05/03/2026 12:53:32: Setting selected recipe 26
+05/03/2026 12:53:33: Setting selected recipe 26
+05/03/2026 12:54:01: Stopped music blackforest at 2159135
+05/03/2026 12:54:01: Starting music meadows
+05/03/2026 12:54:01: Resumed music meadows at 1696331
+05/03/2026 12:54:49: Spawned Boar x 1
+05/03/2026 12:54:49: Spawned Greyling x 1
+05/03/2026 12:54:52: Destroying old picked Pickable_ForestCryptRemains03(Clone)
+05/03/2026 12:54:52: Destroying old picked Pickable_ForestCryptRemains02(Clone)
+05/03/2026 12:54:52: Destroying old picked Pickable_ForestCryptRemains01(Clone)
+05/03/2026 12:54:56: Setting selected recipe 26
+05/03/2026 12:54:58: Setting selected recipe 26
+05/03/2026 12:55:07: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:55:07: Setting selected recipe 26
+05/03/2026 12:55:13: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:55:13: Setting selected recipe 26
+05/03/2026 12:55:15: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:55:15: Setting selected recipe 26
+05/03/2026 12:55:19: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:55:19: Setting selected recipe 26
+05/03/2026 12:55:21: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:55:21: Setting selected recipe 26
+05/03/2026 12:55:22: DO THE THING WITH THE LEVER!
+05/03/2026 12:55:23: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:55:23: Setting selected recipe 26
+05/03/2026 12:55:27: Lever return
+05/03/2026 12:55:28: Setting selected recipe 26
+05/03/2026 12:55:29: Setting selected recipe 26
+05/03/2026 12:55:35: Setting selected recipe 26
+05/03/2026 12:55:41: Item is not in this container
+05/03/2026 12:55:41: Setting selected recipe 26
+05/03/2026 12:55:43: Setting selected recipe 26
+05/03/2026 12:55:47: Setting selected recipe 26
+05/03/2026 12:55:51: Setting selected recipe 41
+05/03/2026 12:55:54: Queue unlock msg:$msg_newitem:$item_bolt_iron
+05/03/2026 12:55:54: Setting selected recipe 41
+05/03/2026 12:55:56: Setting selected recipe 41
+05/03/2026 12:55:58: Setting selected recipe 40
+05/03/2026 12:56:00: Setting selected recipe 39
+05/03/2026 12:56:02: Setting selected recipe 38
+05/03/2026 12:56:10: Setting selected recipe 37
+05/03/2026 12:56:14: Queue unlock msg:$msg_newitem:$item_bolt_blackmetal
+05/03/2026 12:56:14: Setting selected recipe 37
+05/03/2026 12:56:16: Setting selected recipe 37
+05/03/2026 12:56:19: Setting selected recipe 37
+05/03/2026 12:56:21: Setting selected recipe 37
+05/03/2026 12:56:23: Setting selected recipe 37
+05/03/2026 12:56:25: Setting selected recipe 37
+05/03/2026 12:56:27: Setting selected recipe 22
+05/03/2026 12:56:30: Queue unlock msg:$msg_newitem:$item_axe_early
+05/03/2026 12:56:31: Setting selected recipe 22
+05/03/2026 12:56:32: Setting selected recipe 22
+05/03/2026 12:56:32: Setting selected recipe 22
+05/03/2026 12:56:37: Setting selected recipe 22
+05/03/2026 12:56:39: Setting selected recipe 14
+05/03/2026 12:56:41: Setting selected recipe 15
+05/03/2026 12:56:43: Setting selected recipe 18
+05/03/2026 12:56:45: Setting selected recipe 19
+05/03/2026 12:56:47: Setting selected recipe 20
+05/03/2026 12:56:52: Setting selected recipe 3
+05/03/2026 12:56:54: Setting selected recipe 3
+05/03/2026 12:56:57: Setting selected recipe 3
+05/03/2026 12:56:59: Setting selected recipe 3
+05/03/2026 12:57:01: Setting selected recipe 3
+05/03/2026 12:57:03: Setting selected recipe 3
+05/03/2026 12:57:05: Setting selected recipe 3
+05/03/2026 12:57:08: Setting selected recipe 3
+05/03/2026 12:57:10: Setting selected recipe 3
+05/03/2026 12:57:13: Setting selected recipe 3
+05/03/2026 12:57:16: Setting selected recipe 55
+05/03/2026 12:57:19: Setting selected recipe 54
+05/03/2026 12:57:24: Queue unlock msg:$msg_newitem:$item_bow_huntsman
+05/03/2026 12:57:24: Setting selected recipe 54
+05/03/2026 12:57:27: Setting selected recipe 52
+05/03/2026 12:57:29: Setting selected recipe 51
+05/03/2026 12:57:30: Setting selected recipe 50
+05/03/2026 12:57:31: Setting selected recipe 49
+05/03/2026 12:57:39: Setting selected recipe 47
+05/03/2026 12:57:40: Setting selected recipe 48
+05/03/2026 12:57:42: Setting selected recipe 49
+05/03/2026 12:57:42: Setting selected recipe 48
+05/03/2026 12:57:43: Setting selected recipe 49
+05/03/2026 12:57:43: Setting selected recipe 48
+05/03/2026 12:57:44: Setting selected recipe 49
+05/03/2026 12:57:45: Setting selected recipe 51
+05/03/2026 12:57:45: Setting selected recipe 50
+05/03/2026 12:57:46: Setting selected recipe 51
+05/03/2026 12:57:49: Setting selected recipe 52
+05/03/2026 12:57:52: Setting selected recipe 49
+05/03/2026 12:57:53: Setting selected recipe 52
+05/03/2026 12:57:53: Setting selected recipe 53
+05/03/2026 12:57:54: Setting selected recipe 54
+05/03/2026 12:57:58: Player 3337577547 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:57:59: Player 3337577547 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:58:00: Player 3337577547 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 12:58:02: Player 3337577547 wants to pickup FineWood(Clone)   im: 1466104105
+05/03/2026 12:58:02: Player 3337577547 wants to pickup FineWood(Clone)   im: 1466104105
+05/03/2026 12:58:02:   but they are already the owner
+05/03/2026 12:58:04: Player 3337577547 wants to open piece_chest_barrel(Clone)   im: 1466104105
+05/03/2026 12:58:18: Player onboard, total onboard 1
+05/03/2026 12:58:19: Player onboard, total onboard 2
+05/03/2026 12:58:20: Player over board, players left 1
+05/03/2026 12:58:21: Player onboard, total onboard 2
+05/03/2026 12:58:22: Player over board, players left 1
+05/03/2026 12:58:22: Player over board, players left 0
+05/03/2026 12:58:22: Player onboard, total onboard 1
+05/03/2026 12:58:22: Changing ship owner to 3337577547
+05/03/2026 12:58:41: Player over board, players left 0
+05/03/2026 12:58:41: Player onboard, total onboard 1
+05/03/2026 12:58:42: Player over board, players left 0
+05/03/2026 12:59:03: Placed wood_beam
+05/03/2026 12:59:16: Placed wood_beam
+05/03/2026 12:59:17: Placed wood_beam
+05/03/2026 12:59:23: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 12:59:23: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 12:59:25: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 12:59:26: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 12:59:27: Placed wood_beam
+05/03/2026 12:59:27: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 12:59:33: Placed wood_pole2
+05/03/2026 12:59:38: Placed wood_pole2
+05/03/2026 12:59:39: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 12:59:41: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 12:59:42: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 12:59:46: Placed wood_beam
+05/03/2026 12:59:53: Placed wood_beam
+05/03/2026 12:59:57: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 12:59:58: Player 3337577547 wants to pickup Grausten(Clone)   im: 1466104105
+05/03/2026 12:59:58: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 12:59:58: Placed wood_beam
+05/03/2026 12:59:59: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:00:07: Placed wood_stair
+05/03/2026 13:00:09: Placed wood_stair
+05/03/2026 13:00:16: Placed wood_stair
+05/03/2026 13:00:24: Placed wood_stair
+05/03/2026 13:00:29: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:00:29: Placed wood_stair
+05/03/2026 13:00:31: Player 3337577547 wants to pickup Mushroom(Clone)   im: 1466104105
+05/03/2026 13:00:32: Placed wood_stair
+05/03/2026 13:00:49: Placed wood_beam_26
+05/03/2026 13:00:52: Placed wood_beam_26
+05/03/2026 13:00:58: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:01:01: Placed wood_beam_26
+05/03/2026 13:01:03: Placed wood_beam_26
+05/03/2026 13:01:05: Placed wood_beam_26
+05/03/2026 13:01:05: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:01:07: Placed wood_beam_26
+05/03/2026 13:01:09: Placed wood_beam_26
+05/03/2026 13:01:17: Placed wood_stair
+05/03/2026 13:01:20: Placed wood_stair
+05/03/2026 13:01:47: Placed wood_stair
+05/03/2026 13:01:49: Placed wood_stair
+05/03/2026 13:02:23: Spawned Greydwarf x 1
+05/03/2026 13:02:26: Setting selected recipe 0
+05/03/2026 13:02:43: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:02:46: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:02:47: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:02:51: Disabling PlayerBase  character_trigger
+05/03/2026 13:03:02: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:03:05: Disabling PlayerBase  character_trigger
+05/03/2026 13:03:21: Disabling PlayerBase  character_trigger
+05/03/2026 13:03:22: Queue unlock msg:$msg_newitem:$item_barrelrings
+05/03/2026 13:03:22: Queue unlock msg:$msg_newpiece:$piece_chestbarrel
+05/03/2026 13:03:22: Disabling PlayerBase  character_trigger
+05/03/2026 13:03:22: Disabling PlayerBase  character_trigger
+05/03/2026 13:03:22: Disabling PlayerBase  character_trigger
+05/03/2026 13:03:25: Placed piece_workbench
+05/03/2026 13:03:25: Disabling PlayerBase  character_trigger
+05/03/2026 13:03:28: Placed piece_workbench_ext1
+05/03/2026 13:03:34: Placed piece_workbench_ext2
+05/03/2026 13:03:45: Placed piece_workbench_ext3
+05/03/2026 13:03:50: Placed piece_workbench_ext4
+05/03/2026 13:03:53: Placed piece_workbench_ext4
+05/03/2026 13:03:56: Disabling PlayerBase  character_trigger
+05/03/2026 13:03:58: Placed piece_stonecutter
+05/03/2026 13:03:58: Disabling PlayerBase  character_trigger
+05/03/2026 13:03:58: Disabling PlayerBase  character_trigger
+05/03/2026 13:03:58: Disabling PlayerBase  character_trigger
+05/03/2026 13:04:00: Disabling PlayerBase  character_trigger
+05/03/2026 13:04:04: Placed piece_artisanstation
+05/03/2026 13:04:04: Queue unlock msg:$msg_newstation:$piece_artisanstation
+05/03/2026 13:04:04: Queue unlock msg:$msg_newrecipe:$item_turretbolt
+05/03/2026 13:04:04: Queue unlock msg:$msg_newrecipe:$item_turretbolt_flametal
+05/03/2026 13:04:04: Queue unlock msg:$msg_newrecipe:$item_turretboltwood
+05/03/2026 13:04:04: Queue unlock msg:$msg_newpiece:$piece_oven
+05/03/2026 13:04:04: Queue unlock msg:$msg_newpiece:$piece_blastfurnace
+05/03/2026 13:04:04: Queue unlock msg:$msg_newpiece:$piece_windmill
+05/03/2026 13:04:04: Queue unlock msg:$msg_newpiece:$piece_spinningwheel
+05/03/2026 13:04:04: Disabling PlayerBase  character_trigger
+05/03/2026 13:04:04: Disabling PlayerBase  character_trigger
+05/03/2026 13:04:04: Disabling PlayerBase  character_trigger
+05/03/2026 13:04:09: Disabling PlayerBase  character_trigger
+05/03/2026 13:04:12: Placed forge
+05/03/2026 13:04:12: Disabling PlayerBase  character_trigger
+05/03/2026 13:04:12: Disabling PlayerBase  character_trigger
+05/03/2026 13:04:12: Disabling PlayerBase  character_trigger
+05/03/2026 13:04:12: Disabling PlayerBase  character_trigger
+05/03/2026 13:04:32: Placed forge_ext1
+05/03/2026 13:04:36: Placed forge_ext2
+05/03/2026 13:05:01: Placed forge_ext4
+05/03/2026 13:05:21: Placed forge_ext4
+05/03/2026 13:05:29: Placed forge_ext6
+05/03/2026 13:05:40: Activating default element Continue
+05/03/2026 13:06:07: Setting selected recipe 26
+05/03/2026 13:06:09: Setting selected recipe 26
+05/03/2026 13:06:12: Setting selected recipe 26
+05/03/2026 13:06:14: Setting selected recipe 26
+05/03/2026 13:06:16: Setting selected recipe 26
+05/03/2026 13:06:17: Stopped music meadows at 3343810
+05/03/2026 13:06:17: Starting music home
+05/03/2026 13:06:18: Setting selected recipe 26
+05/03/2026 13:06:19: Setting selected recipe 26
+05/03/2026 13:06:19: Stopped music home at 92198
+05/03/2026 13:06:19: Starting music meadows
+05/03/2026 13:06:19: Resumed music meadows at 3343810
+05/03/2026 13:06:20: Setting selected recipe 26
+05/03/2026 13:06:21: Setting selected recipe 26
+05/03/2026 13:06:24: Stopped music meadows at 210739
+05/03/2026 13:06:24: Starting music home
+05/03/2026 13:06:24: Resumed music home at 92198
+05/03/2026 13:06:24: Setting selected recipe 26
+05/03/2026 13:07:18: Setting selected recipe 0
+05/03/2026 13:07:20: Setting selected recipe 0
+05/03/2026 13:07:20: Setting selected recipe 1
+05/03/2026 13:07:23: Setting selected recipe 1
+05/03/2026 13:07:25: Setting selected recipe 1
+05/03/2026 13:07:28: Setting selected recipe 1
+05/03/2026 13:07:30: Setting selected recipe 0
+05/03/2026 13:07:32: Setting selected recipe 0
+05/03/2026 13:07:36: Setting selected recipe 9
+05/03/2026 13:07:37: Setting selected recipe 0
+05/03/2026 13:07:38: Setting selected recipe 1
+05/03/2026 13:07:38: Setting selected recipe 2
+05/03/2026 13:07:39: Setting selected recipe 3
+05/03/2026 13:07:42: Setting selected recipe 3
+05/03/2026 13:07:44: Setting selected recipe 3
+05/03/2026 13:07:46: Setting selected recipe 12
+05/03/2026 13:07:49: Setting selected recipe 0
+05/03/2026 13:07:58: Setting selected recipe 0
+05/03/2026 13:08:20: Update PlayFab entity token
+05/03/2026 13:08:38: Setting selected recipe 67
+05/03/2026 13:08:41: Setting selected recipe 67
+05/03/2026 13:08:48: Stopped music home at 6352281
+05/03/2026 13:08:48: Starting music meadows
+05/03/2026 13:08:48: Resumed music meadows at 210739
+05/03/2026 13:08:51: Stopped music meadows at 353740
+05/03/2026 13:08:51: Starting music blackforest
+05/03/2026 13:08:57: Setting selected recipe 67
+05/03/2026 13:09:02: Setting selected recipe 67
+05/03/2026 13:09:04: Setting selected recipe 67
+05/03/2026 13:09:04: Stopped music blackforest at 582355
+05/03/2026 13:09:05: Starting music blackforest
+05/03/2026 13:09:05: Resumed music blackforest at 582355
+05/03/2026 13:09:06: Drop item $item_cape_wolf
+05/03/2026 13:09:06: drop all 1  1
+05/03/2026 13:09:06: Setting selected recipe 67
+05/03/2026 13:09:06: Player 3337577547 wants to pickup CapeWolf(Clone)   im: 1466104105
+05/03/2026 13:09:13: Starting music evening
+05/03/2026 13:09:14: Stopped music blackforest at 425241
+05/03/2026 13:09:18: Setting selected recipe 67
+05/03/2026 13:09:31: Setting selected recipe 67
+05/03/2026 13:09:42: Disabling PlayerBase  character_trigger
+05/03/2026 13:09:42: Disabling BladeAOE  character_trigger
+05/03/2026 13:09:45: Disabling PlayerBase  character_trigger
+05/03/2026 13:09:45: Disabling BladeAOE  character_trigger
+05/03/2026 13:10:00: Starting music home
+05/03/2026 13:10:00: Resumed music home at 6352281
+05/03/2026 13:10:01: Stopped music home at 27283
+05/03/2026 13:10:01: Starting music home
+05/03/2026 13:10:01: Resumed music home at 27283
+05/03/2026 13:10:08: Stopped music home at 329279
+05/03/2026 13:10:08: Starting music home
+05/03/2026 13:10:08: Resumed music home at 329279
+05/03/2026 13:10:10: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:10: Disabling FireArea  character_trigger
+05/03/2026 13:10:12: Placed piece_groundtorch
+05/03/2026 13:10:12: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:12: Disabling FireArea  character_trigger
+05/03/2026 13:10:12: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:12: Disabling FireArea  character_trigger
+05/03/2026 13:10:14: Placed piece_groundtorch
+05/03/2026 13:10:14: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:14: Disabling FireArea  character_trigger
+05/03/2026 13:10:14: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:14: Disabling FireArea  character_trigger
+05/03/2026 13:10:16: Placed piece_groundtorch
+05/03/2026 13:10:16: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:16: Disabling FireArea  character_trigger
+05/03/2026 13:10:16: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:16: Disabling FireArea  character_trigger
+05/03/2026 13:10:17: Placed piece_groundtorch
+05/03/2026 13:10:17: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:17: Disabling FireArea  character_trigger
+05/03/2026 13:10:17: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:17: Disabling FireArea  character_trigger
+05/03/2026 13:10:20: Placed piece_groundtorch
+05/03/2026 13:10:20: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:20: Disabling FireArea  character_trigger
+05/03/2026 13:10:20: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:20: Disabling FireArea  character_trigger
+05/03/2026 13:10:23: Placed piece_groundtorch
+05/03/2026 13:10:23: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:23: Disabling FireArea  character_trigger
+05/03/2026 13:10:23: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:23: Disabling FireArea  character_trigger
+05/03/2026 13:10:25: Placed piece_groundtorch
+05/03/2026 13:10:25: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:25: Disabling FireArea  character_trigger
+05/03/2026 13:10:25: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:25: Disabling FireArea  character_trigger
+05/03/2026 13:10:29: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:30: Placed piece_groundtorch_wood
+05/03/2026 13:10:30: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:30: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:33: Placed piece_groundtorch_wood
+05/03/2026 13:10:33: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:33: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:34: Placed piece_groundtorch_wood
+05/03/2026 13:10:34: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:34: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:36: Placed piece_groundtorch_wood
+05/03/2026 13:10:36: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:36: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:37: Placed piece_groundtorch_wood
+05/03/2026 13:10:37: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:37: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:38: Stopped music home at 1300185
+05/03/2026 13:10:39: Starting music home
+05/03/2026 13:10:39: Resumed music home at 1300185
+05/03/2026 13:10:41: Placed piece_groundtorch_wood
+05/03/2026 13:10:41: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:41: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:42: Placed piece_groundtorch_wood
+05/03/2026 13:10:42: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:42: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:42: Stopped music home at 161817
+05/03/2026 13:10:43: Starting music blackforest
+05/03/2026 13:10:43: Resumed music blackforest at 425241
+05/03/2026 13:10:44: Placed piece_groundtorch_wood
+05/03/2026 13:10:44: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:44: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:45: Placed piece_groundtorch_wood
+05/03/2026 13:10:45: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:45: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:51: Placed piece_groundtorch_wood
+05/03/2026 13:10:51: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:51: Disabling PlayerBase  character_trigger
+05/03/2026 13:10:52: Stopped music blackforest at 355622
+05/03/2026 13:11:13: Setting selected recipe 67
+05/03/2026 13:11:47: Spawn time :6,1181 ms
+05/03/2026 13:11:50: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 13:11:50: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 13:11:51: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 13:11:51:   but they are already the owner
+05/03/2026 13:11:54: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:11:54: Setting selected recipe 67
+05/03/2026 13:11:56: Setting selected recipe 67
+05/03/2026 13:11:57: Setting selected recipe 67
+05/03/2026 13:12:01: Starting music home
+05/03/2026 13:12:01: Resumed music home at 161817
+05/03/2026 13:12:03: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:12:03: Setting selected recipe 67
+05/03/2026 13:12:06: Stopped music home at 383845
+05/03/2026 13:12:18: Spawn time :13,6592 ms
+05/03/2026 13:12:21: Starting music home
+05/03/2026 13:12:21: Resumed music home at 383845
+05/03/2026 13:12:21: Stopped music home at 26342
+05/03/2026 13:12:21: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:12:21: Setting selected recipe 67
+05/03/2026 13:12:26: Starting music home
+05/03/2026 13:12:26: Resumed music home at 26342
+05/03/2026 13:12:33: Stopped music home at 333983
+05/03/2026 13:12:38: Starting music home
+05/03/2026 13:12:38: Resumed music home at 333983
+05/03/2026 13:12:40: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:12:40: Setting selected recipe 67
+05/03/2026 13:12:41: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:12:41: Setting selected recipe 67
+05/03/2026 13:12:43: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:12:43: Setting selected recipe 67
+05/03/2026 13:12:52: Stopped music home at 624691
+05/03/2026 13:12:55: Valid True
+05/03/2026 13:12:55: On death False
+05/03/2026 13:12:56: Available space to current user: 256140136448. Saving is blocked if below: 34687844 bytes. Warnings are given if below: 69375688
+05/03/2026 13:12:56: Minimap: compressed mapData 8394072 => 18859 bytes
+05/03/2026 13:12:56: Cloud Save: 53218 bytes. /characters/vknight.fch.new
+Steam writing file chunks 1 / 1, (53218 bytes)
+Steam writing file chunks 1 / 1, (52113 bytes)
+Steam writing file chunks 1 / 1, (53218 bytes)
+05/03/2026 13:12:56: Considering autobackup. World time: 1795,919, short time: 7200, long time: 43200, backup count: 4
+05/03/2026 13:12:56: Time to overwrite our last autobackup
+05/03/2026 13:12:56: Replacing backup file: vknight_backup_auto-20260419232927
+05/03/2026 13:12:56: Saving backup at: vknight_backup_auto-20260503131256
+Steam writing file chunks 1 / 1, (53218 bytes)
+05/03/2026 13:12:56: Sending message to save player profiles
+05/03/2026 13:12:56: Sent to 76561197989682706
+05/03/2026 13:12:56: PrepareSave: clone done in 40ms
+05/03/2026 13:12:56: PrepareSave: ZDOExtraData.PrepareSave done in 79 ms
+05/03/2026 13:12:56: World save writing starting
+05/03/2026 13:12:56: World save writing started
+05/03/2026 13:12:57: Saved 379957 ZDOs
+05/03/2026 13:12:57: World save writing finishing
+05/03/2026 13:12:57: Cloud Save: 17291639 bytes. /worlds/Vabows.db
+Steam writing file chunks 1 / 1, (17291639 bytes)
+05/03/2026 13:12:58: World save writing finished
+05/03/2026 13:12:58: Cloud Save: 61 bytes. /worlds/Vabows.fwl
+Steam writing file chunks 1 / 1, (61 bytes)
+05/03/2026 13:12:58: World saved ( 1422,2114ms )
+05/03/2026 13:12:58: Considering autobackup. World time: 1797,679, short time: 7200, long time: 43200, backup count: 4
+05/03/2026 13:12:58: Time to overwrite our last autobackup
+05/03/2026 13:12:58: Replacing backup file: Vabows_backup_auto-20260419232928
+05/03/2026 13:12:58: Saving backup at: Vabows_backup_auto-20260503131256
+Steam writing file chunks 1 / 1, (61 bytes)
+Steam writing file chunks 1 / 1, (17291639 bytes)
+05/03/2026 13:12:58: World auto backup saved ( 00:00:00.2192006ms )
+05/03/2026 13:13:06: Starting music blackforest
+05/03/2026 13:13:06: Resumed music blackforest at 355622
+05/03/2026 13:13:10: Stopped music blackforest at 175929
+05/03/2026 13:13:10: Starting music blackforest
+05/03/2026 13:13:10: Resumed music blackforest at 175929
+05/03/2026 13:13:17: Stopped music blackforest at 290707
+05/03/2026 13:13:17: Starting music blackforest
+05/03/2026 13:13:17: Resumed music blackforest at 290707
+05/03/2026 13:13:17: Disabling PlayerBase  character_trigger
+05/03/2026 13:13:19: Disabling PlayerBase  character_trigger
+05/03/2026 13:13:22: Placed piece_groundtorch_wood
+05/03/2026 13:13:22: Disabling PlayerBase  character_trigger
+05/03/2026 13:13:22: Disabling PlayerBase  character_trigger
+05/03/2026 13:13:23: Activating default element Continue
+05/03/2026 13:13:24: Activating default element Continue
+05/03/2026 13:13:35: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:13:36: Stopped music blackforest at 839193
+05/03/2026 13:13:36: Starting music blackforest
+05/03/2026 13:13:36: Resumed music blackforest at 839193
+05/03/2026 13:13:37: Stopped music blackforest at 47980
+05/03/2026 13:13:37: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:13:38: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:13:44: Starting music blackforest
+05/03/2026 13:13:44: Resumed music blackforest at 47980
+05/03/2026 13:13:48: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:13:50: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:13:55: Spawned Greyling x 1
+05/03/2026 13:13:59: Disabling PlayerBase  character_trigger
+05/03/2026 13:14:01: Stopped music blackforest at 711244
+05/03/2026 13:14:01: Starting music home
+05/03/2026 13:14:01: Resumed music home at 624691
+05/03/2026 13:14:01: Player 3337577547 wants to open piece_chest(Clone)   im: 1466104105
+05/03/2026 13:14:02: Player 3337577547 wants to open piece_chest(Clone)   im: 1466104105
+05/03/2026 13:14:05: Disabling PlayerBase  character_trigger
+05/03/2026 13:14:05: hit mine rock 80
+05/03/2026 13:14:05: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:14:07: Disabling PlayerBase  character_trigger
+05/03/2026 13:14:13: Disabling PlayerBase  character_trigger
+05/03/2026 13:14:31: Placed hearth
+05/03/2026 13:14:31: Disabling PlayerBase  character_trigger
+05/03/2026 13:14:34: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 13:14:36: Stopped music home at 2166662
+05/03/2026 13:14:36: Starting music home
+05/03/2026 13:14:36: Resumed music home at 2166662
+05/03/2026 13:14:38: Placed hearth
+05/03/2026 13:14:38: Disabling PlayerBase  character_trigger
+05/03/2026 13:14:40: Stopped music home at 186278
+05/03/2026 13:14:40: Starting music home
+05/03/2026 13:14:40: Resumed music home at 186278
+05/03/2026 13:14:41: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 13:14:49: Disabling PlayerBase  character_trigger
+05/03/2026 13:14:51: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:08: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:16: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:21: Placed piece_brazierceiling01
+05/03/2026 13:15:21: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:21: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:21: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:25: Stopped music home at 1992614
+05/03/2026 13:15:25: Starting music home
+05/03/2026 13:15:25: Resumed music home at 1992614
+05/03/2026 13:15:28: Placed piece_brazierceiling01
+05/03/2026 13:15:28: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:28: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:28: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:31: Placed piece_brazierceiling01
+05/03/2026 13:15:31: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:31: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:31: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:32: Stopped music home at 288825
+05/03/2026 13:15:33: Placed piece_brazierceiling01
+05/03/2026 13:15:33: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:33: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:33: Disabling PlayerBase  character_trigger
+05/03/2026 13:15:54: Spawned Greydwarf x 2
+05/03/2026 13:15:54: Spawned Greydwarf_Elite x 1
+05/03/2026 13:15:54: Spawned Skeleton x 1
+05/03/2026 13:15:54: Spawned Greydwarf_Shaman x 1
+05/03/2026 13:15:54: Spawned FireFlies x 1
+05/03/2026 13:15:54: Spawned FireFlies x 1
+05/03/2026 13:15:54: Spawned FireFlies x 1
+05/03/2026 13:16:00: Spawned Greyling x 1
+05/03/2026 13:16:02: Player 3337577547 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 13:16:03: Player 3337577547 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 13:16:04: Player 3337577547 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 13:16:10: Starting music blackforest
+05/03/2026 13:16:10: Resumed music blackforest at 711244
+05/03/2026 13:16:22: Stopped music blackforest at 532492
+05/03/2026 13:16:23: Starting music home
+05/03/2026 13:16:23: Resumed music home at 288825
+05/03/2026 13:16:24: Setting selected recipe 67
+05/03/2026 13:16:28: Setting selected recipe 67
+05/03/2026 13:16:30: Stopped music home at 310463
+05/03/2026 13:16:30: Starting music home
+05/03/2026 13:16:30: Resumed music home at 310463
+05/03/2026 13:16:31: Stopped music home at 31046
+05/03/2026 13:16:31: Setting selected recipe 67
+05/03/2026 13:16:33: Starting music home
+05/03/2026 13:16:33: Resumed music home at 31046
+05/03/2026 13:16:37: Disabling PlayerBase  character_trigger
+05/03/2026 13:16:40: Stopped music home at 315167
+05/03/2026 13:16:40: Starting music home
+05/03/2026 13:16:40: Resumed music home at 315167
+05/03/2026 13:16:41: Stopped music home at 53625
+05/03/2026 13:16:53: Starting music home
+05/03/2026 13:16:53: Resumed music home at 53625
+05/03/2026 13:17:00: Stopped music home at 284121
+05/03/2026 13:17:00: Starting music home
+05/03/2026 13:17:00: Resumed music home at 284121
+05/03/2026 13:17:01: Disabling PlayerBase  character_trigger
+05/03/2026 13:17:01: Disabling Pathfinding_blocker  pathblocker
+05/03/2026 13:17:05: Disabling PlayerBase  character_trigger
+05/03/2026 13:17:14: Disabling PlayerBase  character_trigger
+05/03/2026 13:17:14: Disabling Pathfinding_blocker  pathblocker
+05/03/2026 13:17:17: Spawned Neck x 2
+05/03/2026 13:17:37: Placed rug_wolf
+05/03/2026 13:17:39: Placed rug_wolf
+05/03/2026 13:17:41: Stopped music home at 1792223
+05/03/2026 13:17:42: Starting music home
+05/03/2026 13:17:42: Resumed music home at 1792223
+05/03/2026 13:17:42: Stopped music home at 14111
+05/03/2026 13:17:47: Placed rug_Bjorn
+05/03/2026 13:17:53: Spawned FireFlies x 1
+05/03/2026 13:17:58: Starting music home
+05/03/2026 13:17:58: Resumed music home at 14111
+05/03/2026 13:18:05: Disabling PlayerBase  character_trigger
+05/03/2026 13:18:05: Disabling BladeAOE  character_trigger
+05/03/2026 13:18:10: Setting selected recipe 0
+05/03/2026 13:18:12: Setting selected recipe 0
+05/03/2026 13:18:12: Setting selected recipe 0
+05/03/2026 13:18:14: Spawned FireFlies x 1
+05/03/2026 13:18:15: Starting music morning
+05/03/2026 13:18:15: Disabling PlayerBase  character_trigger
+05/03/2026 13:18:15: Disabling BladeAOE  character_trigger
+05/03/2026 13:18:16: Stopped music home at 782745
+05/03/2026 13:18:22: Setting selected recipe 0
+05/03/2026 13:18:22: Setting selected recipe 0
+05/03/2026 13:18:24: Player 3337577547 wants to open piece_chest(Clone)   im: 1466104105
+05/03/2026 13:18:28: Disabling PlayerBase  character_trigger
+05/03/2026 13:18:28: Disabling BladeAOE  character_trigger
+05/03/2026 13:18:30: Player 3337577547 wants to open piece_chest(Clone)   im: 1466104105
+05/03/2026 13:18:31: Disabling PlayerBase  character_trigger
+05/03/2026 13:18:31: Disabling BladeAOE  character_trigger
+05/03/2026 13:18:44: Setting selected recipe 0
+05/03/2026 13:18:50: Starting music home
+05/03/2026 13:18:50: Resumed music home at 782745
+05/03/2026 13:18:51: Drop item $item_arrow_fire
+05/03/2026 13:18:51: drop all 100  100
+05/03/2026 13:18:51: Setting selected recipe 0
+05/03/2026 13:18:52: Player 3337577547 wants to pickup ArrowFire(Clone)   im: 1466104105
+05/03/2026 13:18:57: Drop item $item_arrow_wood
+05/03/2026 13:18:57: drop all 62  62
+05/03/2026 13:18:57: Setting selected recipe 0
+05/03/2026 13:18:57: Player 3337577547 wants to pickup ArrowWood(Clone)   im: 1466104105
+05/03/2026 13:18:59: Drop item $item_arrow_flint
+05/03/2026 13:18:59: drop all 24  24
+05/03/2026 13:18:59: Setting selected recipe 0
+05/03/2026 13:18:59: Player 3337577547 wants to pickup ArrowFlint(Clone)   im: 1466104105
+05/03/2026 13:19:01: Setting selected recipe 0
+05/03/2026 13:19:04: Setting selected recipe 0
+05/03/2026 13:19:12: Stopped music home at 996307
+05/03/2026 13:19:12: Starting music meadows
+05/03/2026 13:19:30: Setting selected recipe 0
+05/03/2026 13:19:31: Disabling PlayerBase  character_trigger
+05/03/2026 13:19:31: Disabling BladeAOE  character_trigger
+05/03/2026 13:19:33: Disabling PlayerBase  character_trigger
+05/03/2026 13:19:36: Disabling PlayerBase  character_trigger
+05/03/2026 13:19:36: Disabling BladeAOE  character_trigger
+05/03/2026 13:19:59: Setting selected recipe 0
+05/03/2026 13:20:03: Player 1466104105 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 13:20:03: Setting selected recipe 0
+05/03/2026 13:20:06: Setting selected recipe 0
+05/03/2026 13:20:17: Player 3337577547 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 13:20:27: Setting selected recipe 0
+05/03/2026 13:20:44: Player 3337577547 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 13:20:46: Disabling PlayerBase  character_trigger
+05/03/2026 13:20:46: Disabling BladeAOE  character_trigger
+05/03/2026 13:20:53: Player 3337577547 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 13:20:57: Placed wood_roof_45
+05/03/2026 13:20:58: Placed wood_roof_45
+05/03/2026 13:20:59: Placed wood_roof_45
+05/03/2026 13:21:01: Spawned Greyling x 1
+05/03/2026 13:21:02: Placed wood_roof_45
+05/03/2026 13:21:03: Placed wood_roof_45
+05/03/2026 13:21:05: Placed wood_roof_45
+05/03/2026 13:21:09: Placed wood_roof_45
+05/03/2026 13:21:12: Placed wood_roof_45
+05/03/2026 13:21:14: Placed wood_roof_45
+05/03/2026 13:21:15: Placed wood_roof_45
+05/03/2026 13:21:17: Placed wood_roof_45
+05/03/2026 13:21:18: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:21:18: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:21:21: Placed wood_roof_45
+05/03/2026 13:21:22: Placed wood_roof_45
+05/03/2026 13:21:24: Placed wood_roof_45
+05/03/2026 13:21:25: Placed wood_roof_45
+05/03/2026 13:21:26: Placed wood_roof_45
+05/03/2026 13:21:39: Placed wood_roof_ocorner_45
+05/03/2026 13:21:52: Placed wood_roof_45
+05/03/2026 13:21:54: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:21:54: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:21:57: Placed wood_roof_45
+05/03/2026 13:22:02: Placed wood_roof_45
+05/03/2026 13:22:10: Player 3337577547 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 13:22:10: Setting selected recipe 26
+05/03/2026 13:22:24: Setting selected recipe 91
+05/03/2026 13:22:28: Player 3337577547 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 13:22:30: Player 3337577547 wants to open piece_chest_blackmetal(Clone)   im: 1466104105
+05/03/2026 13:22:33: Setting selected recipe 92
+05/03/2026 13:22:36: Setting selected recipe 92
+05/03/2026 13:22:48: Setting selected recipe 91
+05/03/2026 13:22:57: Setting selected recipe 90
+05/03/2026 13:23:00: Setting selected recipe 92
+05/03/2026 13:23:01: Setting selected recipe 93
+05/03/2026 13:23:07: Setting selected recipe 94
+05/03/2026 13:23:09: Setting selected recipe 95
+05/03/2026 13:23:11: Setting selected recipe 96
+05/03/2026 13:23:16: Setting selected recipe 73
+05/03/2026 13:23:30: Placed wood_roof_ocorner_45
+05/03/2026 13:23:44: Placed wood_roof
+05/03/2026 13:23:49: Placed wood_roof
+05/03/2026 13:23:51: Placed wood_roof
+05/03/2026 13:23:52: Placed wood_roof
+05/03/2026 13:23:54: Placed wood_roof
+05/03/2026 13:23:54: Player 3337577547 wants to open piece_chest(Clone)   im: 1466104105
+05/03/2026 13:23:56: Placed wood_roof
+05/03/2026 13:23:58: Placed wood_roof
+05/03/2026 13:23:59: Placed wood_roof
+05/03/2026 13:24:01: Placed wood_roof
+05/03/2026 13:24:02: Placed wood_roof
+05/03/2026 13:24:04: Placed wood_roof
+05/03/2026 13:24:06: Placed wood_roof
+05/03/2026 13:24:08: Placed wood_roof
+05/03/2026 13:24:11: Placed wood_roof
+05/03/2026 13:24:14: Update PlayFab entity token
+05/03/2026 13:24:17: Placed wood_roof_ocorner_45
+05/03/2026 13:24:25: Placed wood_roof_45
+05/03/2026 13:24:27: Placed wood_roof_45
+05/03/2026 13:24:29: Placed wood_roof_45
+05/03/2026 13:24:30: Placed wood_roof_45
+05/03/2026 13:24:32: Placed wood_roof_45
+05/03/2026 13:24:45: Placed wood_roof_ocorner_45
+05/03/2026 13:25:40: Stopped music meadows at 7390053
+05/03/2026 13:25:40: Starting music meadows
+05/03/2026 13:25:40: Resumed music meadows at 7390053
+05/03/2026 13:26:01: Stopped music meadows at 925747
+05/03/2026 13:26:01: Starting music meadows
+05/03/2026 13:26:01: Resumed music meadows at 925747
+05/03/2026 13:26:10: Stopped music meadows at 365971
+05/03/2026 13:26:10: Starting music blackforest
+05/03/2026 13:26:20: Spawned Greyling x 1
+05/03/2026 13:26:23: Player 3337577547 wants to pickup DeerMeat(Clone)   im: 1466104105
+05/03/2026 13:26:23: Player 3337577547 wants to pickup DeerHide(Clone)   im: 1466104105
+05/03/2026 13:26:24: Player 3337577547 wants to pickup DeerHide(Clone)   im: 1466104105
+05/03/2026 13:26:24:   but they are already the owner
+05/03/2026 13:26:24: Player 3337577547 wants to pickup DeerMeat(Clone)   im: 1466104105
+05/03/2026 13:26:24:   but they are already the owner
+05/03/2026 13:26:42: Poison damage: 43,55756 ttl:7,599815 hits:7 dmg perhit:6,222508
+05/03/2026 13:26:54: Got character ZDOID from Vabows : 0:0
+05/03/2026 13:27:02: Got character ZDOID from Vabows : 3337577547:4120
+05/03/2026 13:27:03: Queue unlock msg:$msg_newmaterial:$item_deer_meat
+05/03/2026 13:27:07: Poison damage: 39,9403 ttl:7,319834 hits:7 dmg perhit:5,705757
+05/03/2026 13:27:31: Poison damage: 40,78255 ttl:7,386122 hits:7 dmg perhit:5,826079
+05/03/2026 13:27:32: Setting selected recipe 73
+05/03/2026 13:27:39: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 13:27:39: Player 3337577547 wants to pickup GreydwarfEye(Clone)   im: 1466104105
+05/03/2026 13:27:39: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 13:27:40: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 13:27:42: Player 3337577547 wants to pickup BjornHide(Clone)   im: 1466104105
+05/03/2026 13:27:42: Player 3337577547 wants to pickup BjornHide(Clone)   im: 1466104105
+05/03/2026 13:27:42: Player 3337577547 wants to pickup BjornHide(Clone)   im: 1466104105
+05/03/2026 13:27:42: Player 3337577547 wants to pickup BjornPaw(Clone)   im: 1466104105
+05/03/2026 13:27:42: Player 3337577547 wants to pickup BjornHide(Clone)   im: 1466104105
+05/03/2026 13:27:42: Player 3337577547 wants to pickup BjornMeat(Clone)   im: 1466104105
+05/03/2026 13:27:43: Player 3337577547 wants to takeall from Player_tombstone(Clone)   im: 1466104105
+05/03/2026 13:27:45: Player 3337577547 wants to pickup BjornMeat(Clone)   im: 1466104105
+05/03/2026 13:28:15: Stopped music blackforest at 5549779
+05/03/2026 13:28:15: Starting music meadows
+05/03/2026 13:28:15: Resumed music meadows at 365971
+05/03/2026 13:28:34: Setting selected recipe 73
+05/03/2026 13:28:38: Setting selected recipe 73
+05/03/2026 13:28:40: Stopped music meadows at 1074393
+05/03/2026 13:28:40: Starting music home
+05/03/2026 13:28:48: Setting selected recipe 73
+05/03/2026 13:28:53: Setting selected recipe 68
+05/03/2026 13:28:59: Queue unlock msg:$msg_newitem:$item_carrotsoup
+05/03/2026 13:28:59: Setting selected recipe 68
+05/03/2026 13:29:02: Setting selected recipe 68
+05/03/2026 13:29:04: Setting selected recipe 68
+05/03/2026 13:29:07: Setting selected recipe 68
+05/03/2026 13:29:09: Setting selected recipe 68
+05/03/2026 13:29:12: Setting selected recipe 68
+05/03/2026 13:29:13: Setting selected recipe 68
+05/03/2026 13:29:17: Setting selected recipe 68
+05/03/2026 13:29:19: Setting selected recipe 68
+05/03/2026 13:29:21: Setting selected recipe 68
+05/03/2026 13:29:24: Setting selected recipe 68
+05/03/2026 13:29:29: Setting selected recipe 68
+05/03/2026 13:29:30: Stopped music home at 2232518
+05/03/2026 13:29:31: Starting music meadows
+05/03/2026 13:29:31: Resumed music meadows at 1074393
+05/03/2026 13:29:32: Setting selected recipe 68
+05/03/2026 13:29:37: Setting selected recipe 68
+05/03/2026 13:29:40: Setting selected recipe 68
+05/03/2026 13:29:46: Setting selected recipe 68
+05/03/2026 13:29:48: Setting selected recipe 68
+05/03/2026 13:29:51: Setting selected recipe 68
+05/03/2026 13:29:54: Setting selected recipe 68
+05/03/2026 13:30:02: Setting selected recipe 68
+05/03/2026 13:30:05: Player 3337577547 wants to open container   im: 1466104105
+05/03/2026 13:30:05:   in use
+05/03/2026 13:30:08: Player 3337577547 wants to open container   im: 1466104105
+05/03/2026 13:30:11: Setting selected recipe 68
+05/03/2026 13:30:16: Player 1466104105 wants to incinerate incinerator(Clone)   im: 1466104105
+05/03/2026 13:30:16: DO THE THING WITH THE LEVER!
+05/03/2026 13:30:21: Lever return
+05/03/2026 13:30:21: adding Coal  1
+05/03/2026 13:30:21: adding Coal  1
+05/03/2026 13:30:21: adding Coal  1
+05/03/2026 13:30:25: Player 1466104105 wants to open container   im: 1466104105
+05/03/2026 13:30:25: Setting selected recipe 68
+05/03/2026 13:30:32: Setting selected recipe 68
+05/03/2026 13:30:33: Drop item $item_carrotsoup
+05/03/2026 13:30:33: drop all 5  5
+05/03/2026 13:30:33: Setting selected recipe 68
+05/03/2026 13:30:34: Player 3337577547 wants to pickup CarrotSoup(Clone)   im: 1466104105
+05/03/2026 13:30:36: Setting selected recipe 68
+05/03/2026 13:30:48: Teleportation TRIGGER
+05/03/2026 13:30:48: Teleporting Vknight
+05/03/2026 13:30:53: Stopped music meadows at 4694591
+05/03/2026 13:30:53: Starting music mountain
+05/03/2026 13:30:54: Loading dungeon
+05/03/2026 13:30:54: Dungeon loaded with 38 rooms in 0 ms.
+05/03/2026 13:30:54: Loading room prefabs asynchronously
+05/03/2026 13:30:54: Loading dungeon
+05/03/2026 13:30:54: Dungeon loaded with 29 rooms in 0 ms.
+05/03/2026 13:30:54: Loading room prefabs asynchronously
+05/03/2026 13:30:54: Loading dungeon
+05/03/2026 13:30:54: Dungeon loaded with 31 rooms in 0 ms.
+05/03/2026 13:30:54: Loading room prefabs asynchronously
+05/03/2026 13:30:55: Spawning dungeon
+05/03/2026 13:30:55: Spawning dungeon
+05/03/2026 13:30:55: Spawning dungeon
+05/03/2026 13:30:59: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:31:00: Activating default element Continue
+05/03/2026 13:31:00: Stopped music mountain at 340569
+05/03/2026 13:31:00: Starting music mountain
+05/03/2026 13:31:00: Resumed music mountain at 340569
+05/03/2026 13:31:01: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:31:02: Available space to current user: 256142110720. Saving is blocked if below: 34689714 bytes. Warnings are given if below: 69379428
+05/03/2026 13:31:02: Minimap: compressed mapData 8394072 => 18869 bytes
+05/03/2026 13:31:02: Cloud Save: 52860 bytes. /characters/vknight.fch.new
+Steam writing file chunks 1 / 1, (52860 bytes)
+Steam writing file chunks 1 / 1, (53218 bytes)
+Steam writing file chunks 1 / 1, (52860 bytes)
+05/03/2026 13:31:02: Considering autobackup. World time: 2881,499, short time: 7200, long time: 43200, backup count: 4
+05/03/2026 13:31:02: No autobackup needed yet...
+05/03/2026 13:31:02: Sending message to save player profiles
+05/03/2026 13:31:02: Sent to 76561197989682706
+05/03/2026 13:31:02: Activating default element Continue
+05/03/2026 13:31:02: PrepareSave: clone done in 92ms
+05/03/2026 13:31:02: PrepareSave: ZDOExtraData.PrepareSave done in 44 ms
+05/03/2026 13:31:02: World save writing starting
+05/03/2026 13:31:02: World save writing started
+05/03/2026 13:31:03: Saved 380008 ZDOs
+05/03/2026 13:31:03: World save writing finishing
+05/03/2026 13:31:03: Cloud Save: 17295846 bytes. /worlds/Vabows.db
+Steam writing file chunks 1 / 1, (17295846 bytes)
+05/03/2026 13:31:03: World save writing finished
+05/03/2026 13:31:03: Cloud Save: 61 bytes. /worlds/Vabows.fwl
+Steam writing file chunks 1 / 1, (61 bytes)
+05/03/2026 13:31:03: World saved ( 1393,1459ms )
+05/03/2026 13:31:03: Considering autobackup. World time: 2883,239, short time: 7200, long time: 43200, backup count: 4
+05/03/2026 13:31:03: No autobackup needed yet...
+05/03/2026 13:32:11: Left click
+05/03/2026 13:32:12: Left click
+05/03/2026 13:32:18: Teleportation TRIGGER
+05/03/2026 13:32:18: Teleporting Vknight
+05/03/2026 13:32:25: Loading dungeon
+05/03/2026 13:32:25: Dungeon loaded with 36 rooms in 0 ms.
+05/03/2026 13:32:25: Loading room prefabs asynchronously
+05/03/2026 13:32:25: Spawning dungeon
+05/03/2026 13:32:31: Stopped music mountain at 4001222
+05/03/2026 13:32:31: Starting music blackforest
+05/03/2026 13:32:31: Resumed music blackforest at 5549779
+05/03/2026 13:32:32: Stopped music blackforest at 46099
+05/03/2026 13:32:32: Starting music meadows
+05/03/2026 13:32:32: Resumed music meadows at 4694591
+05/03/2026 13:32:52: Stopped music meadows at 857068
+05/03/2026 13:32:52: Starting music blackforest
+05/03/2026 13:32:52: Resumed music blackforest at 46099
+05/03/2026 13:32:56: Stopped music blackforest at 254015
+05/03/2026 13:32:57: Starting music blackforest
+05/03/2026 13:32:57: Resumed music blackforest at 254015
+05/03/2026 13:33:00: Teleportation TRIGGER
+05/03/2026 13:33:00: Teleporting Vknight
+05/03/2026 13:33:05: Loading dungeon
+05/03/2026 13:33:05: Dungeon loaded with 18 rooms in 0,507 ms.
+05/03/2026 13:33:05: Loading room prefabs asynchronously
+05/03/2026 13:33:05: Loading dungeon
+05/03/2026 13:33:05: Dungeon loaded with 34 rooms in 0 ms.
+05/03/2026 13:33:05: Loading room prefabs asynchronously
+05/03/2026 13:33:06: Spawning dungeon
+05/03/2026 13:33:06: Spawning dungeon
+05/03/2026 13:33:35: Stopped music blackforest at 1952158
+05/03/2026 13:33:35: Starting music mountain
+05/03/2026 13:33:35: Resumed music mountain at 4001222
+05/03/2026 13:33:55: Loading dungeon
+05/03/2026 13:33:55: Dungeon loaded with 29 rooms in 0 ms.
+05/03/2026 13:33:55: Loading room prefabs asynchronously
+05/03/2026 13:33:55: Spawning dungeon
+05/03/2026 13:34:11: Valid True
+05/03/2026 13:34:11: On death False
+05/03/2026 13:35:02: Loading dungeon
+05/03/2026 13:35:02: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 13:35:02: Loading room prefabs asynchronously
+05/03/2026 13:35:02: Spawning dungeon
+05/03/2026 13:35:08: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 13:35:08: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 13:35:09: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 13:35:13: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 13:35:44: Spawned Wolf x 1
+05/03/2026 13:35:44: Placed locations in zone -49,-15  duration 27,2633 ms
+05/03/2026 13:35:44: Placed locations in zone -47,-15  duration 1,0191 ms
+05/03/2026 13:35:44: Placed locations in zone -44,-15  duration 8,0582 ms
+05/03/2026 13:36:02: Setting selected recipe 68
+05/03/2026 13:36:03: Drop item $item_dragonegg
+05/03/2026 13:36:03: drop all 1  1
+05/03/2026 13:36:03: Setting selected recipe 68
+05/03/2026 13:36:03: Player 3337577547 wants to pickup DragonEgg(Clone)   im: 1466104105
+05/03/2026 13:36:29: Setting selected recipe 68
+05/03/2026 13:36:56: Setting selected recipe 68
+05/03/2026 13:36:58: Drop item $item_raspberries
+05/03/2026 13:36:58: drop all 13  13
+05/03/2026 13:36:58: Setting selected recipe 68
+05/03/2026 13:36:58: Player 3337577547 wants to pickup Raspberry(Clone)   im: 1466104105
+05/03/2026 13:37:00: Drop item $item_wolf_meat
+05/03/2026 13:37:00: drop all 1  1
+05/03/2026 13:37:00: Setting selected recipe 68
+05/03/2026 13:37:01: Drop item $item_wolfpelt
+05/03/2026 13:37:01: drop all 1  1
+05/03/2026 13:37:01: Setting selected recipe 68
+05/03/2026 13:37:02: Player 3337577547 wants to pickup WolfPelt(Clone)   im: 1466104105
+05/03/2026 13:37:02: Drop item $item_wolffang
+05/03/2026 13:37:02: drop all 1  1
+05/03/2026 13:37:02: Setting selected recipe 68
+05/03/2026 13:37:03: Player 3337577547 wants to pickup WolfMeat(Clone)   im: 1466104105
+05/03/2026 13:37:03: Player 3337577547 wants to pickup WolfFang(Clone)   im: 1466104105
+05/03/2026 13:37:03: Drop item $item_stone
+05/03/2026 13:37:03: drop all 3  3
+05/03/2026 13:37:03: Setting selected recipe 68
+05/03/2026 13:37:04: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 13:37:05: Drop item $item_resin
+05/03/2026 13:37:05: drop all 1  1
+05/03/2026 13:37:05: Setting selected recipe 68
+05/03/2026 13:37:05: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 13:37:05: Found location of type Dragonqueen
+05/03/2026 13:37:06: Drop item $item_fircone
+05/03/2026 13:37:06: drop all 1  1
+05/03/2026 13:37:06: Setting selected recipe 68
+05/03/2026 13:37:06: Found location of type Dragonqueen
+05/03/2026 13:37:06: Player 3337577547 wants to pickup FirCone(Clone)   im: 1466104105
+05/03/2026 13:37:07: Found location of type Dragonqueen
+05/03/2026 13:37:07: Found location of type Dragonqueen
+05/03/2026 13:37:08: Found location of type Dragonqueen
+05/03/2026 13:37:10: Valid True
+05/03/2026 13:37:10: On death False
+05/03/2026 13:37:32: Spawned Wolf x 1
+05/03/2026 13:37:36: Loading dungeon
+05/03/2026 13:37:36: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 13:37:36: Loading room prefabs asynchronously
+05/03/2026 13:37:36: Spawning dungeon
+05/03/2026 13:37:48: Player 3337577547 wants to pickup FreezeGland(Clone)   im: 1466104105
+05/03/2026 13:37:54: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:37:56: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:37:58: Spawned Hatchling x 1
+05/03/2026 13:37:58: Valid True
+05/03/2026 13:37:58: On death False
+05/03/2026 13:38:09: Player 1466104105 wants to open TreasureChest_mountains(Clone)   im: 1466104105
+05/03/2026 13:38:09: Setting selected recipe 68
+05/03/2026 13:38:15: Setting selected recipe 68
+05/03/2026 13:38:18: Spawned Wolf x 2
+05/03/2026 13:38:18: Spawned Wolf x 1
+05/03/2026 13:38:44: Placed locations in zone -52,-21  duration 2,0158 ms
+05/03/2026 13:38:44: Loading dungeon
+05/03/2026 13:38:44: Dungeon loaded with 0 rooms from old format in 0 ms.
+05/03/2026 13:38:44: Generating DG_ForestCrypt(Clone), Seed: 112043654, Bounds diff: (-30.26, -32.00, -38.15) / (33.74, 32.00, 25.85)
+05/03/2026 13:38:44: Available rooms:18
+05/03/2026 13:38:44: To place:40
+05/03/2026 13:38:44: Connections 4
+05/03/2026 13:38:44: placed 7 doors
+05/03/2026 13:38:44: Placed 29 rooms
+05/03/2026 13:38:44: Placed locations in zone -52,-22  duration 53,7218 ms
+05/03/2026 13:38:44: Placed locations in zone -52,-17  duration 0 ms
+05/03/2026 13:38:52: Placed locations in zone -52,-16  duration 3,0307 ms
+05/03/2026 13:38:58: Player 3337577547 wants to pickup WolfPelt(Clone)   im: 1466104105
+05/03/2026 13:38:58: Player 3337577547 wants to pickup WolfMeat(Clone)   im: 1466104105
+05/03/2026 13:39:08: Valid True
+05/03/2026 13:39:08: On death False
+05/03/2026 13:39:14: Setting selected recipe 68
+05/03/2026 13:39:14: Starting music evening
+05/03/2026 13:39:15: Stopped music mountain at 8332349
+05/03/2026 13:39:18: Setting forced environment Caves
+05/03/2026 13:39:29: Player 1466104105 wants to open TreasureChest_mountaincave(Clone)   im: 1466104105
+05/03/2026 13:39:29: Setting selected recipe 68
+05/03/2026 13:39:43: Starting music frostcaves
+05/03/2026 13:39:45: Player 3337577547 wants to pickup TrophyUlv(Clone)   im: 1466104105
+05/03/2026 13:39:45: Player 3337577547 wants to pickup TrophyUlv(Clone)   im: 1466104105
+05/03/2026 13:39:50: Setting selected recipe 68
+05/03/2026 13:40:12: Got character ZDOID from Vabows : 0:0
+05/03/2026 13:40:19: Spawned Wolf x 3
+05/03/2026 13:40:20: Got character ZDOID from Vabows : 3337577547:4740
+05/03/2026 13:40:21: Setting selected recipe 68
+05/03/2026 13:40:24: Drop item $item_leatherscraps
+05/03/2026 13:40:24: drop all 1  1
+05/03/2026 13:40:24: Setting selected recipe 68
+05/03/2026 13:40:29: Setting selected recipe 68
+05/03/2026 13:40:32: Drop item $item_coins
+05/03/2026 13:40:32: drop all 77  77
+05/03/2026 13:40:32: Setting selected recipe 68
+05/03/2026 13:40:34: Drop item $item_obsidian
+05/03/2026 13:40:34: drop all 8  8
+05/03/2026 13:40:34: Setting selected recipe 68
+05/03/2026 13:41:06: Stopped music frostcaves at 1127963
+05/03/2026 13:41:28: Player 1466104105 wants to open TreasureChest_mountaincave(Clone)   im: 1466104105
+05/03/2026 13:41:28: Setting selected recipe 68
+05/03/2026 13:41:41: Starting music frostcaves
+05/03/2026 13:41:41: Resumed music frostcaves at 1127963
+05/03/2026 13:42:00: Stopped music frostcaves at 1984090
+05/03/2026 13:42:18: Starting music frostcaves
+05/03/2026 13:42:18: Resumed music frostcaves at 1984090
+05/03/2026 13:42:21: Update PlayFab entity token
+05/03/2026 13:42:24: Setting selected recipe 68
+05/03/2026 13:42:55: Disabling PlayerBase  character_trigger
+05/03/2026 13:42:59: Disabling PlayerBase  character_trigger
+05/03/2026 13:43:00: Unloading unused assets
+Unloading 3 Unused Serialized files (Serialized files now loaded: 102)
+Unloading 3861 unused Assets to reduce memory usage. Loaded Objects now: 443052.
+Total: 224.644200 ms (FindLiveObjects: 51.815400 ms CreateObjectMapping: 24.942900 ms MarkObjects: 137.644600 ms  DeleteObjects: 10.240200 ms)
+
+05/03/2026 13:43:02: Disabling PlayerBase  character_trigger
+05/03/2026 13:43:04: Disabling PlayerBase  character_trigger
+05/03/2026 13:43:25: Stopped music frostcaves at 2415861
+05/03/2026 13:43:28: Starting music frostcaves
+05/03/2026 13:43:28: Resumed music frostcaves at 2415861
+05/03/2026 13:43:45: Stopped music frostcaves at 686615
+05/03/2026 13:43:51: Setting selected recipe 68
+05/03/2026 13:43:54: Drop item $item_roundlog
+05/03/2026 13:43:54: drop all 1  1
+05/03/2026 13:43:54: Setting selected recipe 68
+05/03/2026 13:43:56: Drop item $item_wolf_meat
+05/03/2026 13:43:56: drop all 2  2
+05/03/2026 13:43:56: Setting selected recipe 68
+05/03/2026 13:43:58: Setting selected recipe 68
+05/03/2026 13:44:03: Queue unlock msg:$msg_newmaterial:$item_silvernecklace
+05/03/2026 13:44:03: Queue unlock msg:$msg_newpiece:$piece_chesttreasure
+05/03/2026 13:44:03: Setting selected recipe 68
+05/03/2026 13:44:10: Disabling PlayerBase  character_trigger
+05/03/2026 13:44:45: Starting music frostcaves
+05/03/2026 13:44:45: Resumed music frostcaves at 686615
+05/03/2026 13:44:47: Stopped music frostcaves at 741181
+05/03/2026 13:45:17: Setting selected recipe 68
+05/03/2026 13:45:21: Drop item $item_bonefragments
+05/03/2026 13:45:21: drop all 2  2
+05/03/2026 13:45:21: Setting selected recipe 68
+05/03/2026 13:45:22: Drop item $item_wolfpelt
+05/03/2026 13:45:22: drop all 2  2
+05/03/2026 13:45:22: Setting selected recipe 68
+05/03/2026 13:45:23: Drop item $item_entrails
+05/03/2026 13:45:23: drop all 2  2
+05/03/2026 13:45:23: Setting selected recipe 68
+05/03/2026 13:45:25: Setting selected recipe 68
+05/03/2026 13:45:29: Drop item $item_coal
+05/03/2026 13:45:29: drop all 2  2
+05/03/2026 13:45:29: Setting selected recipe 68
+05/03/2026 13:45:33: Drop item $item_leatherscraps
+05/03/2026 13:45:33: drop all 1  1
+05/03/2026 13:45:33: Setting selected recipe 68
+05/03/2026 13:45:36: Setting selected recipe 68
+05/03/2026 13:45:40: Starting music frostcaves
+05/03/2026 13:45:40: Resumed music frostcaves at 741181
+05/03/2026 13:45:49: Stopped music frostcaves at 1121264
+05/03/2026 13:46:05: Setting selected recipe 68
+05/03/2026 13:46:22: Starting music frostcaves
+05/03/2026 13:46:22: Resumed music frostcaves at 1121264
+05/03/2026 13:46:24: Stopped music frostcaves at 1166422
+05/03/2026 13:46:26: Starting music frostcaves
+05/03/2026 13:46:26: Resumed music frostcaves at 1166422
+05/03/2026 13:46:30: Player 1466104105 wants to open Player_tombstone(Clone)   im: 1466104105
+05/03/2026 13:46:30: Setting selected recipe 68
+05/03/2026 13:46:32: Setting selected recipe 68
+05/03/2026 13:46:34: Setting selected recipe 68
+05/03/2026 13:46:48: Stopped music frostcaves at 2142031
+05/03/2026 13:46:55: Setting forced environment 
+05/03/2026 13:46:56: Starting music mountain
+05/03/2026 13:46:56: Resumed music mountain at 8332349
+05/03/2026 13:47:01: Got character ZDOID from Vabows : 0:0
+05/03/2026 13:47:02: Left click
+05/03/2026 13:47:03: Right click
+05/03/2026 13:47:09: Got character ZDOID from Vabows : 3337577547:6046
+05/03/2026 13:47:11: Left click
+05/03/2026 13:47:12: Left click
+05/03/2026 13:47:46: Player 1466104105 wants to open Player_tombstone(Clone)   im: 1466104105
+05/03/2026 13:47:46: Setting selected recipe 68
+05/03/2026 13:47:50: Queue unlock msg:$msg_newitem:$item_loxmeat_cooked
+05/03/2026 13:48:10: Loading dungeon
+05/03/2026 13:48:10: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 13:48:10: Loading room prefabs asynchronously
+05/03/2026 13:48:10: Spawning dungeon
+05/03/2026 13:48:15: Loading dungeon
+05/03/2026 13:48:15: Dungeon loaded with 34 rooms in 0 ms.
+05/03/2026 13:48:15: Loading room prefabs asynchronously
+05/03/2026 13:48:15: Spawning dungeon
+05/03/2026 13:48:15: Starting music morning
+05/03/2026 13:48:16: Stopped music mountain at 1211117
+05/03/2026 13:48:26: Loading dungeon
+05/03/2026 13:48:26: Dungeon loaded with 18 rooms in 0 ms.
+05/03/2026 13:48:26: Loading room prefabs asynchronously
+05/03/2026 13:48:26: Spawning dungeon
+05/03/2026 13:48:50: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:48:50: Setting selected recipe 68
+05/03/2026 13:48:50: Starting music blackforest
+05/03/2026 13:49:07: Placed piece_chest_wood
+05/03/2026 13:49:08: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:49:11: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:49:11: Setting selected recipe 68
+05/03/2026 13:49:25: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:49:27: Setting selected recipe 68
+05/03/2026 13:49:58: Left click
+05/03/2026 13:49:58: Left click
+05/03/2026 13:50:00: Left click
+05/03/2026 13:50:00: Left click
+05/03/2026 13:50:01: Left click
+05/03/2026 13:50:01: Left click
+05/03/2026 13:50:01: Left click
+05/03/2026 13:50:26: Spawned Greydwarf x 1
+05/03/2026 13:50:50: Found location of type Dragonqueen
+05/03/2026 13:54:37: Got character ZDOID from Vabows : 0:0
+05/03/2026 13:54:45: Got character ZDOID from Vabows : 3337577547:6911
+05/03/2026 13:55:14: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:55:18: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 13:59:16: Loading dungeon
+05/03/2026 13:59:16: Dungeon loaded with 29 rooms in 1,5148 ms.
+05/03/2026 13:59:16: Loading room prefabs asynchronously
+05/03/2026 13:59:16: Spawning dungeon
+05/03/2026 13:59:16: Stopped music blackforest at 477131
+05/03/2026 13:59:16: Starting music mountain
+05/03/2026 13:59:23: Setting selected recipe 68
+05/03/2026 13:59:50: hit mine rock 144
+05/03/2026 13:59:50: hit mine rock 144
+05/03/2026 13:59:50: hit mine rock 127
+05/03/2026 13:59:53: Loading dungeon
+05/03/2026 13:59:53: Dungeon loaded with 34 rooms in 0 ms.
+05/03/2026 13:59:53: Loading room prefabs asynchronously
+05/03/2026 13:59:53: Spawning dungeon
+05/03/2026 13:59:54: Valid True
+05/03/2026 13:59:54: On death False
+05/03/2026 14:00:00: Update PlayFab entity token
+05/03/2026 14:00:18: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/03/2026 14:00:23: Spawned Hatchling x 1
+05/03/2026 14:00:23: Loading dungeon
+05/03/2026 14:00:23: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:00:23: Loading room prefabs asynchronously
+05/03/2026 14:00:23: Spawning dungeon
+05/03/2026 14:01:02: Available space to current user: 255960006656. Saving is blocked if below: 34697412 bytes. Warnings are given if below: 69394824
+05/03/2026 14:01:02: Minimap: compressed mapData 8394214 => 18922 bytes
+05/03/2026 14:01:02: Cloud Save: 53433 bytes. /characters/vknight.fch.new
+Steam writing file chunks 1 / 1, (53433 bytes)
+Steam writing file chunks 1 / 1, (52860 bytes)
+Steam writing file chunks 1 / 1, (53433 bytes)
+05/03/2026 14:01:02: Considering autobackup. World time: 4681,298, short time: 7200, long time: 43200, backup count: 4
+05/03/2026 14:01:02: No autobackup needed yet...
+05/03/2026 14:01:02: Sending message to save player profiles
+05/03/2026 14:01:02: Sent to 76561197989682706
+05/03/2026 14:01:02: PrepareSave: clone done in 39ms
+05/03/2026 14:01:02: PrepareSave: ZDOExtraData.PrepareSave done in 102 ms
+05/03/2026 14:01:02: World save writing starting
+05/03/2026 14:01:02: World save writing started
+05/03/2026 14:01:03: Saved 383811 ZDOs
+05/03/2026 14:01:03: World save writing finishing
+05/03/2026 14:01:03: Cloud Save: 17454988 bytes. /worlds/Vabows.db
+Steam writing file chunks 1 / 1, (17454988 bytes)
+05/03/2026 14:01:03: World save writing finished
+05/03/2026 14:01:03: Cloud Save: 61 bytes. /worlds/Vabows.fwl
+Steam writing file chunks 1 / 1, (61 bytes)
+05/03/2026 14:01:03: World saved ( 1412,987ms )
+05/03/2026 14:01:03: Considering autobackup. World time: 4683,058, short time: 7200, long time: 43200, backup count: 4
+05/03/2026 14:01:03: No autobackup needed yet...
+05/03/2026 14:01:05: Placed locations in zone -53,-18  duration 1,5106 ms
+05/03/2026 14:01:07: Spawned StoneGolem x 1
+05/03/2026 14:01:07: Spawned Hatchling x 1
+05/03/2026 14:01:07: Spawned Hatchling x 1
+05/03/2026 14:01:07: Spawned Wolf x 1
+05/03/2026 14:01:08: Loading dungeon
+05/03/2026 14:01:08: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:01:08: Loading room prefabs asynchronously
+05/03/2026 14:01:08: Spawning dungeon
+05/03/2026 14:01:08: Loading dungeon
+05/03/2026 14:01:08: Dungeon loaded with 29 rooms in 0 ms.
+05/03/2026 14:01:08: Loading room prefabs asynchronously
+05/03/2026 14:01:09: Spawning dungeon
+05/03/2026 14:01:17: Placed locations in zone -48,-14  duration 2,5227 ms
+05/03/2026 14:01:17: Placed locations in zone -45,-14  duration 2,0185 ms
+05/03/2026 14:01:21: Left click
+05/03/2026 14:01:22: Left click
+05/03/2026 14:01:41: Loading dungeon
+05/03/2026 14:01:41: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:01:41: Loading room prefabs asynchronously
+05/03/2026 14:01:41: Spawning dungeon
+05/03/2026 14:02:02: Loading dungeon
+05/03/2026 14:02:02: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:02:02: Loading room prefabs asynchronously
+05/03/2026 14:02:02: Spawning dungeon
+05/03/2026 14:02:34: Loading dungeon
+05/03/2026 14:02:34: Dungeon loaded with 34 rooms in 0 ms.
+05/03/2026 14:02:34: Loading room prefabs asynchronously
+05/03/2026 14:02:34: Spawning dungeon
+05/03/2026 14:02:48: Loading dungeon
+05/03/2026 14:02:48: Dungeon loaded with 18 rooms in 0 ms.
+05/03/2026 14:02:48: Loading room prefabs asynchronously
+05/03/2026 14:02:48: Spawning dungeon
+05/03/2026 14:03:15: Setting selected recipe 68
+05/03/2026 14:03:27: Loading dungeon
+05/03/2026 14:03:27: Dungeon loaded with 29 rooms in 0 ms.
+05/03/2026 14:03:27: Loading room prefabs asynchronously
+05/03/2026 14:03:28: Spawning dungeon
+05/03/2026 14:03:33: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/03/2026 14:03:46: Loading dungeon
+05/03/2026 14:03:46: Dungeon loaded with 34 rooms in 0 ms.
+05/03/2026 14:03:46: Loading room prefabs asynchronously
+05/03/2026 14:03:46: Spawning dungeon
+05/03/2026 14:04:02: Spawned Hatchling x 1
+05/03/2026 14:04:02: Spawned Wolf x 1
+05/03/2026 14:04:05: hit mine rock 16
+05/03/2026 14:04:12: hit mine rock 37
+05/03/2026 14:04:12: Suport time 3,417969
+05/03/2026 14:04:19: Valid True
+05/03/2026 14:04:19: On death False
+05/03/2026 14:04:28: hit mine rock 16
+05/03/2026 14:04:28: Suport time 3,417969
+05/03/2026 14:04:28: Valid True
+05/03/2026 14:04:28: On death False
+05/03/2026 14:04:37: hit mine rock 96
+05/03/2026 14:05:01: Player 1466104105 wants to open TreasureChest_mountains(Clone)   im: 1466104105
+05/03/2026 14:05:01: Setting selected recipe 68
+05/03/2026 14:05:27: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/03/2026 14:05:31: Spawned Wolf x 1
+05/03/2026 14:05:32: Loading dungeon
+05/03/2026 14:05:32: Dungeon loaded with 0 rooms from old format in 0 ms.
+05/03/2026 14:05:32: Generating DG_ForestCrypt(Clone), Seed: 109787348, Bounds diff: (-39.00, -32.00, -38.19) / (25.00, 32.00, 25.81)
+05/03/2026 14:05:32: Available rooms:18
+05/03/2026 14:05:32: To place:40
+05/03/2026 14:05:32: Connections 4
+05/03/2026 14:05:32: cyclic detected and door types match, cool
+05/03/2026 14:05:32: cyclic detected and door types match, cool
+05/03/2026 14:05:32: placed 12 doors
+05/03/2026 14:05:32: Placed 33 rooms
+05/03/2026 14:05:32: Placed locations in zone -50,-13  duration 28,8079 ms
+05/03/2026 14:06:01: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/03/2026 14:06:13: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/03/2026 14:06:44: Setting selected recipe 68
+05/03/2026 14:06:45: Drop item $item_dragonegg
+05/03/2026 14:06:45: drop all 1  1
+05/03/2026 14:06:45: Setting selected recipe 68
+05/03/2026 14:07:03: Setting selected recipe 68
+05/03/2026 14:07:04: Drop item $item_roundlog
+05/03/2026 14:07:04: drop all 6  6
+05/03/2026 14:07:04: Setting selected recipe 68
+05/03/2026 14:07:08: Setting selected recipe 68
+05/03/2026 14:07:10: Drop item $item_wood
+05/03/2026 14:07:10: drop all 5  5
+05/03/2026 14:07:10: Setting selected recipe 68
+05/03/2026 14:07:34: Spawned Hatchling x 1
+05/03/2026 14:07:44: Spawned Wolf x 1
+05/03/2026 14:09:01: Loading dungeon
+05/03/2026 14:09:01: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:09:01: Loading room prefabs asynchronously
+05/03/2026 14:09:01: Spawning dungeon
+05/03/2026 14:09:06: Rel vel 1,233742
+05/03/2026 14:09:14: Starting music evening
+05/03/2026 14:09:15: Stopped music mountain at 5094740
+05/03/2026 14:09:23: Setting selected recipe 68
+05/03/2026 14:09:24: Setting selected recipe 68
+05/03/2026 14:09:24: Setting selected recipe 68
+05/03/2026 14:09:24: Setting selected recipe 68
+05/03/2026 14:09:24: Setting selected recipe 68
+05/03/2026 14:09:25: Setting selected recipe 68
+05/03/2026 14:09:25: Setting selected recipe 68
+05/03/2026 14:09:25: Setting selected recipe 68
+05/03/2026 14:09:26: Setting selected recipe 68
+05/03/2026 14:09:31: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:09:31: Setting selected recipe 68
+05/03/2026 14:09:33: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:09:33: Setting selected recipe 68
+05/03/2026 14:09:40: Setting selected recipe 68
+05/03/2026 14:09:41: Setting selected recipe 68
+05/03/2026 14:09:49: Valid True
+05/03/2026 14:09:49: On death False
+05/03/2026 14:09:52: Queue unlock msg:$msg_newitem:$item_mushroomyellow
+05/03/2026 14:09:55: Queue unlock msg:$msg_newitem:$item_blueberries
+05/03/2026 14:09:55: Queue unlock msg:$msg_newrecipe:$item_chest_berserker
+05/03/2026 14:09:55: Queue unlock msg:$msg_newrecipe:$item_legs_berserker
+05/03/2026 14:09:55: Queue unlock msg:$msg_newrecipe:$item_queensjam
+05/03/2026 14:09:55: Queue unlock msg:$msg_newrecipe:$item_shocklatesmoothie
+05/03/2026 14:09:55: Queue unlock msg:$msg_newpiece:$piece_banner02
+05/03/2026 14:09:55: Queue unlock msg:$msg_newpiece:$piece_banner06
+05/03/2026 14:09:55: Queue unlock msg:$msg_newpiece:$piece_banner07
+05/03/2026 14:09:55: Queue unlock msg:$msg_newpiece:$piece_banner09
+05/03/2026 14:09:59: Placed piece_chest_wood
+05/03/2026 14:10:01: Activating default element Continue
+05/03/2026 14:10:01: Starting music mountain
+05/03/2026 14:10:01: Resumed music mountain at 5094740
+05/03/2026 14:10:07: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:10:07: Setting selected recipe 68
+05/03/2026 14:10:14: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:10:14: Setting selected recipe 68
+05/03/2026 14:10:16: Queue unlock msg:$msg_newitem:$item_boarjerky
+05/03/2026 14:11:25: Setting selected recipe 68
+05/03/2026 14:12:55: Loading dungeon
+05/03/2026 14:12:55: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:12:55: Loading room prefabs asynchronously
+05/03/2026 14:12:55: Spawning dungeon
+05/03/2026 14:12:55: Setting selected recipe 68
+05/03/2026 14:12:59: Spawned Wolf x 2
+05/03/2026 14:12:59: Spawned Wolf x 3
+05/03/2026 14:12:59: Loading dungeon
+05/03/2026 14:12:59: Dungeon loaded with 34 rooms in 0 ms.
+05/03/2026 14:12:59: Loading room prefabs asynchronously
+05/03/2026 14:12:59: Spawning dungeon
+05/03/2026 14:13:20: Placed stone_wall_1x1
+05/03/2026 14:13:21: Placed stone_wall_1x1
+05/03/2026 14:13:22: Placed stone_wall_1x1
+05/03/2026 14:13:23: Placed stone_wall_1x1
+05/03/2026 14:13:23: Placed stone_wall_1x1
+05/03/2026 14:13:24: Placed stone_wall_1x1
+05/03/2026 14:13:27: Placed stone_wall_1x1
+05/03/2026 14:13:28: Placed stone_wall_1x1
+05/03/2026 14:13:29: Placed stone_wall_1x1
+05/03/2026 14:13:29: Placed stone_wall_1x1
+05/03/2026 14:13:31: Placed stone_wall_1x1
+05/03/2026 14:13:32: Placed stone_wall_1x1
+05/03/2026 14:13:33: Placed stone_wall_1x1
+05/03/2026 14:13:34: Placed stone_wall_1x1
+05/03/2026 14:13:34: Placed stone_wall_1x1
+05/03/2026 14:13:35: Placed stone_wall_1x1
+05/03/2026 14:13:35: Placed stone_wall_1x1
+05/03/2026 14:13:36: Placed stone_wall_1x1
+05/03/2026 14:13:39: Placed stone_wall_1x1
+05/03/2026 14:13:40: Placed stone_wall_1x1
+05/03/2026 14:13:40: Placed stone_wall_1x1
+05/03/2026 14:13:41: Placed stone_wall_1x1
+05/03/2026 14:13:41: Placed stone_wall_1x1
+05/03/2026 14:13:42: Placed stone_wall_1x1
+05/03/2026 14:13:43: Placed stone_wall_1x1
+05/03/2026 14:13:44: Placed stone_wall_1x1
+05/03/2026 14:13:46: Placed stone_wall_1x1
+05/03/2026 14:13:46: Placed stone_wall_1x1
+05/03/2026 14:13:58: Placed stone_wall_4x2
+05/03/2026 14:14:00: Placed stone_wall_4x2
+05/03/2026 14:14:03: Placed stone_wall_4x2
+05/03/2026 14:14:09: Setting location music as played
+05/03/2026 14:14:11: Placed stone_wall_4x2
+05/03/2026 14:14:13: Placed stone_wall_4x2
+05/03/2026 14:14:19: Placed stone_wall_4x2
+05/03/2026 14:14:21: Placed stone_wall_4x2
+05/03/2026 14:14:28: Placed stone_wall_4x2
+05/03/2026 14:14:30: Placed stone_wall_4x2
+05/03/2026 14:14:31: hit mine rock 66
+05/03/2026 14:14:34: Placed stone_wall_4x2
+05/03/2026 14:14:35: Placed stone_wall_4x2
+05/03/2026 14:14:36: Placed stone_wall_4x2
+05/03/2026 14:14:43: Placed stone_arch
+05/03/2026 14:14:47: Placed stone_wall_1x1
+05/03/2026 14:14:54: Placed stone_wall_1x1
+05/03/2026 14:14:56: Placed stone_wall_1x1
+05/03/2026 14:14:57: Placed stone_wall_1x1
+05/03/2026 14:15:11: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/03/2026 14:15:11: hit mine rock 71
+05/03/2026 14:15:11: Suport time 2,441406
+05/03/2026 14:15:14: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+05/03/2026 14:15:14: New connection
+05/03/2026 14:15:14: Accepting connection k_EResultOK
+05/03/2026 14:15:14: Connecting to Steamworks.SteamNetworkingIdentity
+05/03/2026 14:15:14: Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
+05/03/2026 14:15:14: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+05/03/2026 14:15:14: Got handshake from client 76561198086049794
+05/03/2026 14:15:17: Network version check, their:36, mine:36
+05/03/2026 14:15:17: Server: New peer connected,sending global keys
+05/03/2026 14:15:28: Placed stone_wall_4x2
+05/03/2026 14:15:33: Got character ZDOID from Castor : 1395956460:1
+05/03/2026 14:15:35: Placed stone_wall_4x2
+05/03/2026 14:15:39: Placed stone_wall_4x2
+05/03/2026 14:15:42: Placed stone_wall_4x2
+05/03/2026 14:15:50: Placed stone_wall_4x2
+05/03/2026 14:16:08: Placed stone_wall_4x2
+05/03/2026 14:16:13: Placed stone_wall_4x2
+05/03/2026 14:16:27: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:27: Disabling FireArea  character_trigger
+05/03/2026 14:16:28: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:30: Placed piece_groundtorch_wood
+05/03/2026 14:16:30: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:30: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:31: Placed piece_groundtorch_wood
+05/03/2026 14:16:31: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:31: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:32: Placed piece_groundtorch_wood
+05/03/2026 14:16:32: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:32: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:33: Placed piece_groundtorch_wood
+05/03/2026 14:16:33: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:33: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:37: Placed piece_groundtorch_wood
+05/03/2026 14:16:37: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:37: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:39: Placed piece_groundtorch_wood
+05/03/2026 14:16:39: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:39: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:41: Placed piece_groundtorch_wood
+05/03/2026 14:16:41: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:41: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:44: Placed piece_groundtorch_wood
+05/03/2026 14:16:44: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:44: Disabling PlayerBase  character_trigger
+05/03/2026 14:16:46: Update PlayFab entity token
+05/03/2026 14:17:01: Placed stone_floor_2x2
+05/03/2026 14:17:03: Placed stone_floor_2x2
+05/03/2026 14:17:05: Placed stone_floor_2x2
+05/03/2026 14:17:06: Placed stone_floor_2x2
+05/03/2026 14:17:07: Placed stone_floor_2x2
+05/03/2026 14:17:08: Placed stone_floor_2x2
+05/03/2026 14:17:09: Placed stone_floor_2x2
+05/03/2026 14:17:10: Placed stone_floor_2x2
+05/03/2026 14:17:13: Placed stone_floor_2x2
+05/03/2026 14:17:15: Placed stone_floor_2x2
+05/03/2026 14:17:18: Placed stone_floor_2x2
+05/03/2026 14:17:21: Placed stone_floor_2x2
+05/03/2026 14:17:24: Placed stone_floor_2x2
+05/03/2026 14:17:25: Placed stone_floor_2x2
+05/03/2026 14:17:28: Placed stone_floor_2x2
+05/03/2026 14:17:30: Placed stone_floor_2x2
+05/03/2026 14:17:32: Placed stone_floor_2x2
+05/03/2026 14:17:33: Placed stone_floor_2x2
+05/03/2026 14:17:36: Placed stone_floor_2x2
+05/03/2026 14:17:42: Placed stone_floor_2x2
+05/03/2026 14:17:44: Placed stone_floor_2x2
+05/03/2026 14:17:47: Placed stone_floor_2x2
+05/03/2026 14:17:51: Placed stone_floor_2x2
+05/03/2026 14:17:54: Placed stone_floor_2x2
+05/03/2026 14:17:56: Placed stone_floor_2x2
+05/03/2026 14:18:15: Starting music morning
+05/03/2026 14:18:16: Stopped music mountain at 5612488
+05/03/2026 14:18:34: Placed stone_floor_2x2
+05/03/2026 14:18:35: Placed stone_floor_2x2
+05/03/2026 14:18:36: Placed stone_floor_2x2
+05/03/2026 14:18:37: Placed stone_floor_2x2
+05/03/2026 14:18:39: Placed stone_floor_2x2
+05/03/2026 14:18:39: Placed stone_floor_2x2
+05/03/2026 14:18:40: Placed stone_floor_2x2
+05/03/2026 14:18:40: Placed stone_floor_2x2
+05/03/2026 14:18:41: Placed stone_floor_2x2
+05/03/2026 14:18:42: Placed stone_floor_2x2
+05/03/2026 14:18:43: Placed stone_floor_2x2
+05/03/2026 14:18:44: Placed stone_floor_2x2
+05/03/2026 14:18:45: Placed stone_floor_2x2
+05/03/2026 14:18:47: Placed stone_floor_2x2
+05/03/2026 14:18:49: Placed stone_floor_2x2
+05/03/2026 14:18:49: Placed stone_floor_2x2
+05/03/2026 14:18:50: Starting music mountain
+05/03/2026 14:18:50: Resumed music mountain at 5612488
+05/03/2026 14:18:51: Placed stone_floor_2x2
+05/03/2026 14:18:58: Placed stone_wall_4x2
+05/03/2026 14:19:46: Loading dungeon
+05/03/2026 14:19:46: Dungeon loaded with 34 rooms in 0 ms.
+05/03/2026 14:19:46: Loading room prefabs asynchronously
+05/03/2026 14:19:46: Spawning dungeon
+05/03/2026 14:20:12: Spawned Greyling x 1
+05/03/2026 14:21:10: Loading dungeon
+05/03/2026 14:21:10: Dungeon loaded with 23 rooms in 0,503 ms.
+05/03/2026 14:21:10: Loading room prefabs asynchronously
+05/03/2026 14:21:10: Spawning dungeon
+05/03/2026 14:21:11: Setting selected recipe 68
+05/03/2026 14:21:12: Setting selected recipe 68
+05/03/2026 14:21:12: Setting selected recipe 68
+05/03/2026 14:21:13: Setting selected recipe 68
+05/03/2026 14:21:13: Setting selected recipe 68
+05/03/2026 14:21:13: Setting selected recipe 68
+05/03/2026 14:21:13: Setting selected recipe 68
+05/03/2026 14:21:13: Setting selected recipe 68
+05/03/2026 14:21:29: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/03/2026 14:21:31: hit mine rock 91
+05/03/2026 14:21:31: hit mine rock 28
+05/03/2026 14:21:34: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/03/2026 14:21:34: hit mine rock 85
+05/03/2026 14:21:34: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:21:35: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:21:50: Setting selected recipe 68
+05/03/2026 14:21:51: Drop item $item_dragonegg
+05/03/2026 14:21:51: drop all 1  1
+05/03/2026 14:21:51: Setting selected recipe 68
+05/03/2026 14:21:51: Player 3337577547 wants to pickup DragonEgg(Clone)   im: 1466104105
+05/03/2026 14:22:01: Starting music boss_moder
+05/03/2026 14:22:05: Stopped music mountain at 8600793
+05/03/2026 14:22:20: hit mine rock 82
+05/03/2026 14:22:27: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/03/2026 14:22:27: hit mine rock 82
+05/03/2026 14:22:27: Suport time 3,417969
+05/03/2026 14:22:27: hit mine rock 53
+05/03/2026 14:22:27: Suport time 3,417969
+05/03/2026 14:22:27: hit mine rock 59
+05/03/2026 14:22:27: Suport time 3,417969
+05/03/2026 14:22:28: hit mine rock 135
+05/03/2026 14:22:28: Suport time 3,417969
+05/03/2026 14:23:52: hit mine rock 4
+05/03/2026 14:23:52: Suport time 3,90625
+05/03/2026 14:23:52: hit mine rock 127
+05/03/2026 14:23:52: Suport time 3,417969
+05/03/2026 14:23:52: hit mine rock 63
+05/03/2026 14:23:52: Suport time 3,417969
+05/03/2026 14:23:53: hit mine rock 19
+05/03/2026 14:23:53: Suport time 3,417969
+05/03/2026 14:23:53: hit mine rock 58
+05/03/2026 14:23:53: Suport time 3,417969
+05/03/2026 14:23:53: hit mine rock 56
+05/03/2026 14:23:53: Suport time 2,929688
+05/03/2026 14:23:55: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:24:44: Player 1395956460 wants to pickup BoneFragments(Clone)   im: 1466104105
+05/03/2026 14:24:46: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:24:50: hit mine rock 23
+05/03/2026 14:24:50: Suport time 3,417969
+05/03/2026 14:25:08: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:09: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:09: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:09: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:09: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:09: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:09: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:09: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:09: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:09: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:10: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:10: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:10: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:25:12: Setting selected recipe 68
+05/03/2026 14:25:17: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/03/2026 14:25:17: hit mine rock 20
+05/03/2026 14:25:17: Suport time 1,464844
+05/03/2026 14:25:25: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/03/2026 14:25:25: hit mine rock 63
+05/03/2026 14:25:25: Suport time 2,441406
+05/03/2026 14:25:25: hit mine rock 37
+05/03/2026 14:25:25: Suport time 2,929688
+05/03/2026 14:25:25: hit mine rock 52
+05/03/2026 14:25:25: Suport time 2,441406
+05/03/2026 14:25:26: hit mine rock 8
+05/03/2026 14:25:26: Suport time 2,441406
+05/03/2026 14:25:26: hit mine rock 35
+05/03/2026 14:25:26: Suport time 2,929688
+05/03/2026 14:25:26: hit mine rock 71
+05/03/2026 14:25:26: Suport time 2,441406
+05/03/2026 14:25:26: hit mine rock 78
+05/03/2026 14:25:36: hit mine rock 52
+05/03/2026 14:25:36: Suport time 3,417969
+05/03/2026 14:25:37: hit mine rock 63
+05/03/2026 14:25:37: Suport time 3,417969
+05/03/2026 14:25:37: hit mine rock 8
+05/03/2026 14:25:37: Suport time 2,929688
+05/03/2026 14:25:37: hit mine rock 96
+05/03/2026 14:25:37: Suport time 3,417969
+05/03/2026 14:25:37: hit mine rock 35
+05/03/2026 14:25:37: Suport time 2,929688
+05/03/2026 14:25:37: hit mine rock 37
+05/03/2026 14:25:37: Suport time 2,929688
+05/03/2026 14:25:47: Got character ZDOID from Vabows : 0:0
+05/03/2026 14:25:52: hit mine rock 99
+05/03/2026 14:25:52: Suport time 3,90625
+05/03/2026 14:25:55: Got character ZDOID from Vabows : 3337577547:10358
+05/03/2026 14:25:57: hit mine rock 90
+05/03/2026 14:25:57: Suport time 2,441406
+05/03/2026 14:26:03: hit mine rock 61
+05/03/2026 14:26:03: Suport time 2,441406
+05/03/2026 14:26:03: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/03/2026 14:26:18: hit mine rock 41
+05/03/2026 14:26:33: Valid True
+05/03/2026 14:26:33: On death False
+05/03/2026 14:26:43: Spawned Wolf x 1
+05/03/2026 14:26:54: hit mine rock 151
+05/03/2026 14:26:54: Suport time 2,929688
+05/03/2026 14:26:56: Loading dungeon
+05/03/2026 14:26:56: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:26:56: Loading room prefabs asynchronously
+05/03/2026 14:26:56: Spawning dungeon
+05/03/2026 14:27:00: Player 3337577547 wants to takeall from Player_tombstone(Clone)   im: 1466104105
+05/03/2026 14:27:01: Disabling PlayerBase  character_trigger
+05/03/2026 14:27:02: Disabling PlayerBase  character_trigger
+05/03/2026 14:27:03: hit mine rock 130
+05/03/2026 14:27:03: Suport time 3,417969
+05/03/2026 14:27:10: Disabling PlayerBase  character_trigger
+05/03/2026 14:27:13: Placed piece_workbench
+05/03/2026 14:27:13: Disabling PlayerBase  character_trigger
+05/03/2026 14:27:16: Setting selected recipe 68
+05/03/2026 14:27:17: Setting selected recipe 68
+05/03/2026 14:27:17: Setting selected recipe 68
+05/03/2026 14:27:18: Setting selected recipe 68
+05/03/2026 14:27:18: Setting selected recipe 68
+05/03/2026 14:27:18: Setting selected recipe 68
+05/03/2026 14:27:22: Setting selected recipe 68
+05/03/2026 14:27:54: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:27:54: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:27:54: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:27:54: Player 3337577547 wants to pickup CookedDeerMeat(Clone)   im: 1466104105
+05/03/2026 14:27:54: Player 3337577547 wants to pickup Mushroom(Clone)   im: 1466104105
+05/03/2026 14:28:00: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:28:07: Player 1395956460 wants to pickup WolfPelt(Clone)   im: 1466104105
+05/03/2026 14:28:07: Player 1395956460 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:28:08: Player 1395956460 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 14:28:08: Player 1395956460 wants to pickup MushroomYellow(Clone)   im: 1466104105
+05/03/2026 14:28:12: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:28:14: Disabling PlayerBase  character_trigger
+05/03/2026 14:28:15: Placed piece_workbench
+05/03/2026 14:28:15: Disabling PlayerBase  character_trigger
+05/03/2026 14:28:39: Player 1395956460 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:28:39: Player 1395956460 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:28:40: Player 1395956460 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:28:40: Player 1395956460 wants to pickup FirCone(Clone)   im: 1466104105
+05/03/2026 14:28:46: hit mine rock 58
+05/03/2026 14:28:57: Spawned Hatchling x 1
+05/03/2026 14:28:58: Loading dungeon
+05/03/2026 14:28:58: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:28:58: Loading room prefabs asynchronously
+05/03/2026 14:28:58: Spawning dungeon
+05/03/2026 14:29:00: hit mine rock 161
+05/03/2026 14:29:16: Loading dungeon
+05/03/2026 14:29:16: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:29:16: Loading room prefabs asynchronously
+05/03/2026 14:29:16: Spawning dungeon
+05/03/2026 14:29:24: hit mine rock 5
+05/03/2026 14:29:24: Suport time 3,417969
+05/03/2026 14:29:45: Player 1395956460 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:30:09: Player 3337577547 wants to pickup FirCone(Clone)   im: 1466104105
+05/03/2026 14:30:09: Player 3337577547 wants to pickup WolfFang(Clone)   im: 1466104105
+05/03/2026 14:30:09: Player 3337577547 wants to pickup FreezeGland(Clone)   im: 1466104105
+05/03/2026 14:30:12: Player 1395956460 wants to pickup BoarJerky(Clone)   im: 1466104105
+05/03/2026 14:30:22: Loading dungeon
+05/03/2026 14:30:22: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:30:22: Loading room prefabs asynchronously
+05/03/2026 14:30:22: Spawning dungeon
+05/03/2026 14:30:23: Setting selected recipe 68
+05/03/2026 14:30:34: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:30:35: Player 3337577547 wants to pickup BoneFragments(Clone)   im: 1466104105
+05/03/2026 14:30:35: Player 3337577547 wants to pickup ArmorBronzeChest(Clone)   im: 1466104105
+05/03/2026 14:30:35: Loading dungeon
+05/03/2026 14:30:35: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:30:35: Loading room prefabs asynchronously
+05/03/2026 14:30:35: Spawning dungeon
+05/03/2026 14:30:36: Disabling PlayerBase  character_trigger
+05/03/2026 14:30:42: Placed piece_workbench
+05/03/2026 14:30:42: Disabling PlayerBase  character_trigger
+05/03/2026 14:30:42: Placed piece_workbench
+05/03/2026 14:30:42: Disabling PlayerBase  character_trigger
+05/03/2026 14:30:49: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:30:49: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:30:49: Setting selected recipe 68
+05/03/2026 14:30:51: hit mine rock 10
+05/03/2026 14:30:51: Suport time 2,929688
+05/03/2026 14:30:51: hit mine rock 32
+05/03/2026 14:30:51: Suport time 6,347656
+05/03/2026 14:30:51: hit mine rock 0
+05/03/2026 14:30:51: hit mine rock 1
+05/03/2026 14:30:51: hit mine rock 2
+05/03/2026 14:30:51: hit mine rock 3
+05/03/2026 14:30:51: hit mine rock 4
+05/03/2026 14:30:51: hit mine rock 5
+05/03/2026 14:30:51: hit mine rock 6
+05/03/2026 14:30:51: hit mine rock 7
+05/03/2026 14:30:51: hit mine rock 8
+05/03/2026 14:30:51: hit mine rock 9
+05/03/2026 14:30:51: hit mine rock 10
+05/03/2026 14:30:51: hit mine rock 11
+05/03/2026 14:30:51: hit mine rock 12
+05/03/2026 14:30:51: hit mine rock 13
+05/03/2026 14:30:51: hit mine rock 14
+05/03/2026 14:30:51: hit mine rock 15
+05/03/2026 14:30:51: hit mine rock 16
+05/03/2026 14:30:51: hit mine rock 17
+05/03/2026 14:30:51: hit mine rock 18
+05/03/2026 14:30:51: hit mine rock 19
+05/03/2026 14:30:51: hit mine rock 20
+05/03/2026 14:30:51: hit mine rock 21
+05/03/2026 14:30:51: hit mine rock 22
+05/03/2026 14:30:51: hit mine rock 23
+05/03/2026 14:30:51: hit mine rock 24
+05/03/2026 14:30:51: hit mine rock 25
+05/03/2026 14:30:51: hit mine rock 26
+05/03/2026 14:30:51: hit mine rock 27
+05/03/2026 14:30:51: hit mine rock 28
+05/03/2026 14:30:51: hit mine rock 29
+05/03/2026 14:30:51: hit mine rock 30
+05/03/2026 14:30:51: hit mine rock 31
+05/03/2026 14:30:51: hit mine rock 33
+05/03/2026 14:30:51: hit mine rock 34
+05/03/2026 14:30:51: hit mine rock 35
+05/03/2026 14:30:51: hit mine rock 36
+05/03/2026 14:30:51: hit mine rock 37
+05/03/2026 14:30:51: hit mine rock 38
+05/03/2026 14:30:51: hit mine rock 39
+05/03/2026 14:30:51: hit mine rock 40
+05/03/2026 14:30:51: hit mine rock 41
+05/03/2026 14:30:51: hit mine rock 42
+05/03/2026 14:30:51: hit mine rock 43
+05/03/2026 14:30:51: hit mine rock 44
+05/03/2026 14:30:51: hit mine rock 45
+05/03/2026 14:30:51: hit mine rock 46
+05/03/2026 14:30:51: hit mine rock 47
+05/03/2026 14:30:51: hit mine rock 48
+05/03/2026 14:30:51: hit mine rock 49
+05/03/2026 14:30:51: hit mine rock 50
+05/03/2026 14:30:51: hit mine rock 51
+05/03/2026 14:30:51: hit mine rock 52
+05/03/2026 14:30:51: hit mine rock 53
+05/03/2026 14:30:51: hit mine rock 54
+05/03/2026 14:30:51: hit mine rock 55
+05/03/2026 14:30:51: hit mine rock 56
+05/03/2026 14:30:51: hit mine rock 57
+05/03/2026 14:30:51: hit mine rock 58
+05/03/2026 14:30:51: hit mine rock 59
+05/03/2026 14:30:51: hit mine rock 60
+05/03/2026 14:30:51: hit mine rock 61
+05/03/2026 14:30:51: hit mine rock 62
+05/03/2026 14:30:51: hit mine rock 63
+05/03/2026 14:30:51: hit mine rock 64
+05/03/2026 14:30:51: hit mine rock 65
+05/03/2026 14:30:51: hit mine rock 66
+05/03/2026 14:30:51: hit mine rock 67
+05/03/2026 14:30:51: hit mine rock 68
+05/03/2026 14:30:51: hit mine rock 69
+05/03/2026 14:30:51: hit mine rock 70
+05/03/2026 14:30:51: hit mine rock 71
+05/03/2026 14:30:51: hit mine rock 72
+05/03/2026 14:30:51: hit mine rock 73
+05/03/2026 14:30:51: hit mine rock 74
+05/03/2026 14:30:51: hit mine rock 75
+05/03/2026 14:30:51: hit mine rock 76
+05/03/2026 14:30:51: hit mine rock 77
+05/03/2026 14:30:51: hit mine rock 78
+05/03/2026 14:30:51: hit mine rock 79
+05/03/2026 14:30:51: hit mine rock 80
+05/03/2026 14:30:51: hit mine rock 81
+05/03/2026 14:30:51: hit mine rock 82
+05/03/2026 14:30:51: hit mine rock 83
+05/03/2026 14:30:51: hit mine rock 84
+05/03/2026 14:30:51: hit mine rock 85
+05/03/2026 14:30:51: hit mine rock 86
+05/03/2026 14:30:51: hit mine rock 87
+05/03/2026 14:30:51: hit mine rock 88
+05/03/2026 14:30:51: hit mine rock 89
+05/03/2026 14:30:51: hit mine rock 90
+05/03/2026 14:30:51: hit mine rock 91
+05/03/2026 14:30:51: hit mine rock 92
+05/03/2026 14:30:51: hit mine rock 93
+05/03/2026 14:30:51: hit mine rock 94
+05/03/2026 14:30:51: hit mine rock 95
+05/03/2026 14:30:51: hit mine rock 96
+05/03/2026 14:30:51: hit mine rock 97
+05/03/2026 14:30:51: hit mine rock 98
+05/03/2026 14:30:51: hit mine rock 99
+05/03/2026 14:30:56: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:30:57: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:30:57: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:30:57: hit mine rock 19
+05/03/2026 14:30:57: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:30:58: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:30:58: hit mine rock 19
+05/03/2026 14:30:58: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:30:58: hit mine rock 19
+05/03/2026 14:30:58: Suport time 2,929688
+05/03/2026 14:31:01: Player 1395956460 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:31:01: Player 1395956460 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 14:31:01: Player 1395956460 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:31:01: Player 1395956460 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:31:02: Available space to current user: 255567073280. Saving is blocked if below: 35016842 bytes. Warnings are given if below: 70033684
+05/03/2026 14:31:02: Minimap: compressed mapData 8394244 => 18937 bytes
+05/03/2026 14:31:02: Cloud Save: 53898 bytes. /characters/vknight.fch.new
+Steam writing file chunks 1 / 1, (53898 bytes)
+Steam writing file chunks 1 / 1, (53433 bytes)
+Steam writing file chunks 1 / 1, (53898 bytes)
+05/03/2026 14:31:02: Considering autobackup. World time: 6481,158, short time: 7200, long time: 43200, backup count: 4
+05/03/2026 14:31:02: No autobackup needed yet...
+05/03/2026 14:31:02: Sending message to save player profiles
+05/03/2026 14:31:02: Sent to 76561197989682706
+05/03/2026 14:31:02: Sent to 76561198086049794
+05/03/2026 14:31:02: PrepareSave: clone done in 100ms
+05/03/2026 14:31:02: PrepareSave: ZDOExtraData.PrepareSave done in 49 ms
+05/03/2026 14:31:02: World save writing starting
+05/03/2026 14:31:02: World save writing started
+05/03/2026 14:31:03: Saved 388002 ZDOs
+05/03/2026 14:31:03: World save writing finishing
+05/03/2026 14:31:03: Cloud Save: 17650497 bytes. /worlds/Vabows.db
+Steam writing file chunks 1 / 1, (17650497 bytes)
+05/03/2026 14:31:03: World save writing finished
+05/03/2026 14:31:03: Cloud Save: 61 bytes. /worlds/Vabows.fwl
+Steam writing file chunks 1 / 1, (61 bytes)
+05/03/2026 14:31:04: World saved ( 1451,7825ms )
+05/03/2026 14:31:04: Considering autobackup. World time: 6482,978, short time: 7200, long time: 43200, backup count: 4
+05/03/2026 14:31:04: No autobackup needed yet...
+05/03/2026 14:31:06: Setting selected recipe 47
+05/03/2026 14:31:08: hit mine rock 46
+05/03/2026 14:31:08: Queue unlock msg:$msg_newitem:$item_bow
+05/03/2026 14:31:08: Setting selected recipe 47
+05/03/2026 14:31:09: Setting selected recipe 53
+05/03/2026 14:31:11: Setting selected recipe 53
+05/03/2026 14:31:12: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:31:12: Drop item $item_bow_finewood
+05/03/2026 14:31:12: drop all 1  1
+05/03/2026 14:31:12: Setting selected recipe 53
+05/03/2026 14:31:13: Update PlayFab entity token
+05/03/2026 14:31:13: Player 1395956460 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:31:15: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:31:15: Player 1395956460 wants to pickup SilverOre(Clone)   im: 1466104105
+05/03/2026 14:31:15: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:31:16: Player 1395956460 wants to pickup SilverOre(Clone)   im: 1466104105
+05/03/2026 14:31:16: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:31:18: Player 1395956460 wants to pickup BowFineWood(Clone)   im: 1466104105
+05/03/2026 14:31:23: Loading dungeon
+05/03/2026 14:31:23: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:31:23: Loading room prefabs asynchronously
+05/03/2026 14:31:23: Spawning dungeon
+05/03/2026 14:31:34: hit mine rock 71
+05/03/2026 14:31:34: Suport time 3,417969
+05/03/2026 14:31:45: Starting respawn
+05/03/2026 14:31:45: Local player destroyed
+05/03/2026 14:31:45: tip:$loadscreen_tip11
+05/03/2026 14:31:49: Stopped music boss_moder at 3946394
+05/03/2026 14:31:49: Loading dungeon
+05/03/2026 14:31:49: Dungeon loaded with 36 rooms in 0 ms.
+05/03/2026 14:31:49: Loading room prefabs asynchronously
+05/03/2026 14:31:50: Spawning dungeon
+05/03/2026 14:31:53: Found bed at custom spawn point
+05/03/2026 14:31:53: Unloading unused assets
+Unloading 1 Unused Serialized files (Serialized files now loaded: 71)
+Unloading 2503 unused Assets to reduce memory usage. Loaded Objects now: 588295.
+Total: 235.439600 ms (FindLiveObjects: 60.993800 ms CreateObjectMapping: 22.744400 ms MarkObjects: 145.674600 ms  DeleteObjects: 6.024700 ms)
+
+05/03/2026 14:31:53: Starting music mountain
+05/03/2026 14:31:56: Stopped music mountain at 129830
+05/03/2026 14:31:56: Starting music blackforest
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.17012, 0.00000, 0.98542)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.88293, 0.00000, 0.46951)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.02028, 0.00000, 0.99979)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.62488, 0.00000, -0.78072)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.12921, 0.00000, 0.99162)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.98722, 0.00000, -0.15938)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.86326, 0.00000, 0.50476)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.72352, 0.00000, 0.69030)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.62093, 0.00000, 0.78387)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.99999, 0.00000, -0.00478)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.97971, 0.00000, 0.20041)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.16989, 0.00000, 0.98546)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.06542, 0.00000, 0.99786)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, -0.02680, 0.00000, 0.99964)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.89520, 0.00000, 0.44566)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.37407, 0.00000, 0.92740)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.79581, 0.00000, -0.60554)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.49921, 0.00000, -0.86648)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.82874, 0.00000, 0.55964)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.14573, 0.00000, 0.98933)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.26047, 0.00000, -0.96548)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.79048, 0.00000, 0.61248)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.94937, 0.00000, 0.31415)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.90538, 0.00000, 0.42460)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.67400, 0.00000, 0.73873)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.98602, 0.00000, 0.16662)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.54485, 0.00000, -0.83853)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.38479, 0.00000, -0.92301)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.47735, 0.00000, 0.87872)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.42384, 0.00000, 0.90574)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.98244, 0.00000, 0.18656)
+05/03/2026 14:32:00: Starting to grow plant with rotation: (0.00000, 0.82232, 0.00000, -0.56902)
+05/03/2026 14:32:02: Setting selected recipe 10
+05/03/2026 14:32:03: Setting selected recipe 12
+05/03/2026 14:32:05: Stopped music blackforest at 398899
+05/03/2026 14:32:05: Starting music meadows
+05/03/2026 14:32:13: Setting selected recipe 12
+05/03/2026 14:32:17: Setting selected recipe 67
+05/03/2026 14:32:20: Setting selected recipe 67
+05/03/2026 14:32:41: Spawn time :0,5119 ms
+05/03/2026 14:32:46: Setting selected recipe 67
+05/03/2026 14:32:51: Activating default element Continue
+05/03/2026 14:32:52: Disabling PlayerBase  character_trigger
+05/03/2026 14:32:55: Disabling PlayerBase  character_trigger
+05/03/2026 14:32:56: Stopped music meadows at 2233459
+05/03/2026 14:32:56: Starting music home
+05/03/2026 14:32:58: Stopped music home at 103487
+05/03/2026 14:32:59: Starting music meadows
+05/03/2026 14:32:59: Resumed music meadows at 2233459
+05/03/2026 14:33:00: Setting selected recipe 67
+05/03/2026 14:33:03: Setting selected recipe 67
+05/03/2026 14:33:18: Teleportation TRIGGER
+05/03/2026 14:33:18: Teleporting Vknight
+05/03/2026 14:33:21: Stopped music meadows at 983135
+05/03/2026 14:33:21: Starting music blackforest
+05/03/2026 14:33:21: Resumed music blackforest at 398899
+05/03/2026 14:33:23: Loading dungeon
+05/03/2026 14:33:23: Dungeon loaded with 18 rooms in 0 ms.
+05/03/2026 14:33:23: Loading room prefabs asynchronously
+05/03/2026 14:33:23: Loading dungeon
+05/03/2026 14:33:23: Dungeon loaded with 34 rooms in 0 ms.
+05/03/2026 14:33:23: Loading room prefabs asynchronously
+05/03/2026 14:33:24: Spawning dungeon
+05/03/2026 14:33:24: Spawning dungeon
+05/03/2026 14:33:40: Loading dungeon
+05/03/2026 14:33:40: Dungeon loaded with 29 rooms in 0 ms.
+05/03/2026 14:33:40: Loading room prefabs asynchronously
+05/03/2026 14:33:40: Spawning dungeon
+05/03/2026 14:33:40: Starting music boss_moder
+05/03/2026 14:33:41: Stopped music blackforest at 1285132
+05/03/2026 14:33:41: Resumed music boss_moder at 3946394
+05/03/2026 14:33:47: Loading dungeon
+05/03/2026 14:33:47: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:33:47: Loading room prefabs asynchronously
+05/03/2026 14:33:47: Spawning dungeon
+05/03/2026 14:33:50: Grave should fit in inventory, loot all
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <89f741081c874c65b780dbd6a0d8d33e>:0 
+  at UnityEngine.Component.get_gameObject () [0x00006] in <89f741081c874c65b780dbd6a0d8d33e>:0 
+  at Player.AutoPickup (System.Single dt) [0x00092] in <e4cfc70261ab46d19f39cc2deb9bc839>:0 
+  at Player.FixedUpdate () [0x000b6] in <e4cfc70261ab46d19f39cc2deb9bc839>:0 
+
+05/03/2026 14:33:53: Setting selected recipe 67
+05/03/2026 14:33:59: Item is not in this container
+05/03/2026 14:33:59: Setting selected recipe 67
+05/03/2026 14:34:10: Setting selected recipe 67
+05/03/2026 14:34:11: Setting selected recipe 67
+05/03/2026 14:34:11: Setting selected recipe 67
+05/03/2026 14:34:11: Setting selected recipe 67
+05/03/2026 14:34:11: Double ZNetview when initializing object vfx_corpse_destruction_large
+05/03/2026 14:34:11: Setting selected recipe 67
+05/03/2026 14:34:11: Setting selected recipe 67
+05/03/2026 14:34:12: Setting selected recipe 67
+05/03/2026 14:34:12: Setting selected recipe 67
+05/03/2026 14:34:15: Player 3337577547 wants to pickup SilverOre(Clone)   im: 1466104105
+05/03/2026 14:34:15:   but they are already the owner
+05/03/2026 14:34:15: Player 3337577547 wants to pickup SilverOre(Clone)   im: 1466104105
+05/03/2026 14:34:16: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:34:16: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:34:16:   but they are already the owner
+05/03/2026 14:34:16: Player 3337577547 wants to pickup WolfPelt(Clone)   im: 1466104105
+05/03/2026 14:34:17: Player 3337577547 wants to pickup MushroomYellow(Clone)   im: 1466104105
+05/03/2026 14:34:17: Player 3337577547 wants to pickup WolfPelt(Clone)   im: 1466104105
+05/03/2026 14:34:17:   but they are already the owner
+05/03/2026 14:34:17: Player 3337577547 wants to pickup WolfPelt(Clone)   im: 1466104105
+05/03/2026 14:34:17: Stopped music boss_moder at 1577721
+05/03/2026 14:34:17: Loading dungeon
+05/03/2026 14:34:17: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:34:17: Loading room prefabs asynchronously
+05/03/2026 14:34:17: Starting music mountain
+05/03/2026 14:34:17: Resumed music mountain at 129830
+05/03/2026 14:34:17: Player 3337577547 wants to pickup MushroomYellow(Clone)   im: 1466104105
+05/03/2026 14:34:17:   but they are already the owner
+05/03/2026 14:34:17: Spawning dungeon
+05/03/2026 14:34:18: Got character ZDOID from Castor : 0:0
+05/03/2026 14:34:20: Setting selected recipe 67
+05/03/2026 14:34:21: Drop item $item_stone
+05/03/2026 14:34:21: drop all 10  10
+05/03/2026 14:34:21: Setting selected recipe 67
+05/03/2026 14:34:21: Queue unlock msg:$msg_newitem:$item_dragontear
+05/03/2026 14:34:21: Queue unlock msg:$msg_newpiece:$piece_artisanstation
+05/03/2026 14:34:23: Setting selected recipe 67
+05/03/2026 14:34:24: Drop item $item_hammer
+05/03/2026 14:34:24: drop all 1  1
+05/03/2026 14:34:24: Setting selected recipe 67
+05/03/2026 14:34:26: Got character ZDOID from Castor : 1395956460:1596
+05/03/2026 14:34:26: Setting selected recipe 67
+05/03/2026 14:34:27: Player 3337577547 wants to pickup TrophyDragonQueen(Clone)   im: 1466104105
+05/03/2026 14:34:31: Player 3337577547 wants to pickup DragonTear(Clone)   im: 1466104105
+05/03/2026 14:34:38: Im finally the owner
+05/03/2026 14:34:40: Disabling PlayerBase  character_trigger
+05/03/2026 14:34:43: Disabling PlayerBase  character_trigger
+05/03/2026 14:34:47: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:34:47: Player 3337577547 wants to pickup Hammer(Clone)   im: 1466104105
+05/03/2026 14:34:48: Placed piece_chest_wood
+05/03/2026 14:34:53: Placed piece_chest_wood
+05/03/2026 14:34:56: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:34:56: Setting selected recipe 67
+05/03/2026 14:34:58: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 14:34:59: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 14:34:59:   but they are already the owner
+05/03/2026 14:34:59: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 14:34:59: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 14:34:59: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 14:34:59:   but they are already the owner
+05/03/2026 14:35:00: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 14:35:00: Player 3337577547 wants to pickup MushroomYellow(Clone)   im: 1466104105
+05/03/2026 14:35:00: Player 3337577547 wants to pickup WolfPelt(Clone)   im: 1466104105
+05/03/2026 14:35:00: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 14:35:00:   but they are already the owner
+05/03/2026 14:35:00: Player 3337577547 wants to pickup MushroomYellow(Clone)   im: 1466104105
+05/03/2026 14:35:00:   but they are already the owner
+05/03/2026 14:35:00: Player 3337577547 wants to pickup WolfPelt(Clone)   im: 1466104105
+05/03/2026 14:35:01: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 14:35:02: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 14:35:03: Player 3337577547 wants to pickup Resin(Clone)   im: 1466104105
+05/03/2026 14:35:03:   but they are already the owner
+05/03/2026 14:35:03: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:35:06: Setting selected recipe 67
+05/03/2026 14:35:14: Player 3337577547 wants to pickup Wood(Clone)   im: 1466104105
+05/03/2026 14:35:28: Loading dungeon
+05/03/2026 14:35:28: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:35:28: Loading room prefabs asynchronously
+05/03/2026 14:35:28: Spawning dungeon
+05/03/2026 14:35:34: Player 1395956460 wants to takeall from Player_tombstone(Clone)   im: 1466104105
+05/03/2026 14:35:42: Starting respawn
+05/03/2026 14:35:42: Local player destroyed
+05/03/2026 14:35:42: tip:$loadscreen_tip18
+05/03/2026 14:35:47: Loading dungeon
+05/03/2026 14:35:47: Dungeon loaded with 36 rooms in 0 ms.
+05/03/2026 14:35:47: Loading room prefabs asynchronously
+05/03/2026 14:35:47: Spawning dungeon
+05/03/2026 14:35:50: Found bed at custom spawn point
+05/03/2026 14:35:50: Skipping unloading unused assets
+05/03/2026 14:35:52: Stopped music mountain at 4218547
+05/03/2026 14:35:52: Starting music blackforest
+05/03/2026 14:35:52: Resumed music blackforest at 1285132
+05/03/2026 14:36:01: Teleportation TRIGGER
+05/03/2026 14:36:01: Teleporting Vknight
+05/03/2026 14:36:06: Loading dungeon
+05/03/2026 14:36:06: Dungeon loaded with 18 rooms in 0 ms.
+05/03/2026 14:36:06: Loading room prefabs asynchronously
+05/03/2026 14:36:06: Loading dungeon
+05/03/2026 14:36:06: Dungeon loaded with 34 rooms in 0 ms.
+05/03/2026 14:36:06: Loading room prefabs asynchronously
+05/03/2026 14:36:07: Spawning dungeon
+05/03/2026 14:36:07: Spawning dungeon
+05/03/2026 14:36:11: Setting selected recipe 0
+05/03/2026 14:36:13: Setting selected recipe 0
+05/03/2026 14:36:18: Setting selected recipe 0
+05/03/2026 14:36:33: Stopped music blackforest at 1806335
+05/03/2026 14:36:33: Starting music mountain
+05/03/2026 14:36:33: Resumed music mountain at 4218547
+05/03/2026 14:36:36: Loading dungeon
+05/03/2026 14:36:36: Dungeon loaded with 29 rooms in 0 ms.
+05/03/2026 14:36:36: Loading room prefabs asynchronously
+05/03/2026 14:36:36: Spawning dungeon
+05/03/2026 14:36:40: Got character ZDOID from Castor : 0:0
+05/03/2026 14:36:43: Loading dungeon
+05/03/2026 14:36:43: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:36:43: Loading room prefabs asynchronously
+05/03/2026 14:36:43: Spawning dungeon
+05/03/2026 14:36:46: Grave should fit in inventory, loot all
+05/03/2026 14:36:47: Setting selected recipe 0
+05/03/2026 14:36:48: Got character ZDOID from Castor : 1395956460:1707
+05/03/2026 14:36:56: Setting selected recipe 0
+05/03/2026 14:37:05: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:37:05: Setting selected recipe 0
+05/03/2026 14:37:19: Player 3337577547 wants to pickup WolfPelt(Clone)   im: 1466104105
+05/03/2026 14:37:24: hit mine rock 66
+05/03/2026 14:37:24: Suport time 2,929688
+05/03/2026 14:37:56: Player 1395956460 wants to pickup SilverOre(Clone)   im: 1466104105
+05/03/2026 14:38:02: Starting respawn
+05/03/2026 14:38:02: Local player destroyed
+05/03/2026 14:38:02: tip:$loadscreen_tip11
+05/03/2026 14:38:07: Loading dungeon
+05/03/2026 14:38:07: Dungeon loaded with 36 rooms in 0 ms.
+05/03/2026 14:38:07: Loading room prefabs asynchronously
+05/03/2026 14:38:07: Spawning dungeon
+05/03/2026 14:38:10: Found bed at custom spawn point
+05/03/2026 14:38:10: Skipping unloading unused assets
+05/03/2026 14:38:12: Stopped music mountain at 8579154
+05/03/2026 14:38:12: Starting music blackforest
+05/03/2026 14:38:12: Resumed music blackforest at 1806335
+05/03/2026 14:38:20: Setting selected recipe 8
+05/03/2026 14:38:22: Setting selected recipe 12
+05/03/2026 14:38:30: Setting selected recipe 12
+05/03/2026 14:38:30: Stopped music blackforest at 770515
+05/03/2026 14:38:30: Starting music meadows
+05/03/2026 14:38:30: Resumed music meadows at 983135
+05/03/2026 14:38:35: Setting selected recipe 0
+05/03/2026 14:38:37: Setting selected recipe 8
+05/03/2026 14:38:42: SIZE -1080
+05/03/2026 14:38:46: SIZE -1080
+05/03/2026 14:39:03: Teleportation TRIGGER
+05/03/2026 14:39:03: Teleporting Vknight
+05/03/2026 14:39:08: Loading dungeon
+05/03/2026 14:39:08: Dungeon loaded with 18 rooms in 0 ms.
+05/03/2026 14:39:08: Loading room prefabs asynchronously
+05/03/2026 14:39:08: Loading dungeon
+05/03/2026 14:39:08: Dungeon loaded with 34 rooms in 0 ms.
+05/03/2026 14:39:08: Loading room prefabs asynchronously
+05/03/2026 14:39:09: Spawning dungeon
+05/03/2026 14:39:09: Spawning dungeon
+05/03/2026 14:39:13: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:39:13: Setting selected recipe 0
+05/03/2026 14:39:14: Stopped music meadows at 1938047
+05/03/2026 14:39:14: Starting music blackforest
+05/03/2026 14:39:14: Resumed music blackforest at 770515
+05/03/2026 14:39:15: Starting music evening
+05/03/2026 14:39:15: Stopped music blackforest at 809087
+05/03/2026 14:39:15: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:39:15: Setting selected recipe 0
+05/03/2026 14:39:18: Spawned Greydwarf_Elite x 1
+05/03/2026 14:39:18: Spawned Greydwarf_Shaman x 1
+05/03/2026 14:39:18: Spawned Greydwarf_Shaman x 1
+05/03/2026 14:39:18: Spawned FireFlies x 1
+05/03/2026 14:39:18: Spawned FireFlies x 1
+05/03/2026 14:39:26: Player 1395956460 wants to open Player_tombstone(Clone)   im: 1466104105
+05/03/2026 14:39:34: Spawned Wolf x 2
+05/03/2026 14:39:38: Player 1395956460 wants to pickup BoneFragments(Clone)   im: 1466104105
+05/03/2026 14:39:39: Player 1395956460 wants to pickup BoneFragments(Clone)   im: 1466104105
+05/03/2026 14:39:59: Player 1395956460 wants to pickup FreezeGland(Clone)   im: 1466104105
+05/03/2026 14:40:01: Starting music blackforest
+05/03/2026 14:40:01: Resumed music blackforest at 809087
+05/03/2026 14:40:14: Setting selected recipe 0
+05/03/2026 14:40:16: Queue unlock msg:$msg_newtrophy:$item_trophy_dragonqueen
+05/03/2026 14:40:17: Setting selected recipe 0
+05/03/2026 14:40:19: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:40:19: Setting selected recipe 0
+05/03/2026 14:40:21: Spawned FireFlies x 1
+05/03/2026 14:40:36: Stopped music blackforest at 1538207
+05/03/2026 14:40:36: Starting music mountain
+05/03/2026 14:40:36: Resumed music mountain at 8579154
+05/03/2026 14:40:37: Loading dungeon
+05/03/2026 14:40:37: Dungeon loaded with 23 rooms in 0 ms.
+05/03/2026 14:40:37: Loading room prefabs asynchronously
+05/03/2026 14:40:37: Setting selected recipe 0
+05/03/2026 14:40:37: Spawning dungeon
+05/03/2026 14:40:41: Player 1395956460 wants to pickup WolfPelt(Clone)   im: 1466104105
+05/03/2026 14:40:42: Player 1395956460 wants to pickup WolfMeat(Clone)   im: 1466104105
+05/03/2026 14:40:49: Drop item $item_stone
+05/03/2026 14:40:49: drop all 50  50
+05/03/2026 14:40:49: Setting selected recipe 0
+05/03/2026 14:40:51: Setting selected recipe 0
+05/03/2026 14:40:58: Setting selected recipe 0
+05/03/2026 14:41:07: Loading dungeon
+05/03/2026 14:41:07: Dungeon loaded with 18 rooms in 0 ms.
+05/03/2026 14:41:07: Loading room prefabs asynchronously
+05/03/2026 14:41:07: Loading dungeon
+05/03/2026 14:41:07: Dungeon loaded with 34 rooms in 0 ms.
+05/03/2026 14:41:07: Loading room prefabs asynchronously
+05/03/2026 14:41:07: Spawning dungeon
+05/03/2026 14:41:07: Spawning dungeon
+05/03/2026 14:41:41: Setting selected recipe 0
+05/03/2026 14:41:44: Drop item $item_stone
+05/03/2026 14:41:44: drop all 50  50
+05/03/2026 14:41:44: Setting selected recipe 0
+05/03/2026 14:41:44: Player 1395956460 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:41:45: Setting selected recipe 0
+05/03/2026 14:41:45: Spawned FireFlies x 1
+05/03/2026 14:41:47: Stopped music mountain at 3134745
+05/03/2026 14:41:47: Starting music blackforest
+05/03/2026 14:41:47: Resumed music blackforest at 1538207
+05/03/2026 14:41:47: Drop item $item_silverore
+05/03/2026 14:41:47: drop all 25  25
+05/03/2026 14:41:47: Setting selected recipe 0
+05/03/2026 14:41:51: Im still nto the owner
+05/03/2026 14:41:51: Im finally the owner
+05/03/2026 14:41:52: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:41:52: Setting selected recipe 0
+05/03/2026 14:42:02: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:42:02: Setting selected recipe 0
+05/03/2026 14:42:06: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:42:06: Setting selected recipe 0
+05/03/2026 14:42:06: Spawned FireFlies x 1
+05/03/2026 14:42:16: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:42:16: Setting selected recipe 0
+05/03/2026 14:42:24: Teleportation TRIGGER
+05/03/2026 14:42:24: Teleporting Vknight
+05/03/2026 14:42:30: Loading dungeon
+05/03/2026 14:42:30: Dungeon loaded with 36 rooms in 1,003 ms.
+05/03/2026 14:42:30: Loading room prefabs asynchronously
+05/03/2026 14:42:31: Spawning dungeon
+05/03/2026 14:42:47: Stopped music blackforest at 4175269
+05/03/2026 14:42:47: Starting music blackforest
+05/03/2026 14:42:47: Resumed music blackforest at 4175269
+05/03/2026 14:42:47: Stopped music blackforest at 11289
+05/03/2026 14:43:01: Skipping unloading unused assets
+05/03/2026 14:43:16: Setting selected recipe 0
+05/03/2026 14:43:20: Item is not in this container
+05/03/2026 14:43:20: Setting selected recipe 0
+05/03/2026 14:43:22: Item is not in this container
+05/03/2026 14:43:22: Setting selected recipe 0
+05/03/2026 14:43:30: Setting selected recipe 0
+05/03/2026 14:43:39: Setting selected recipe 0
+05/03/2026 14:43:39: Setting selected recipe 0
+05/03/2026 14:43:40: Setting selected recipe 0
+05/03/2026 14:43:42: Setting selected recipe 0
+05/03/2026 14:43:43: Setting selected recipe 0
+05/03/2026 14:43:44: Setting selected recipe 0
+05/03/2026 14:43:47: Setting selected recipe 0
+05/03/2026 14:43:49: Setting selected recipe 0
+05/03/2026 14:43:57: Setting selected recipe 8
+05/03/2026 14:43:58: Setting selected recipe 8
+05/03/2026 14:43:58: Setting selected recipe 8
+05/03/2026 14:44:00: Setting selected recipe 8
+05/03/2026 14:44:08: Setting selected recipe 39
+05/03/2026 14:44:16: Starting music blackforest
+05/03/2026 14:44:16: Resumed music blackforest at 11289
+05/03/2026 14:44:41: Teleportation TRIGGER
+05/03/2026 14:44:41: Teleporting Vknight
+05/03/2026 14:44:45: Stopped music blackforest at 1251263
+05/03/2026 14:44:46: Force generating hmap (-192.00, 0.00, -64.00)
+05/03/2026 14:44:47: Done fading color
+05/03/2026 14:44:47: Done fading color
+05/03/2026 14:44:47: Done fading color
+05/03/2026 14:44:49: Starting music home
+05/03/2026 14:44:49: Stopped music home at 19756
+Column: 1
+Lines: 4198
+Translation1: Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again
+Translation2: Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again
+Column: 1
+Lines: 42
+Column: 1
+Lines: 3
+Column: 1
+Lines: 142
+Column: 1
+Lines: 3
+Column: 1
+Lines: 273
+Column: 1
+Lines: 1
+Column: 1
+Lines: 91
+Translation3: Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again
+05/03/2026 14:45:38: Show text :Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again
+05/03/2026 14:45:48: Setting selected recipe 3
+05/03/2026 14:45:58: Teleportation TRIGGER
+05/03/2026 14:45:58: Teleporting Vknight
+05/03/2026 14:46:05: Loading dungeon
+05/03/2026 14:46:05: Dungeon loaded with 36 rooms in 0 ms.
+05/03/2026 14:46:05: Loading room prefabs asynchronously
+05/03/2026 14:46:05: Spawning dungeon
+05/03/2026 14:46:10: Teleportation TRIGGER
+05/03/2026 14:46:10: Teleporting Vknight
+05/03/2026 14:46:10: Starting music blackforest
+05/03/2026 14:46:10: Resumed music blackforest at 1251263
+05/03/2026 14:46:16: Loading dungeon
+05/03/2026 14:46:16: Dungeon loaded with 18 rooms in 0 ms.
+05/03/2026 14:46:16: Loading room prefabs asynchronously
+05/03/2026 14:46:16: Loading dungeon
+05/03/2026 14:46:16: Dungeon loaded with 34 rooms in 0 ms.
+05/03/2026 14:46:16: Loading room prefabs asynchronously
+05/03/2026 14:46:16: Spawning dungeon
+05/03/2026 14:46:16: Spawning dungeon
+05/03/2026 14:46:21: Player 1466104105 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:46:21: Setting selected recipe 3
+05/03/2026 14:46:24: Teleportation TRIGGER
+05/03/2026 14:46:24: Teleporting Vknight
+05/03/2026 14:46:30: Loading dungeon
+05/03/2026 14:46:30: Dungeon loaded with 36 rooms in 0 ms.
+05/03/2026 14:46:30: Loading room prefabs asynchronously
+05/03/2026 14:46:30: Spawning dungeon
+05/03/2026 14:46:35: Teleportation TRIGGER
+05/03/2026 14:46:35: Teleporting Vknight
+05/03/2026 14:46:40: Force generating hmap (-192.00, 0.00, -64.00)
+05/03/2026 14:46:41: Done fading color
+05/03/2026 14:46:41: Done fading color
+05/03/2026 14:46:41: Done fading color
+05/03/2026 14:46:41: Update PlayFab entity token
+05/03/2026 14:46:44: Stopped music blackforest at 1495871
+Column: 1
+Lines: 4198
+Translation1: Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again
+Translation2: Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again
+Column: 1
+Lines: 42
+Column: 1
+Lines: 3
+Column: 1
+Lines: 142
+Column: 1
+Lines: 3
+Column: 1
+Lines: 273
+Column: 1
+Lines: 1
+Column: 1
+Lines: 91
+Translation3: Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again
+05/03/2026 14:46:52: Show text :Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again
+05/03/2026 14:46:55: Setting selected recipe 3
+05/03/2026 14:47:09: Missing stat for guardian power: itemstand
+Column: 1
+Lines: 4198
+Translation1: Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again
+Translation2: Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again
+Column: 1
+Lines: 42
+Column: 1
+Lines: 3
+Column: 1
+Lines: 142
+Column: 1
+Lines: 3
+Column: 1
+Lines: 273
+Column: 1
+Lines: 1
+Column: 1
+Lines: 91
+Translation3: Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again
+05/03/2026 14:47:28: Show text :Black wings across the moon and sun
+Down from the mountain our mother comes
+Her weeping tears will fall like rain
+Her voice will call us home again
+05/03/2026 14:47:31: Setting selected recipe 0
+05/03/2026 14:47:45: Setting selected recipe 0
+05/03/2026 14:47:47: Item is not in this container
+05/03/2026 14:47:47: Setting selected recipe 0
+05/03/2026 14:48:02: Setting selected recipe 0
+05/03/2026 14:48:03: Setting selected recipe 0
+05/03/2026 14:48:09: Done fading color
+05/03/2026 14:48:13: Missing stat for guardian power: itemstand
+05/03/2026 14:48:16: Starting music morning
+05/03/2026 14:48:50: Starting music meadows
+05/03/2026 14:51:07: Teleportation TRIGGER
+05/03/2026 14:51:07: Teleporting Vknight
+05/03/2026 14:51:14: Loading dungeon
+05/03/2026 14:51:14: Dungeon loaded with 36 rooms in 0 ms.
+05/03/2026 14:51:14: Loading room prefabs asynchronously
+05/03/2026 14:51:14: Spawning dungeon
+05/03/2026 14:51:41: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:51:43: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:51:44: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:51:51: Player 3337577547 wants to open container   im: 1466104105
+05/03/2026 14:52:14: Player 3337577547 wants to open piece_chest(Clone)   im: 1466104105
+05/03/2026 14:52:15: Player 3337577547 wants to open piece_chest(Clone)   im: 1466104105
+05/03/2026 14:52:28: Stopped music meadows at 9627206
+05/03/2026 14:52:28: Starting music meadows
+05/03/2026 14:52:28: Resumed music meadows at 9627206
+05/03/2026 14:52:29: Stopped music meadows at 14111
+05/03/2026 14:52:29: Starting music home
+05/03/2026 14:52:31: Setting selected recipe 0
+05/03/2026 14:52:32: Setting selected recipe 0
+05/03/2026 14:52:39: Stopped music home at 424300
+05/03/2026 14:52:39: Starting music meadows
+05/03/2026 14:52:39: Resumed music meadows at 14111
+05/03/2026 14:52:52: Left click
+05/03/2026 14:52:59: Left click
+05/03/2026 14:52:59: Left click
+05/03/2026 14:53:15: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:53:31: Activating default element Continue
+05/03/2026 14:53:42: Player 3337577547 wants to pickup CookedWolfMeat(Clone)   im: 1466104105
+05/03/2026 14:53:43: Player 3337577547 wants to pickup CookedWolfMeat(Clone)   im: 1466104105
+05/03/2026 14:53:48: Stopped music meadows at 3061363
+05/03/2026 14:53:48: Starting music meadows
+05/03/2026 14:53:48: Resumed music meadows at 3061363
+05/03/2026 14:54:19: Stopped music meadows at 4432108
+05/03/2026 14:54:19: Starting music blackforest
+05/03/2026 14:54:29: Player 3337577547 wants to open piece_chest_wood(Clone)   im: 1466104105
+05/03/2026 14:55:12: Disabling TELEPORT  character_trigger
+05/03/2026 14:55:12: Disabling PlayerBase  character_trigger
+05/03/2026 14:55:16: Disabling HIT AREA  character_trigger
+05/03/2026 14:55:21: Disabling PlayerBase  character_trigger
+05/03/2026 14:55:31: Disabling HIT AREA  character_trigger
+05/03/2026 14:55:32: Disabling HIT AREA  character_trigger
+05/03/2026 14:55:34: Disabling TELEPORT  character_trigger
+05/03/2026 14:55:34: Disabling PlayerBase  character_trigger
+05/03/2026 14:55:35: Placed portal_wood
+05/03/2026 14:55:35: Disabling TELEPORT  character_trigger
+05/03/2026 14:55:35: Disabling PlayerBase  character_trigger
+05/03/2026 14:55:35: Disabling TELEPORT  character_trigger
+05/03/2026 14:55:35: Disabling PlayerBase  character_trigger
+05/03/2026 14:55:35: Disabling TELEPORT  character_trigger
+05/03/2026 14:55:35: Disabling PlayerBase  character_trigger
+05/03/2026 14:55:37: Placed portal_wood
+05/03/2026 14:55:37: Disabling TELEPORT  character_trigger
+05/03/2026 14:55:37: Disabling PlayerBase  character_trigger
+05/03/2026 14:55:37: Disabling TELEPORT  character_trigger
+05/03/2026 14:55:37: Disabling PlayerBase  character_trigger
+05/03/2026 14:55:37: Disabling TELEPORT  character_trigger
+05/03/2026 14:55:37: Disabling PlayerBase  character_trigger
+05/03/2026 14:55:40: Disabling TELEPORT  character_trigger
+05/03/2026 14:55:40: Disabling PlayerBase  character_trigger
+05/03/2026 14:55:41: Connected portals 1466104105:406227 <-> 1466104105:406233
+05/03/2026 14:55:41: [ Connected 1 portals ]
+05/03/2026 14:55:54: Disabling TELEPORT  character_trigger
+05/03/2026 14:55:54: Disabling PlayerBase  character_trigger
+05/03/2026 14:55:56: Activating default element Continue
+05/03/2026 14:56:07: Disabling TELEPORT  character_trigger
+05/03/2026 14:56:07: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:08: Disabling OnboardTrigger  character_trigger
+05/03/2026 14:56:08: Disabling FloatCollider  Ignore Raycast
+05/03/2026 14:56:11: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:14: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:14: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:15: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:15: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:15: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:15: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:24: Disabling TELEPORT  character_trigger
+05/03/2026 14:56:24: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:27: Placed portal_wood
+05/03/2026 14:56:27: Disabling TELEPORT  character_trigger
+05/03/2026 14:56:27: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:27: Disabling TELEPORT  character_trigger
+05/03/2026 14:56:27: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:27: Disabling TELEPORT  character_trigger
+05/03/2026 14:56:27: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:33: Stopped music blackforest at 5913868
+05/03/2026 14:56:33: Starting music meadows
+05/03/2026 14:56:33: Resumed music meadows at 4432108
+05/03/2026 14:56:34: Stopped music meadows at 15052
+05/03/2026 14:56:34: Starting music blackforest
+05/03/2026 14:56:34: Resumed music blackforest at 5913868
+05/03/2026 14:56:37: Stopped music blackforest at 155231
+05/03/2026 14:56:37: Starting music meadows
+05/03/2026 14:56:37: Resumed music meadows at 15052
+05/03/2026 14:56:39: Disabling TELEPORT  character_trigger
+05/03/2026 14:56:39: Disabling PlayerBase  character_trigger
+05/03/2026 14:56:39: Disabling TELEPORT  character_trigger
+05/03/2026 14:56:39: Disabling PlayerBase  character_trigger
+05/03/2026 14:57:24: hit mine rock 0
+05/03/2026 14:57:27: Player onboard, total onboard 1
+05/03/2026 14:57:28: hit mine rock 0
+05/03/2026 14:57:28: Changing ship owner to 1395956460
+05/03/2026 14:57:30: Rel vel 1,401399
+05/03/2026 14:57:30: Setting selected recipe 0
+05/03/2026 14:57:35: Stopped music meadows at 2520403
+05/03/2026 14:57:35: Starting music home
+05/03/2026 14:57:35: Resumed music home at 424300
+05/03/2026 14:57:41: Stopped music home at 266246
+05/03/2026 14:57:41: Starting music meadows
+05/03/2026 14:57:41: Resumed music meadows at 2520403
+05/03/2026 14:57:42: Player over board, players left 0
+05/03/2026 14:57:43: Spawned Greydwarf x 2
+05/03/2026 14:57:49: Setting selected recipe 0
+05/03/2026 14:57:58: Setting selected recipe 0
+05/03/2026 14:58:01: Setting selected recipe -1
+05/03/2026 14:58:01: Setting selected recipe 0
+05/03/2026 14:58:05: Setting selected recipe 0
+05/03/2026 14:58:07: Disabling TELEPORT  character_trigger
+05/03/2026 14:58:07: Disabling PlayerBase  character_trigger
+05/03/2026 14:58:17: Setting selected recipe 1
+05/03/2026 14:58:28: Setting selected recipe 0
+05/03/2026 14:58:43: Disabling TELEPORT  character_trigger
+05/03/2026 14:58:43: Disabling PlayerBase  character_trigger
+05/03/2026 14:58:45: Placed portal_wood
+05/03/2026 14:58:45: Disabling TELEPORT  character_trigger
+05/03/2026 14:58:45: Disabling PlayerBase  character_trigger
+05/03/2026 14:58:45: Disabling TELEPORT  character_trigger
+05/03/2026 14:58:45: Disabling PlayerBase  character_trigger
+05/03/2026 14:58:45: Disabling TELEPORT  character_trigger
+05/03/2026 14:58:45: Disabling PlayerBase  character_trigger
+05/03/2026 14:58:50: Disabling HIT AREA  character_trigger
+05/03/2026 14:58:52: Disabling TELEPORT  character_trigger
+05/03/2026 14:58:52: Disabling PlayerBase  character_trigger
+05/03/2026 14:58:52: Placed portal_wood
+05/03/2026 14:58:52: Disabling TELEPORT  character_trigger
+05/03/2026 14:58:52: Disabling PlayerBase  character_trigger
+05/03/2026 14:58:52: Disabling TELEPORT  character_trigger
+05/03/2026 14:58:52: Disabling PlayerBase  character_trigger
+05/03/2026 14:58:52: Disabling TELEPORT  character_trigger
+05/03/2026 14:58:52: Disabling PlayerBase  character_trigger
+05/03/2026 14:58:56: Disabling TELEPORT  character_trigger
+05/03/2026 14:58:56: Disabling PlayerBase  character_trigger
+05/03/2026 14:58:57: Connected portals 1466104105:406624 <-> 1466104105:406632
+05/03/2026 14:58:57: [ Connected 1 portals ]
+05/03/2026 14:58:57: Disabling OnboardTrigger  character_trigger
+05/03/2026 14:58:57: Disabling FloatCollider  Ignore Raycast
+05/03/2026 14:59:04: Setting selected recipe 0
+05/03/2026 14:59:21: Setting selected recipe 1
+05/03/2026 14:59:22: Setting selected recipe 1
+05/03/2026 14:59:27: Setting selected recipe 4
+05/03/2026 14:59:28: Setting selected recipe 5
+05/03/2026 14:59:29: Setting selected recipe 6
+05/03/2026 14:59:30: Setting selected recipe 7
+05/03/2026 14:59:33: Setting selected recipe 8
+05/03/2026 14:59:34: Setting selected recipe 9
+05/03/2026 14:59:39: Player onboard, total onboard 1
+05/03/2026 14:59:40: Player 3337577547 wants to pickup Stone(Clone)   im: 1466104105
+05/03/2026 14:59:40: Player onboard, total onboard 1
+05/03/2026 14:59:43: Player onboard, total onboard 2
+05/03/2026 14:59:43: Player over board, players left 1
+05/03/2026 14:59:45: Player onboard, total onboard 2
+05/03/2026 14:59:48: Player 3337577547 wants to open piece_chest   im: 1466104105
+05/03/2026 15:00:34: Setting selected recipe 0
+05/03/2026 15:00:36: Activating default element Continue
+05/03/2026 15:00:37: Available space to current user: 255563522048. Saving is blocked if below: 35408790 bytes. Warnings are given if below: 70817580
+05/03/2026 15:00:37: Minimap: compressed mapData 8394411 => 19014 bytes
+05/03/2026 15:00:37: Cloud Save: 54326 bytes. /characters/vknight.fch.new
+Steam writing file chunks 1 / 1, (54326 bytes)
+Steam writing file chunks 1 / 1, (53898 bytes)
+Steam writing file chunks 1 / 1, (54326 bytes)
+05/03/2026 15:00:37: Considering autobackup. World time: 8255,697, short time: 7200, long time: 43200, backup count: 4
+05/03/2026 15:00:37: No autobackup needed yet...
+05/03/2026 15:00:37: Sending message to save player profiles
+05/03/2026 15:00:37: Sent to 76561197989682706
+05/03/2026 15:00:37: Sent to 76561198086049794
+05/03/2026 15:00:37: Activating default element Continue
+05/03/2026 15:00:38: PrepareSave: clone done in 96ms
+05/03/2026 15:00:38: PrepareSave: ZDOExtraData.PrepareSave done in 45 ms
+05/03/2026 15:00:38: World save writing starting
+05/03/2026 15:00:38: World save writing started
+05/03/2026 15:00:39: Saved 388012 ZDOs
+05/03/2026 15:00:39: World save writing finishing
+05/03/2026 15:00:39: Cloud Save: 17661053 bytes. /worlds/Vabows.db
+Steam writing file chunks 1 / 1, (17661053 bytes)
+05/03/2026 15:00:39: World save writing finished
+05/03/2026 15:00:39: Cloud Save: 61 bytes. /worlds/Vabows.fwl
+Steam writing file chunks 1 / 1, (61 bytes)
+05/03/2026 15:00:39: World saved ( 1528,1315ms )
+05/03/2026 15:00:39: Considering autobackup. World time: 8257,598, short time: 7200, long time: 43200, backup count: 4
+05/03/2026 15:00:39: No autobackup needed yet...
+05/03/2026 15:00:47: Starting music sailing
+05/03/2026 15:00:47: Player onboard, total onboard 1
+05/03/2026 15:00:48: Player over board, players left 0
+05/03/2026 15:00:48: Player onboard, total onboard 1
+05/03/2026 15:00:49: Player over board, players left 0
+05/03/2026 15:00:49: Spawned Boar x 2
+05/03/2026 15:00:53: Update PlayFab entity token
+05/03/2026 15:00:53: Stopped music meadows at 8465318
+05/03/2026 15:00:54: Player onboard, total onboard 1
+05/03/2026 15:01:04: Player over board, players left 0
+05/03/2026 15:01:04: Player onboard, total onboard 1
+05/03/2026 15:01:08: Player over board, players left 0
+05/03/2026 15:01:12: Player onboard, total onboard 1
+05/03/2026 15:01:13: Player over board, players left 0
+05/03/2026 15:01:17: Destroying old picked Pickable_ForestCryptRemains02(Clone)
+05/03/2026 15:01:17: Destroying old picked Pickable_ForestCryptRemains01(Clone)
+05/03/2026 15:01:17: Destroying old picked Pickable_ForestCryptRemains03(Clone)
+05/03/2026 15:01:30: Stopped music sailing at 1635110
+05/03/2026 15:01:30: Starting music blackforest
+05/03/2026 15:01:30: Resumed music blackforest at 155231
+05/03/2026 15:01:32: Player onboard, total onboard 3
+05/03/2026 15:03:44: Starting music sailing
+05/03/2026 15:03:48: Stopped music blackforest at 6107673
+05/03/2026 15:03:48: Starting music meadows
+05/03/2026 15:03:48: Resumed music meadows at 8465318
+05/03/2026 15:03:59: Starting music sailing
+05/03/2026 15:04:05: Stopped music meadows at 748876
+05/03/2026 15:04:05: Resumed music sailing at 1635110
+05/03/2026 15:04:10: Spawned Fish5 x 7
+05/03/2026 15:04:10: Spawned Fish5 x 3
+05/03/2026 15:04:20: Spawned Fish8 x 3
+05/03/2026 15:04:20: Spawned Fish8 x 5
+05/03/2026 15:04:20: Spawned Fish8 x 2
+05/03/2026 15:04:20: Spawned Fish12 x 5
+05/03/2026 15:04:29: Spawned Fish12 x 3
+05/03/2026 15:04:47: Spawned Fish3 x 1
+05/03/2026 15:04:47: Spawned Fish8 x 7
+05/03/2026 15:04:47: Spawned Fish8 x 1
+05/03/2026 15:04:56: Spawned Fish8 x 2
+05/03/2026 15:04:56: Spawned Fish12 x 5
+05/03/2026 15:04:56: Spawned Fish12 x 2
+Setting linear velocity of a kinematic body is not supported.
+Setting angular velocity of a kinematic body is not supported.
+05/03/2026 15:05:05: Spawned Fish12 x 1
+05/03/2026 15:05:09: Stopped music sailing at 2821459
+05/03/2026 15:05:17: Player over board, players left 2
+05/03/2026 15:05:25: Player over board, players left 1
+05/03/2026 15:05:27: Spawned Fish3 x 1
+05/03/2026 15:05:30: Player over board, players left 0
+05/03/2026 15:05:31: Hit mine rock area 1
+05/03/2026 15:05:31: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:05:32: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:05:32: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:05:32: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:05:32: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:05:33: Hit mine rock area 1
+05/03/2026 15:05:33: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:05:34: Hit mine rock area 1
+05/03/2026 15:05:34: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:05:36: Setting selected recipe 0
+05/03/2026 15:05:45: Hit mine rock area 7
+05/03/2026 15:05:45: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:05:47: Hit mine rock area 7
+05/03/2026 15:05:47: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:05:48: Player 3337577547 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:05:48: Player 3337577547 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:05:48: Player 3337577547 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:05:48: Player 3337577547 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:05:48: Hit mine rock area 7
+05/03/2026 15:05:48: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:05:49: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:05:50: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:05:50: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:05:50: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:05:50: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:05:51: Hit mine rock area 3
+05/03/2026 15:05:51: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:05:53: Hit mine rock area 3
+05/03/2026 15:05:53: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:05:54: Hit mine rock area 3
+05/03/2026 15:05:54: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:05:57: Hit mine rock area 6
+05/03/2026 15:05:57: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:05:58: Hit mine rock area 6
+05/03/2026 15:05:58: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:06:00: Hit mine rock area 6
+05/03/2026 15:06:00: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:06:01: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:01: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:01: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:01: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:09: Player onboard, total onboard 1
+05/03/2026 15:06:10: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:10: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:10: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:10: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:14: Invalid hit area on Leviathan(Clone)
+05/03/2026 15:06:19: Player 3337577547 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:19: Player 3337577547 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:19: Player 3337577547 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:20: Setting selected recipe 0
+05/03/2026 15:06:21: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:21: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:21: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:21: Player 1395956460 wants to pickup Chitin(Clone)   im: 1466104105
+05/03/2026 15:06:34: Doodad controlls set VikingShip_Ashlands(Clone)
+05/03/2026 15:06:44: Stop doodad controlls
+05/03/2026 15:06:44: Player onboard, total onboard 2
+05/03/2026 15:06:48: Player onboard, total onboard 3
+05/03/2026 15:06:49: Player over board, players left 2
+05/03/2026 15:06:49: Player onboard, total onboard 3
+05/03/2026 15:06:50: Player over board, players left 2
+05/03/2026 15:06:50: Player onboard, total onboard 3
+05/03/2026 15:06:53: Setting selected recipe 0
+05/03/2026 15:06:57: Spawned Fish3 x 1
+05/03/2026 15:07:00: Player 1466104105 wants to open piece_chest   im: 1466104105
+05/03/2026 15:07:00: Setting selected recipe 0
+05/03/2026 15:07:20: Spawned Fish8 x 1
+05/03/2026 15:07:20: Spawned Fish12 x 1
+05/03/2026 15:07:27: Player 1466104105 wants to open piece_chest   im: 1466104105
+05/03/2026 15:07:27: Setting selected recipe 0
+05/03/2026 15:07:34: Player 3337577547 wants to open piece_chest   im: 1466104105
+05/03/2026 15:07:42: Setting selected recipe 0
+05/03/2026 15:07:46: Player 1395956460 wants to open piece_chest   im: 1466104105
+05/03/2026 15:07:59: Setting selected recipe 0
+05/03/2026 15:08:21: Spawned Fish3 x 1
+05/03/2026 15:08:21: Spawned Fish8 x 5
+05/03/2026 15:08:21: Spawned Fish8 x 2
+05/03/2026 15:08:21: Spawned Fish12 x 4
+05/03/2026 15:08:25: Spawned Fish8 x 2
+05/03/2026 15:08:26: Starting music sailing
+05/03/2026 15:08:26: Resumed music sailing at 2821459
+05/03/2026 15:08:39: Stopped music sailing at 3430156
+05/03/2026 15:08:53: Starting music sailing
+05/03/2026 15:08:53: Resumed music sailing at 3430156
+05/03/2026 15:08:54: Spawned Fish3 x 1
+05/03/2026 15:08:54: Spawned Fish8 x 1
+05/03/2026 15:08:54: Spawned Fish12 x 3
+05/03/2026 15:08:54: Spawned Fish12 x 2
+05/03/2026 15:08:54: Spawned Fish12 x 2
+05/03/2026 15:09:20: Spawned Fish5 x 5
+05/03/2026 15:09:20: Spawned Fish5 x 5
+05/03/2026 15:09:20: Spawned Fish8 x 2
+05/03/2026 15:09:20: Spawned Fish8 x 3
+05/03/2026 15:09:20: Spawned Fish8 x 2
+05/03/2026 15:09:20: Spawned Fish12 x 3
+05/03/2026 15:09:38: Activating default element Continue
+05/03/2026 15:09:39: Available space to current user: 254643343360. Saving is blocked if below: 35430758 bytes. Warnings are given if below: 70861516
+05/03/2026 15:09:39: Minimap: compressed mapData 8394411 => 19105 bytes
+05/03/2026 15:09:39: Cloud Save: 54410 bytes. /characters/vknight.fch.new
+Steam writing file chunks 1 / 1, (54410 bytes)
+Steam writing file chunks 1 / 1, (54326 bytes)
+Steam writing file chunks 1 / 1, (54410 bytes)
+05/03/2026 15:09:39: Considering autobackup. World time: 8797,197, short time: 7200, long time: 43200, backup count: 4
+05/03/2026 15:09:39: No autobackup needed yet...
+05/03/2026 15:09:39: Sending message to save player profiles
+05/03/2026 15:09:39: Sent to 76561197989682706
+05/03/2026 15:09:39: Sent to 76561198086049794
+05/03/2026 15:09:39: Activating default element Continue
+05/03/2026 15:09:39: PrepareSave: clone done in 93ms
+05/03/2026 15:09:39: PrepareSave: ZDOExtraData.PrepareSave done in 62 ms
+05/03/2026 15:09:39: World save writing starting
+05/03/2026 15:09:39: World save writing started
+05/03/2026 15:09:40: Saved 388591 ZDOs
+05/03/2026 15:09:40: World save writing finishing
+05/03/2026 15:09:40: Cloud Save: 17700274 bytes. /worlds/Vabows.db
+Steam writing file chunks 1 / 1, (17700274 bytes)
+05/03/2026 15:09:40: World save writing finished
+05/03/2026 15:09:40: Cloud Save: 61 bytes. /worlds/Vabows.fwl
+Steam writing file chunks 1 / 1, (61 bytes)
+05/03/2026 15:09:40: World saved ( 1300,3411ms )
+05/03/2026 15:09:40: Considering autobackup. World time: 8798,877, short time: 7200, long time: 43200, backup count: 4
+05/03/2026 15:09:41: No autobackup needed yet...
+05/03/2026 15:09:50: Spawned Fish3 x 1
+05/03/2026 15:09:50: Spawned Fish8 x 2
+05/03/2026 15:09:50: Spawned Fish8 x 4
+05/03/2026 15:09:50: Spawned Fish12 x 2
+05/03/2026 15:09:50: Spawned Fish12 x 1
+05/03/2026 15:09:50: Spawned Fish3 x 1

@@ -1,0 +1,504 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.0.61f1 (74a0adb02c31)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
+kGfxThreadingModeSplitJobs is not supported on Direct3D 11. Reverting to kGfxThreadingModeClientWorkerJobs instead.
+GfxDevice: creating device client; kGfxThreadingModeClientWorkerJobs
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 (ID=0x2507)
+    Vendor:   NVIDIA
+    VRAM:     8042 MB
+    Driver:   32.0.15.9597
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.177 seconds
+- Finished resetting the current domain, in  0.002 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+Using Windows.Gaming.Input
+<RI> Input initialized.
+UnloadTime: 0.778400 ms
+05/02/2026 12:40:22: Using environment steamid 892970
+05/02/2026 12:40:22: Using steam APPID:892970
+05/02/2026 12:40:22: Authentication:k_ESteamNetworkingAvailability_Attempting
+05/02/2026 12:40:22: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
+05/02/2026 12:40:22: Initialized platform!
+05/02/2026 12:40:22: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
+05/02/2026 12:40:22: All files in local storage save data:
+C:/Users/guizz/AppData/LocalLow/IronGate/Valheim\adminlist.txt (40)
+C:/Users/guizz/AppData/LocalLow/IronGate/Valheim\bannedlist.txt (41)
+C:/Users/guizz/AppData/LocalLow/IronGate/Valheim\permittedlist.txt (43)
+C:/Users/guizz/AppData/LocalLow/IronGate/Valheim\Player-prev.log (17786)
+C:/Users/guizz/AppData/LocalLow/IronGate/Valheim\Player.log (1789)
+05/02/2026 12:40:22: All files in platform save data:
+characters/ragnaldinho.fch (20787)
+characters/ragnaldinho.fch.old (20787)
+characters/ragnaldinho_backup_auto-20231222174133.fch (14824)
+characters/ragnaldinho_backup_auto-20231223002756.fch (17603)
+characters/ragnaldinho_backup_auto-20240105205045.fch (19896)
+characters/ragnaldinho_backup_auto-20240105225352.fch (21081)
+characters/vicent.fch.old (4240230)
+characters/vicent_backup_auto-20220910185436.fch (4238332)
+characters/vicent_backup_auto-20220915223915.fch (4238634)
+characters/vicent_backup_auto-20220916221101.fch (4239698)
+characters/vicent_backup_auto-20220917021110.fch (4240038)
+characters/vknight.fch (51952)
+characters/vknight.fch.old (51855)
+characters/vknight_backup_20231222-191056.fch (10276)
+characters/vknight_backup_auto-20260502122501.fch (52203)
+serverlist/favorite (54)
+serverlist/favorite.old (54)
+serverlist/recent (177)
+serverlist/recent.old (177)
+worlds/kingdomVicent.db (5893146)
+worlds/kingdomVicent.fwl (54)
+worlds/kingdomVicent_backup_auto-20240109210825.fwl (54)
+worlds/Vabows.db (17288627)
+worlds/Vabows.db.old (29355116)
+worlds/Vabows.fwl (61)
+worlds/Vabows.fwl.old (42)
+worlds/VicentKingdom.db.old (12894648)
+worlds/VicentKingdom.fwl.old (47)
+worlds/vicentWorld.db (1348776)
+worlds/vicentWorld.fwl (52)
+worlds/vicentWorld.fwl.old (47)
+worlds/vicentWorld_backup_20231222-191056.db (2029539)
+worlds/vicentWorld_backup_20231222-191056.fwl (47)
+worlds/vicentWorld_backup_auto-20220925192021.fwl (47)
+worlds/vicentWorld_backup_auto-20231228210526.db (1318308)
+worlds/vicentWorld_backup_auto-20231228210526.fwl (52)
+characters/vknight_backup_20260419-225836.fch (47213)
+worlds/kingdomVicent_backup_20260419-225836.fwl (54)
+worlds/kingdomVicent_backup_20260419-225836.db (5856011)
+worlds/vicentWorld_backup_20260419-230231.fwl (52)
+worlds/vicentWorld_backup_20260419-230231.db (1318308)
+characters/vknight_backup_auto-20260419232927.fch (47837)
+worlds/Vabows_backup_20260419-232928.fwl (47)
+worlds/Vabows_backup_20260419-232928.db (16519783)
+worlds/Vabows_backup_auto-20260419232928.fwl (47)
+worlds/Vabows_backup_auto-20260419232928.db (16552096)
+characters/vknight_backup_auto-20260424233231.fch (48719)
+worlds/Vabows_backup_auto-20260424233231.fwl (47)
+worlds/Vabows_backup_auto-20260424233231.db (16557162)
+characters/vknight_backup_auto-20260502095040.fch (50308)
+worlds/Vabows_backup_auto-20260502095040.fwl (61)
+worlds/Vabows_backup_auto-20260502095040.db (17257048)
+worlds/Vabows_backup_auto-20260502122501.fwl (61)
+worlds/Vabows_backup_auto-20260502122501.db (17287825)
+05/02/2026 12:40:22: Initializing preferences provider...
+05/02/2026 12:40:22: No preference provider available for this platform!
+05/02/2026 12:40:22: Set background loading budget to Low
+05/02/2026 12:40:22: Loading first scene!
+05/02/2026 12:40:22: Preferences initialized! Activating first scene!
+Unloading 4 Unused Serialized files (Serialized files now loaded: 8)
+UnloadTime: 0.055300 ms
+05/02/2026 12:40:22: 
+05/02/2026 12:40:23: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+05/02/2026 12:40:23: Set background loading budget to Normal
+05/02/2026 12:40:23: Loaded localization file #0 - 'localization' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #1 - 'localization_extra' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #2 - 'heightmap_message' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #3 - 'localization_witch' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #5 - 'localization_captions' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #0 - 'localization' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #1 - 'localization_extra' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #2 - 'heightmap_message' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #3 - 'localization_witch' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #4 - 'localization_ashlands' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #5 - 'localization_captions' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #6 - 'localization_combatupdate' language: 'English'
+05/02/2026 12:40:23: Loaded localization file #7 - 'localization_celebrationupdate' language: 'English'
+Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 2460.
+Total: 2.191000 ms (FindLiveObjects: 0.126700 ms CreateObjectMapping: 0.114300 ms MarkObjects: 1.836200 ms  DeleteObjects: 0.113600 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 3 Unused Serialized files (Serialized files now loaded: 20)
+05/02/2026 12:40:27: Set background loading budget to High
+05/02/2026 12:40:27: GPU Device: 10DE:2507 (NVIDIA)
+05/02/2026 12:40:27: Set background loading budget to Low
+UnloadTime: 8.886300 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+05/02/2026 12:40:27: Missing audio clip in music respawn
+05/02/2026 12:40:27: Steam initialized, persona:v1centt-
+05/02/2026 12:40:27: Valheim version: 0.221.12 (network version 36)
+05/02/2026 12:40:27: Worldgenerator version setup:2
+05/02/2026 12:40:27: Render threading mode:LegacyJobified
+05/02/2026 12:40:27: Checking for installed DLCs
+05/02/2026 12:40:27: DLC:beta installed:False
+05/02/2026 12:40:27: Builder started
+05/02/2026 12:40:28: Sending PlayFab login request (attempt 1)
+05/02/2026 12:40:28: Starting music menu
+Unloading 93737 unused Assets to reduce memory usage. Loaded Objects now: 209242.
+Total: 124.126800 ms (FindLiveObjects: 16.828200 ms CreateObjectMapping: 29.571700 ms MarkObjects: 47.995700 ms  DeleteObjects: 29.730900 ms)
+
+05/02/2026 12:40:28: Session auth respons callback
+05/02/2026 12:40:29: Logged in PlayFab user via Steam auth session ticket
+05/02/2026 12:40:29: PlayFab local entity ID is 40EABB142B43AAA3
+05/02/2026 12:40:29: Released session ticket
+05/02/2026 12:40:31: show character selection
+05/02/2026 12:40:34: OnCharacterStart
+05/02/2026 12:40:43: Loading main scene
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 3 Unused Serialized files (Serialized files now loaded: 21)
+UnloadTime: 13.693200 ms
+05/02/2026 12:40:43: Audioman already exist, destroying self
+05/02/2026 12:40:43: Steam initialized, persona:v1centt-
+05/02/2026 12:40:43: Loading player profile vknight
+05/02/2026 12:40:43: isModded: False
+05/02/2026 12:40:43: Zonesystem Awake 1175
+05/02/2026 12:40:43: DungeonDB Awake 1175
+05/02/2026 12:40:43: Steam initialized, persona:v1centt-
+05/02/2026 12:40:43: Worldgenerator version setup:1
+05/02/2026 12:40:46: Checking for installed DLCs
+05/02/2026 12:40:46: DLC:beta installed:False
+Unloading 374 unused Assets to reduce memory usage. Loaded Objects now: 207653.
+Total: 113.524000 ms (FindLiveObjects: 12.017500 ms CreateObjectMapping: 16.360400 ms MarkObjects: 84.573800 ms  DeleteObjects: 0.572000 ms)
+
+05/02/2026 12:40:46: Zonesystem Start 1175
+05/02/2026 12:40:46: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+05/02/2026 12:40:46: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+05/02/2026 12:40:46: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+05/02/2026 12:40:46: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+05/02/2026 12:40:46: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+05/02/2026 12:40:46: DungeonDB Start 1175
+05/02/2026 12:40:46: ZRpc timeout set to 30s 
+05/02/2026 12:40:46: ZNET START
+05/02/2026 12:40:46: Load world: Vabows (Vabows)
+05/02/2026 12:40:46: Loading 379947 zdos, my sessionID: 1754690006, data version: 37
+05/02/2026 12:40:46: Loading in ZDOs
+05/02/2026 12:40:46: Adding to Dictionary
+05/02/2026 12:40:46: Adding to Sectors
+05/02/2026 12:40:46: Connecting Portals, Spawners & ZSyncTransforms
+ConnectPortals => Connected 9 portals.
+ConnectSpawners => Connected 197 spawners and 531 'done' spawners.
+05/02/2026 12:40:47: Loaded 11188 locations
+05/02/2026 12:40:47: Unloading unused assets
+Unloading 1 Unused Serialized files (Serialized files now loaded: 21)
+05/02/2026 12:40:47: Registering lobby
+05/02/2026 12:40:47: Opened Steam server
+05/02/2026 12:40:47: Starting respawn
+05/02/2026 12:40:47: Loading minimap textures done [307ms]
+05/02/2026 12:40:47: Minimap: unpacking compressed mapData 18855 => 8394072 bytes
+05/02/2026 12:40:47: tip:$loadscreen_tip08
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 207720.
+Total: 145.643800 ms (FindLiveObjects: 11.075900 ms CreateObjectMapping: 15.256600 ms MarkObjects: 118.866300 ms  DeleteObjects: 0.444400 ms)
+
+05/02/2026 12:40:47: Lobby was created k_EResultOK  109775243736927672  error:False
+05/02/2026 12:40:47: Got requested lobby data
+05/02/2026 12:40:48: Got requested lobby data
+05/02/2026 12:40:52: Loading dungeon
+05/02/2026 12:40:52: Dungeon loaded with 36 rooms in 1,5178 ms.
+05/02/2026 12:40:52: Loading room prefabs asynchronously
+05/02/2026 12:40:52: Spawning dungeon
+05/02/2026 12:40:55: Spawned after 8,019993
+05/02/2026 12:40:55: Character ID for player ([Vknight, 0:0], [v1centt-, 0:0], v1centt-) was 0:0. Skipping.
+05/02/2026 12:40:55: Skipping unloading unused assets
+05/02/2026 12:40:55: Minimap: Adding unique location (-66.30, 36.95, 2.75)
+05/02/2026 12:40:55: Minimap: Adding unique location (-1852.08, 33.51, -2414.83)
+05/02/2026 12:40:58: Starting music meadows
+05/02/2026 12:40:58: Resumed music meadows at 0
+05/02/2026 12:41:03: Player 1754690006 wants to open piece_chest_blackmetal(Clone)   im: 1754690006
+05/02/2026 12:41:03: Setting selected recipe 0
+05/02/2026 12:41:16: Setting selected recipe 0
+05/02/2026 12:41:17: Setting selected recipe 0
+05/02/2026 12:41:18: Setting selected recipe 0
+05/02/2026 12:41:18: Setting selected recipe 0
+05/02/2026 12:41:35: Poison damage: 44,25637 ttl:7,652546 hits:7 dmg perhit:6,322339
+05/02/2026 12:41:54: Setting selected recipe 8
+05/02/2026 12:42:03: Stopped music meadows at 2883551
+05/02/2026 12:42:03: Starting music home
+05/02/2026 12:42:03: Resumed music home at 0
+05/02/2026 12:42:04: Setting selected recipe 0
+05/02/2026 12:42:11: Player 1754690006 wants to open piece_chest(Clone)   im: 1754690006
+05/02/2026 12:42:11: Setting selected recipe 0
+05/02/2026 12:42:20: Item is not in this container
+05/02/2026 12:42:20: Setting selected recipe 0
+05/02/2026 12:42:28: Setting selected recipe 0
+05/02/2026 12:42:30: Player 1754690006 wants to open piece_chest(Clone)   im: 1754690006
+05/02/2026 12:42:30: Setting selected recipe 0
+05/02/2026 12:42:38: Stopped music home at 1522214
+05/02/2026 12:42:38: Starting music meadows
+05/02/2026 12:42:38: Resumed music meadows at 2883551
+05/02/2026 12:42:40: Player 1754690006 wants to open piece_chest(Clone)   im: 1754690006
+05/02/2026 12:42:40: Setting selected recipe 0
+05/02/2026 12:42:41: Stopped music meadows at 155231
+05/02/2026 12:42:41: Starting music home
+05/02/2026 12:42:41: Resumed music home at 1522214
+05/02/2026 12:42:49: Stopped music home at 350918
+05/02/2026 12:42:49: Starting music meadows
+05/02/2026 12:42:49: Resumed music meadows at 155231
+05/02/2026 12:42:58: hit mine rock 72
+05/02/2026 12:42:58: Poison damage: 49,8564 ttl:8,060905 hits:8 dmg perhit:6,232049
+05/02/2026 12:42:58: Poison damage: 49,8564 ttl:8,060905 hits:8 dmg perhit:6,232049
+05/02/2026 12:42:58: Player 1754690006 wants to open piece_chest_barrel(Clone)   im: 1754690006
+05/02/2026 12:42:58: Setting selected recipe 0
+05/02/2026 12:42:59: Player 1754690006 wants to open piece_chest_blackmetal(Clone)   im: 1754690006
+05/02/2026 12:42:59: Setting selected recipe 0
+05/02/2026 12:43:02: Player 1754690006 wants to open piece_chest_blackmetal(Clone)   im: 1754690006
+05/02/2026 12:43:02: Setting selected recipe 0
+05/02/2026 12:43:04: Player 1754690006 wants to open piece_chest_blackmetal(Clone)   im: 1754690006
+05/02/2026 12:43:04: Setting selected recipe 0
+05/02/2026 12:43:11: hit mine rock 72
+05/02/2026 12:43:11: Poison damage: 52,2636 ttl:8,229357 hits:8 dmg perhit:6,53295
+05/02/2026 12:43:11: Poison damage: 52,2636 ttl:8,229357 hits:8 dmg perhit:6,53295
+05/02/2026 12:43:15: hit mine rock 117
+05/02/2026 12:43:15: Poison damage: 53,66301 ttl:8,325504 hits:8 dmg perhit:6,707877
+05/02/2026 12:43:15: Poison damage: 53,66301 ttl:8,325504 hits:8 dmg perhit:6,707877
+05/02/2026 12:43:36: Stopped music meadows at 2067878
+05/02/2026 12:43:36: Starting music home
+05/02/2026 12:43:36: Resumed music home at 350918
+05/02/2026 12:44:39: Stopped music home at 2761247
+05/02/2026 12:44:39: Starting music meadows
+05/02/2026 12:44:39: Resumed music meadows at 2067878
+05/02/2026 12:44:39: Player 1754690006 wants to open container   im: 1754690006
+05/02/2026 12:44:39: Setting selected recipe 0
+05/02/2026 12:45:02: Player 1754690006 wants to open piece_chest_wood(Clone)   im: 1754690006
+05/02/2026 12:45:02: Setting selected recipe 0
+05/02/2026 12:45:03: Stopped music meadows at 1048991
+05/02/2026 12:45:03: Starting music blackforest
+05/02/2026 12:45:03: Resumed music blackforest at 0
+05/02/2026 12:45:03: Player 1754690006 wants to open piece_chest_wood(Clone)   im: 1754690006
+05/02/2026 12:45:03: Setting selected recipe 0
+05/02/2026 12:45:04: Player 1754690006 wants to open piece_chest_wood(Clone)   im: 1754690006
+05/02/2026 12:45:04: Setting selected recipe 0
+05/02/2026 12:45:05: Player 1754690006 wants to open piece_chest(Clone)   im: 1754690006
+05/02/2026 12:45:05: Setting selected recipe 0
+05/02/2026 12:45:15: Stopped music blackforest at 541900
+05/02/2026 12:45:15: Starting music meadows
+05/02/2026 12:45:15: Resumed music meadows at 1048991
+05/02/2026 12:46:01: Disabling PlayerBase  character_trigger
+05/02/2026 12:46:03: Placed wood_stack
+05/02/2026 12:46:06: Placed wood_fine_stack
+05/02/2026 12:46:09: Placed wood_core_stack
+05/02/2026 12:46:11: Placed wood_yggdrasil_stack
+05/02/2026 12:46:14: Placed blackwood_stack
+05/02/2026 12:46:16: Placed stone_pile
+05/02/2026 12:46:19: Placed coal_pile
+05/02/2026 12:46:23: Placed blackmarble_pile
+05/02/2026 12:46:26: Placed grausten_pile
+05/02/2026 12:46:31: Placed skull_pile
+05/02/2026 12:46:56: Placed BatteringRam
+05/02/2026 12:46:58: Spawned Greydwarf x 1
+05/02/2026 12:47:07: Poison damage: 43,91917 ttl:7,627154 hits:7 dmg perhit:6,274167
+05/02/2026 12:47:09: Poison damage: 39,70035 ttl:7,300821 hits:7 dmg perhit:5,671478
+05/02/2026 12:47:10: Poison damage: 44,93578 ttl:7,703415 hits:7 dmg perhit:6,419396
+05/02/2026 12:47:11: Poison damage: 40,70873 ttl:7,38034 hits:7 dmg perhit:5,815533
+05/02/2026 12:47:12: Poison damage: 40,80614 ttl:7,387968 hits:7 dmg perhit:5,829448
+05/02/2026 12:47:15: hit mine rock 4
+05/02/2026 12:47:15: Poison damage: 102,9332 ttl:11,1456 hits:11 dmg perhit:9,35756
+05/02/2026 12:47:24: hit mine rock 4
+05/02/2026 12:47:24: Poison damage: 100,0103 ttl:11,00052 hits:11 dmg perhit:9,091846
+05/02/2026 12:47:28: hit mine rock 117
+05/02/2026 12:47:28: Poison damage: 102,0402 ttl:11,1015 hits:11 dmg perhit:9,276382
+05/02/2026 12:47:29: Update PlayFab entity token
+05/02/2026 12:47:30: Poison damage: 88,84771 ttl:10,42591 hits:10 dmg perhit:8,884771
+05/02/2026 12:47:32: Poison damage: 86,03546 ttl:10,27553 hits:10 dmg perhit:8,603546
+05/02/2026 12:47:34: Poison damage: 86,25199 ttl:10,2872 hits:10 dmg perhit:8,625199
+05/02/2026 12:47:35: Poison damage: 89,85414 ttl:10,47914 hits:10 dmg perhit:8,985415
+05/02/2026 12:47:36: Poison damage: 88,07494 ttl:10,38482 hits:10 dmg perhit:8,807494
+05/02/2026 12:47:38: Placed mud_road_v2
+05/02/2026 12:47:38: hit mine rock 101
+05/02/2026 12:47:38: Poison damage: 86,97743 ttl:10,32617 hits:10 dmg perhit:8,697743
+05/02/2026 12:47:40: Placed mud_road_v2
+05/02/2026 12:47:40: Placed mud_road_v2
+05/02/2026 12:47:41: Poison damage: 83,85158 ttl:10,15705 hits:10 dmg perhit:8,385158
+05/02/2026 12:47:41: Placed mud_road_v2
+05/02/2026 12:47:42: Placed mud_road_v2
+05/02/2026 12:47:43: Placed mud_road_v2
+05/02/2026 12:47:43: Poison damage: 79,10594 ttl:9,894152 hits:9 dmg perhit:8,789549
+05/02/2026 12:47:44: Poison damage: 87,36578 ttl:10,34697 hits:10 dmg perhit:8,736578
+05/02/2026 12:47:45: Placed mud_road_v2
+05/02/2026 12:47:46: Placed mud_road_v2
+05/02/2026 12:47:47: Placed mud_road_v2
+05/02/2026 12:47:48: Poison damage: 86,54031 ttl:10,3027 hits:10 dmg perhit:8,654031
+05/02/2026 12:47:48: Placed mud_road_v2
+05/02/2026 12:47:48: Poison damage: 87,39223 ttl:10,34838 hits:10 dmg perhit:8,739223
+05/02/2026 12:47:53: Poison damage: 82,80709 ttl:10,09984 hits:10 dmg perhit:8,280709
+05/02/2026 12:47:55: Poison damage: 86,53982 ttl:10,30268 hits:10 dmg perhit:8,653982
+05/02/2026 12:47:57: Poison damage: 80,84499 ttl:9,991384 hits:9 dmg perhit:8,982777
+05/02/2026 12:48:00: Stopped music meadows at 7301548
+05/02/2026 12:48:00: Starting music meadows
+05/02/2026 12:48:00: Resumed music meadows at 7301548
+05/02/2026 12:48:01: Poison damage: 88,25175 ttl:10,39424 hits:10 dmg perhit:8,825174
+05/02/2026 12:48:02: Poison damage: 80,33484 ttl:9,962971 hits:9 dmg perhit:8,926093
+05/02/2026 12:48:03: Poison damage: 80,07883 ttl:9,948677 hits:9 dmg perhit:8,897648
+05/02/2026 12:48:05: Stopped music meadows at 184396
+05/02/2026 12:48:05: Starting music blackforest
+05/02/2026 12:48:05: Resumed music blackforest at 541900
+05/02/2026 12:48:21: Stopped music blackforest at 701836
+05/02/2026 12:48:21: Starting music meadows
+05/02/2026 12:48:21: Resumed music meadows at 184396
+05/02/2026 12:48:25: Activating default element Continue
+05/02/2026 12:48:43: Stopped music meadows at 1005715
+05/02/2026 12:48:43: Starting music blackforest
+05/02/2026 12:48:43: Resumed music blackforest at 701836
+05/02/2026 12:48:52: Stopped music blackforest at 361267
+05/02/2026 12:48:52: Starting music blackforest
+05/02/2026 12:48:52: Resumed music blackforest at 361267
+05/02/2026 12:49:18: Stopped music blackforest at 1149657
+05/02/2026 12:49:18: Starting music blackforest
+05/02/2026 12:49:18: Resumed music blackforest at 1149657
+05/02/2026 12:49:25: Spawned Deer x 3
+05/02/2026 12:49:25: Spawned Seagal x 1
+05/02/2026 12:49:25: Spawned Greydwarf x 1
+05/02/2026 12:50:15: Queue unlock msg:$msg_newmaterial:$item_flametal
+05/02/2026 12:50:15: Queue unlock msg:$msg_newpiece:$piece_cauldron_ext6_rollingpins
+05/02/2026 12:50:15: Queue unlock msg:$msg_newpiece:$tool_batteringram
+05/02/2026 12:50:15: Queue unlock msg:$msg_newpiece:$piece_ashwood_door
+05/02/2026 12:50:30: Starting music evening
+05/02/2026 12:50:31: Stopped music blackforest at 3206246
+05/02/2026 12:50:44: Spawned FireFlies x 1
+05/02/2026 12:50:57: Disabling PlayerBase  character_trigger
+05/02/2026 12:51:01: Placed guard_stone
+05/02/2026 12:51:01: Disabling PlayerBase  character_trigger
+05/02/2026 12:51:01: Disabling PlayerBase  character_trigger
+05/02/2026 12:51:01: Disabling PlayerBase  character_trigger
+05/02/2026 12:51:05: Spawned FireFlies x 1
+05/02/2026 12:51:24: Spawned Greydwarf x 3
+05/02/2026 12:51:26: Spawned FireFlies x 1
+05/02/2026 12:51:46: Disabling PlayerBase  character_trigger
+05/02/2026 12:51:46: Disabling PlayerBase  character_trigger
+05/02/2026 12:51:49: Starting music blackforest
+05/02/2026 12:51:50: Resumed music blackforest at 3206246
+05/02/2026 12:51:54: Stopped music blackforest at 177811
+05/02/2026 12:52:00: Starting music blackforest
+05/02/2026 12:52:00: Resumed music blackforest at 177811
+05/02/2026 12:52:05: Placed piece_shieldgenerator
+05/02/2026 12:52:05: Disabling PlayerBase  character_trigger
+05/02/2026 12:52:05: Disabling PlayerBase  character_trigger
+05/02/2026 12:52:05: Disabling PlayerBase  character_trigger
+05/02/2026 12:52:05: Disabling PlayerBase  character_trigger
+05/02/2026 12:52:05: Disabling PlayerBase  character_trigger
+05/02/2026 12:52:05: Disabling PlayerBase  character_trigger
+05/02/2026 12:52:07: Activating default element Continue
+05/02/2026 12:52:17: Disabling PlayerBase  character_trigger
+05/02/2026 12:52:17: Disabling PlayerBase  character_trigger
+05/02/2026 12:52:22: Disabling PlayerBase  character_trigger
+05/02/2026 12:52:22: Disabling PlayerBase  character_trigger
+05/02/2026 12:52:25: Placed bone_stack
+05/02/2026 12:52:28: Stopped music blackforest at 1271961
+05/02/2026 12:52:29: Spawned FireFlies x 1
+05/02/2026 12:52:31: Starting music blackforest
+05/02/2026 12:52:31: Resumed music blackforest at 1271961
+05/02/2026 12:52:57: Spawned Greydwarf_Shaman x 1
+05/02/2026 12:52:58: Spawned Seagal x 1
+05/02/2026 12:52:58: Spawned Greydwarf x 2
+05/02/2026 12:52:58: Spawned Greydwarf_Shaman x 1
+05/02/2026 12:52:58: Spawned FireFlies x 1
+05/02/2026 12:53:05: Stopped music blackforest at 1508102
+05/02/2026 12:53:05: Starting music blackforest
+05/02/2026 12:53:05: Resumed music blackforest at 1508102
+05/02/2026 12:53:09: Queue unlock msg:$msg_newmaterial:$item_shieldcore
+05/02/2026 12:53:09: Queue unlock msg:$msg_newpiece:$piece_shieldgenerator
+05/02/2026 12:53:11: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:11: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:11: Spawned Greydwarf_Elite x 1
+05/02/2026 12:53:16: Placed piece_shieldgenerator
+05/02/2026 12:53:16: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:16: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:16: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:16: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:16: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:16: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:18: Activating default element Continue
+05/02/2026 12:53:26: Stopped music blackforest at 900345
+05/02/2026 12:53:26: Starting music blackforest
+05/02/2026 12:53:26: Resumed music blackforest at 900345
+05/02/2026 12:53:26: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:26: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:27: Placed piece_shieldgenerator
+05/02/2026 12:53:27: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:27: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:27: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:27: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:27: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:27: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:34: Stopped music blackforest at 354681
+05/02/2026 12:53:34: Starting music blackforest
+05/02/2026 12:53:34: Resumed music blackforest at 354681
+05/02/2026 12:53:37: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:37: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:41: Placed piece_shieldgenerator
+05/02/2026 12:53:41: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:41: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:41: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:41: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:41: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:41: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:45: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:45: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:54: Spawned FireFlies x 1
+05/02/2026 12:53:55: Placed piece_shieldgenerator
+05/02/2026 12:53:55: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:55: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:55: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:55: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:55: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:55: Disabling PlayerBase  character_trigger
+05/02/2026 12:53:57: Activating default element Continue
+05/02/2026 12:54:03: Spawned FireFlies x 1
+05/02/2026 12:54:08: Spawned Skeleton x 1
+05/02/2026 12:54:14: Stopped music blackforest at 1796927
+05/02/2026 12:54:14: Starting music blackforest
+05/02/2026 12:54:14: Resumed music blackforest at 1796927
+05/02/2026 12:54:18: Activating default element Continue
+05/02/2026 12:54:19: Game - OnApplicationQuit
+05/02/2026 12:54:19: Available space to current user: 255688925184. Saving is blocked if below: 34681158 bytes. Warnings are given if below: 69362316
+05/02/2026 12:54:19: Shutting down
+05/02/2026 12:54:19: Minimap: compressed mapData 8394072 => 18855 bytes
+05/02/2026 12:54:19: Cloud Save: 52113 bytes. /characters/vknight.fch.new
+Steam writing file chunks 1 / 1, (52113 bytes)
+Steam writing file chunks 1 / 1, (51952 bytes)
+Steam writing file chunks 1 / 1, (52113 bytes)
+05/02/2026 12:54:19: Considering autobackup. World time: 808,4997, short time: 7200, long time: 43200, backup count: 4
+05/02/2026 12:54:19: Skipping backup. World session not long enough.
+05/02/2026 12:54:19: ZNet Shutdown
+05/02/2026 12:54:19: PrepareSave: clone done in 31ms
+05/02/2026 12:54:19: PrepareSave: ZDOExtraData.PrepareSave done in 83 ms
+05/02/2026 12:54:19: World save writing starting
+05/02/2026 12:54:19: World save writing started
+05/02/2026 12:54:20: Saved 379978 ZDOs
+05/02/2026 12:54:20: World save writing finishing
+05/02/2026 12:54:20: Cloud Save: 17291809 bytes. /worlds/Vabows.db
+Steam writing file chunks 1 / 1, (17291809 bytes)
+05/02/2026 12:54:20: World save writing finished
+05/02/2026 12:54:20: Cloud Save: 61 bytes. /worlds/Vabows.fwl
+Steam writing file chunks 1 / 1, (61 bytes)
+05/02/2026 12:54:21: World saved ( 1026,0995ms )
+05/02/2026 12:54:21: Considering autobackup. World time: 808,4997, short time: 7200, long time: 43200, backup count: 4
+05/02/2026 12:54:21: Skipping backup. World session not long enough.
+05/02/2026 12:54:21: Unloading unused assets
+Unloading 3 Unused Serialized files (Serialized files now loaded: 67)
+05/02/2026 12:54:21: Sending disconnect msg
+ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+05/02/2026 12:54:21: Disposing socket
+05/02/2026 12:54:21: Stopping listening socket
+05/02/2026 12:54:21: Last socket, unregistering callback
+05/02/2026 12:54:21: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+05/02/2026 12:54:21: Stopping build thread
+Unloading 1104 unused Assets to reduce memory usage. Loaded Objects now: 567530.
+Total: 190.993800 ms (FindLiveObjects: 44.690800 ms CreateObjectMapping: 22.359500 ms MarkObjects: 120.184000 ms  DeleteObjects: 3.759100 ms)
+
+05/02/2026 12:54:23: Steam manager on destroy
+05/02/2026 12:54:23: ZNet OnDestroy
+05/02/2026 12:54:24: Net scene destroyed
+05/02/2026 12:54:24: Local player destroyed
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
+GarbageCollector disposing of ComputeBuffer. Please use ComputeBuffer.Release() or .Dispose() to manually release the buffer.
